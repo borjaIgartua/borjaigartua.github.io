@@ -1,3 +1,18 @@
+GIT
+  remote: https://github.com/mmistakes/minimal-mistakes.git
+  revision: afd8cfd99e84c7de366eb4a75c990c1827a263b3
+  tag: 4.15.1
+  specs:
+    minimal-mistakes-jekyll (4.15.1)
+      jekyll (~> 3.7)
+      jekyll-data (~> 1.0)
+      jekyll-feed (~> 0.10)
+      jekyll-gist (~> 1.5)
+      jekyll-include-cache (~> 0.1)
+      jekyll-paginate (~> 1.1)
+      jekyll-sitemap (~> 1.2)
+      jemoji (~> 0.10)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -65,15 +80,6 @@ GEM
       ruby_dep (~> 1.2)
     mercenary (0.3.6)
     mini_portile2 (2.4.0)
-    minimal-mistakes-jekyll (4.15.1)
-      jekyll (~> 3.7)
-      jekyll-data (~> 1.0)
-      jekyll-feed (~> 0.10)
-      jekyll-gist (~> 1.5)
-      jekyll-include-cache (~> 0.1)
-      jekyll-paginate (~> 1.1)
-      jekyll-sitemap (~> 1.2)
-      jemoji (~> 0.10)
     minitest (5.11.3)
     multipart-post (2.0.0)
     nokogiri (1.10.1)
@@ -105,8 +111,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  jekyll (~> 3.8.5)
   jekyll-include-cache (~> 0.1.0)
-  minimal-mistakes-jekyll
+  minimal-mistakes-jekyll!
   tzinfo-data
 
 BUNDLED WITH

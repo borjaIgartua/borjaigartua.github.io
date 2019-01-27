@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "iOS"
+    url: /iOS
+  - title: "Trainer"
+    url: /trainer
+  - title: "Windows Phone"
+    url: /windows-phone
+  - title: "Projects"
+    url: /projects
+  - title: "About me"
+    url: /about
+  - title: "Contact"
+    url: /contact

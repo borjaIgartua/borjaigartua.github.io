@@ -1,4 +1,45 @@
 ---
-layout: home
-author_profile: true
+layout: splash
+header:
+  overlay_color: "#D8D8D8"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/mm-home-page-feature.jpg
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham"
+intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+
+
+gallery:    
+  - image_path: https://picsum.photos/120/80?image=43&blur
+  - image_path: https://picsum.photos/120/80?blur&random
+  - image_path: https://picsum.photos/120/80?image=15&blur
+read_more:
+  - description:
+    excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi iaculis dui enim, et aliquet erat tempus ut. Mauris rhoncus dui nec sapien volutpat, eu ultricies erat vehicula. Pellentesque risus ante, bibendum vitae eros vitae, porta mollis diam. Aenean sagittis nisl nulla, nec semper erat malesuada sed. In metus urna, convallis eget nunc in, euismod laoreet quam. Quisque at nibh hendrerit, consectetur odio eu, imperdiet enim. Sed tellus lectus, euismod at urna at, tempor maximus neque. Donec erat diam, sodales sed quam eget, aliquam finibus sapien. Maecenas aliquet nec nibh eu aliquet. Maecenas et egestas augue."
+    url: "#test-url"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_row2:
+  - image_path: https://picsum.photos/120/80?image=77&blur
+    title: "Project Name"
+    excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi iaculis dui enim, et aliquet erat tempus ut. Mauris rhoncus dui nec sapien volutpat, eu ultricies erat vehicula. Pellentesque risus ante, bibendum vitae eros vitae, porta mollis diam. Aenean sagittis nisl nulla, nec semper erat malesuada sed. In metus urna, convallis eget nunc in, euismod laoreet quam. Quisque at nibh hendrerit, consectetur odio eu, imperdiet enim. Sed tellus lectus, euismod at urna at, tempor maximus neque. Donec erat diam, sodales sed quam eget, aliquam finibus sapien. Maecenas aliquet nec nibh eu aliquet. Maecenas et egestas augue.'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_row3:
+  - image_path: https://picsum.photos/120/80?image=55&blur
+    title: "Project Name"
+    excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi iaculis dui enim, et aliquet erat tempus ut. Mauris rhoncus dui nec sapien volutpat, eu ultricies erat vehicula. Pellentesque risus ante, bibendum vitae eros vitae, porta mollis diam. Aenean sagittis nisl nulla, nec semper erat malesuada sed. In metus urna, convallis eget nunc in, euismod laoreet quam. Quisque at nibh hendrerit, consectetur odio eu, imperdiet enim. Sed tellus lectus, euismod at urna at, tempor maximus neque. Donec erat diam, sodales sed quam eget, aliquam finibus sapien. Maecenas aliquet nec nibh eu aliquet. Maecenas et egestas augue.'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
+
+{% include feature_row id="intro" type="center" %}
+<h1 class="archive__item-title">Project Name</h1>
+{% include gallery %}
+{% include feature_row id="read_more" type="center" %}
+{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row3" type="right" %}
