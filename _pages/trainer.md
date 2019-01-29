@@ -1,6 +1,9 @@
 ---
-layout: default
-permalink: /trainer
+title: trainer
+layout: collection
+permalink: /trainer/
+collection: trainer
+entries_layout: grid
+sort_by: date
+sort_order: forward
 ---
-
-<h1>trainer</h1>

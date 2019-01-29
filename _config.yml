@@ -285,3 +285,12 @@ collections:
   iOS:
     output: true
     permalink: /:collection/:name
+  trainer:
+    output: true
+    permalink: /:collection/:name
+  windows-phone:
+    output: true
+    permalink: /:collection/:name
+  pet-projects:
+    output: true
+    permalink: /projects/:name

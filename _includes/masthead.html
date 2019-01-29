@@ -11,7 +11,21 @@
         {% unless logo_path == empty %}
           <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt=""></a>
         {% endunless %}
-        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.masthead_title | default: site.title }}</a>
+
+        {% if site.author.avatar %}
+          <div class="nav_author_avatar">
+            {% if site.author.avatar contains "://" %}
+              {% assign author_src = site.author.avatar %}
+            {% else %}
+              {% assign author_src = site.author.avatar | relative_url %}
+            {% endif %}    
+            <a href="{{ '/' | relative_url }}">        
+              <img src="{{ author_src }}" itemprop="image">
+            </a>
+          </div>
+        {% endif %}
+
+        <!-- <a class="site-title" href="{{ '/' | relative_url }}">{{ site.masthead_title | default: site.title }}</a> -->
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
             {%- if link.url contains '://' -%}

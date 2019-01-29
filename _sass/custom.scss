@@ -18,3 +18,25 @@
         color: #0E4D92;
     }
 }
+
+.nav_author_avatar {
+    img {        
+        border-radius: 50%;
+        width: auto;
+        max-width: 50px;
+        
+        @include breakpoint($small) {
+            max-width: 50px;
+        }
+
+        @include breakpoint($medium) {
+            max-width: 70px;
+        }
+         
+        @include breakpoint($large) {
+            max-width: 100px;
+            padding: 5px;
+            border: 1px solid $border-color;
+        }
+      }
+}
