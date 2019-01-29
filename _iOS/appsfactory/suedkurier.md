@@ -1,4 +1,5 @@
 ---
+layout: default
 name: Südkurier
 position: Developer
 header:

@@ -6,3 +6,15 @@
 .remove_margin_bottom {
     margin-bottom: 0em !important; 
 }
+
+.custom-link {
+    color: #494e52;
+    text-decoration: none;
+    &:visited {
+        color: rgb(70, 37, 122);
+    }
+
+    &:hover {
+        color: #0E4D92;
+    }
+}
