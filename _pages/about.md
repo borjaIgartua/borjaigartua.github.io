@@ -9,6 +9,6 @@ education:
 ---
 <div id="main" role="main">
 {% include feature_row id="intro" type="center" %}
-
+{% include timeline/index.html %}
 </div>
 
