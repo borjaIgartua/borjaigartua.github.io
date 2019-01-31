@@ -8,7 +8,7 @@ education:
   - title: "Education"
 ---
 <div id="main" role="main">
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="center" class="remove_margin_bottom" %}
 {% include timeline/index.html %}
 </div>
 

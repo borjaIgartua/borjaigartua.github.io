@@ -4,6 +4,26 @@
 @import "timeline/layout";
 
 /* -------------------------------- 
+Primary style
+-------------------------------- */
+
+.main_timeline {
+	*, *::after, *::before {
+		box-sizing: border-box;
+	}
+	
+		font: {
+			size: 1.6rem;
+		}
+		color: $color-1;
+
+	a {
+		color: $color-2;
+		text-decoration: none;
+	}
+}
+
+/* -------------------------------- 
 
 Main Components 
 
@@ -11,7 +31,7 @@ Main Components
 
 .cd-horizontal-timeline {
 	opacity: 0;
-	margin: 2em auto;
+	margin: 0 auto;
 	@include transition(opacity .2s);
 
 	&::before {
@@ -51,12 +71,12 @@ Main Components
 
 		&::before {
 			left: 0;
-	    	// @include background-image(linear-gradient(to right,$color-4, rgba($color-4, 0)));
+	    	background-image: linear-gradient(to right,$background-color, rgba($background-color, 0));
 		}
 
 		&::after {
 			right: 0;
-			// @include background-image(linear-gradient(to left,$color-4, rgba($color-4, 0)));
+			background-image: linear-gradient(to left,$background-color, rgba($background-color, 0));
 		}
 	}
 
@@ -91,7 +111,6 @@ Main Components
 		bottom: 0;
 		z-index: 2;
 		text-align: center;
-		font-size: 1.3rem;
 		padding-bottom: 15px;
 		color: $color-1;
 		/* fix bug on Safari - text flickering while timeline translates */
@@ -128,10 +147,16 @@ Main Components
 		&.older-event::after {
 			border-color: $color-2;
 		}
+
+		font: {
+			size: 0.6rem;
+			family: $events-font;
+			
+		}
 	}
 
 	@include MQ(L) {
-		margin: 6em auto;
+		
 		
 		&::before {
 			/* never visible - this is used in jQuery to check the current MQ */
@@ -240,7 +265,7 @@ Main Components
 	h2 {
 		font-weight: bold;
 		font-size: 2.6rem;
-		font-family: $secondary-font;
+		/* font-family: $secondary-font;*/
 		font-weight: 700;
 		line-height: 1.2;
 	}
