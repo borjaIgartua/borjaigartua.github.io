@@ -270,26 +270,14 @@ Main Components
 		margin: 0 auto;
 	}
 
-	em {
+	a {
 		display: block;		
 		margin: 5px auto 10px auto;
 
 		font-family: $caption-font-family;
 		font-style: italic;
 		font-size: 0.8rem;
-
-		&::before {
-			content: '- ';
-		}
-	}
-
-	p {
-		font-size: 1.4rem;
-		color: shade($color-4, 40%);
-	}
-
-	em, p {
-		line-height: 1.6;
+		/*cursor: pointer;*/
 	}
 }
 

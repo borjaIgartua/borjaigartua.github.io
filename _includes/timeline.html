@@ -1,0 +1,60 @@
+<!-- source: https://codyhouse.co/demo/horizontal-timeline/index.html -->
+
+{% if include.id %}
+  {% assign timeline_comp = page[include.id] %}
+{% else %}
+  {% assign timeline_comp = page.timeline_comp %}
+{% endif %}
+
+<section class="main_timeline cd-horizontal-timeline">
+	<div class="main_timeline timeline">
+		<div class="main_timeline events-wrapper">
+			<div class="main_timeline events">
+				<ol class="main_timeline">
+					{% for t in timeline_comp %}
+						{% assign item = t.item %}
+						{% assign date = item.date | convert: "date" %}
+						{% assign fake_date = item.fake_date | convert: "date" %}
+						<li class="main_timeline"><a class="main_timeline"  data-date="{{ fake_date | date: "%d/%m/%Y" }}" class="main_timeline {% if forloop.first %} selected {% endif %}">{{ date | date: "%Y" }}</a></li>
+					{% endfor %}
+				</ol>
+
+				<span class="main_timeline filling-line" aria-hidden="true"></span>
+			</div> <!-- .events -->
+		</div> <!-- .events-wrapper -->
+			
+		<ul class="cd-timeline-navigation">
+			<li><a  class="main_timeline prev inactive">Prev</a></li>
+			<li><a  class="main_timeline next">Next</a></li>
+		</ul> <!-- .cd-timeline-navigation -->
+	</div> <!-- .timeline -->
+
+	<div class="main_timeline events-content">
+		<ol class="main_timeline">
+			{% for t in timeline_comp %}
+				{% assign item = t.item %}
+				{% assign date = item.date | convert: "date" %}
+				{% assign fake_date = item.fake_date | convert: "date" %}
+				<li class="main_timeline {% if forloop.first %} selected {% endif %}" data-date="{{ fake_date | date: "%d/%m/%Y" }}">
+					<h1 class="archive__item-title">{{ item.title }}</h1>
+					<a href=
+						{% if item.company_url contains "://" %}
+            				"{{ item.company_url }}"
+          				{% else %}
+            				"{{ item.company_url | relative_url }}"
+          				{% endif %}
+					>
+					{% assign format_url = item.company_url | remove:  "http://" %}
+					{% assign format_url = format_url | remove:  "https://" %}
+					{{ format_url }}</a>
+					<div class="archive__item-excerpt">
+						<p>{{ item.description }}</p>		  
+					</div>					
+				</li>
+			{% endfor %}
+		</ol>
+	</div> <!-- .events-content -->
+</section>
+	
+<script src="/assets/js/vendor/jquery/jquery-3.3.1.min.js"></script>
+<script src="/assets/js/timeline.js"></script>
