@@ -37,18 +37,42 @@
 				{% assign fake_date = item.fake_date | convert: "date" %}
 				<li class="main_timeline {% if forloop.first %} selected {% endif %}" data-date="{{ fake_date | date: "%d/%m/%Y" }}">
 					<h1 class="archive__item-title">{{ item.title }}</h1>
-					<a href=
-						{% if item.company_url contains "://" %}
-            				"{{ item.company_url }}"
-          				{% else %}
-            				"{{ item.company_url | relative_url }}"
-          				{% endif %}
-					>
-					{% assign format_url = item.company_url | remove:  "http://" %}
-					{% assign format_url = format_url | remove:  "https://" %}
-					{{ format_url }}</a>
+					<div class="events-detail" style="width: 100%; margin-top: 5px;">
+
+						{% if item.company_url %}
+						<div style="display: inline-block;">
+							<i class="fas fa-link" style="display: inline-block;"></i>
+							<a style="display: inline-block;" href=
+								{% if item.company_url contains "://" %}
+									"{{ item.company_url }}"
+								{% else %}
+									"{{ item.company_url | relative_url }}"
+								{% endif %}
+							>
+							{% assign format_url = item.company_url | remove:  "http://" %}
+							{% assign format_url = format_url | remove:  "https://" %}
+							{{ format_url }}</a>
+						</div>
+						{% endif %}
+
+						{% if item.duration %}
+						<div style="display: inline-block;">
+							<i class="far fa-clock" style="display: inline-block;"></i>
+							<span itemprop="name" style="display: inline-block;">{{ item.duration }}</span>
+						</div>
+						{% endif %}
+
+						{% if item.city %}
+						<div style="display: inline-block;">
+							<i class="fas fa-fw fa-map-marker-alt" style="display: inline-block;"></i>
+							{% assign location = item.city | append: ',  ' %}
+							<span itemprop="name" style="display: inline-block;">{{ location | append: item.country }}</span>
+						</div>
+						{% endif %}
+
+					</div>
 					<div class="archive__item-excerpt">
-						<p>{{ item.description }}</p>		  
+						<p>{{ item.description | markdownify }}</p>		  
 					</div>					
 				</li>
 			{% endfor %}

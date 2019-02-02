@@ -1,9 +1,6 @@
 ---
 layout: default
 permalink: /about
-intro:
-    - excerpt: Highly specialised in Mobile Development, gathering 6 years of experience. Always trying to keep on learning by exploring new technologies and code languages.
-
 timeline:
     - item:
         date: 2006-09-28
@@ -11,9 +8,10 @@ timeline:
         title: Pontifical University of Salamanca
         country: Spain
         city: Salamanca
+        duration: 5 años
         company_name: Universidad
         company_url: http://www.upsa.es
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+        description: Degree in Computer Science Engineering, specialization in Software Engineering.
     - item:
         date: 2011-08-01
         fake_date: 2006-02-01
@@ -22,7 +20,8 @@ timeline:
         city: Madrid
         company_name: CICE professional School for new Technologies ( Apple Certificate )
         company_url: http://www.cice.es
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+        duration: 80 horas
+        description: Desarrollo de pequeñas aplicaciones iOS con conocimientos sobre POO y Objective – C (lenguaje de programación indispensable en la creación de aplicaciones para IOS), siendo capaces de desarrollar planteamientos sencillos para el desarrollo de aplicaciones, tanto particularmente como en un equipo de trabajo.
     - item:
         date: 2011-09-30
         fake_date: 2006-03-01
@@ -31,7 +30,7 @@ timeline:
         city: Madrid
         company_name: Movilok
         company_url: http://www.movilok.com
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+        description: Developing projects for BBVA Mobile Banking Spain and USA for Windows Phone 7.   Working with a team o developers, Quality services and Front/End developers.
     - item:
         date: 2012-10-25
         fake_date: 2006-04-01
@@ -40,69 +39,77 @@ timeline:
         city: Madrid
         company_name: Movilok
         company_url: http://www.movilok.com
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+        description: Developing maps for Tweetmeter, iOS application that measures the impact of a tweet depending on the retweets within a range and the followers of the user who wrote the tweet. Working with a team of developers.
+    - item:
+        date: 2013-04-01
+        fake_date: 2006-05-01
+        title: Junior Mobile Developer
+        country: Spain
+        city: Madrid
+        company_name: Movilok
+        company_url: http://www.movilok.com
+        description: Developing Alerts and PopMoney functionality for BBVA Compass, American Mobile Banking application for iOS. Analysing the functionality and full development of the project. Working with a team of developers and Quality services.<br/><br/>Resolving bugs and adding features for BBVA Mobile Banking iOS application for Peru and Argentina. Working with a team of developers to resolve them.<br/><br/>Project management for Windows Phone, Windows Phone 7 updating and migration to Windows Phone 8.
     - item:
         date: 2013-06-15
-        fake_date: 2006-05-01
+        fake_date: 2006-06-01
         title: Senior iOS Developer
         country: Spain
         city: Madrid
         company_name: Movilok
         company_url: http://www.movilok.com
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+        description: Developing iOS pilot project, monitoring Nuance® voice control to BBVA Mobile Banking Spain. Completing project development, interviews carried out with the client and monitoring the project deadlines. Working with Nuance® team for the full integration of his SDK.<br/><br/>Resolving bugs for BBVA Wallet iOS, application to manage payments by card. Working with a team of developers to resolve them.
     - item:
         date: 2015-06-01
-        fake_date: 2006-06-01
+        fake_date: 2006-07-01
         title: Test Driven Development for iOS
         company_name: KeepCoding
         company_url: https://www.keepcoding.io
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.   
+        description: Desde que el TDD (Test-Driven Development) fue creado por Kent Beck, se ha extendido como la pólvora y goza de especial popularidad en estos momentos. Sin embargo, a menudo es mal aplicado y los equipos que lo implementan se ven aquejados de problemas comunes que terminan haciendo que se abandone:<br/><br/>• Se testa lo que no se debe.<br/>• Se diseñan mal los tests, de tal forma que un fallo tiene varias posibles causas.<br/>• Los tests tardan mucho en ejecutarse, haciendo que muchos desarrolladores se los salten.<br/>• Se intenta testarlo todo, en vez de aquello que hace falta.<br/>• No se sabe aplicar a las peculiaridades de iOS, Cocoa y Objective C.<br/><br/>La totalidad de estos errores se debe a que muchos equipos de desarrollo aprenden el “cómo” del TDD pero no el “por qué”. Solo existe una forma de modificar hábitos; practicando los nuevos. Por eso este curso, que ha sido impartido con éxito en varias empresas de Europa y LATAM, es fundamentalmente práctico y se basa en el desarrollo de una App real para iPhone.
     - item:
         date: 2015-03-10
-        fake_date: 2006-07-01
+        fake_date: 2006-08-01
         title: Senior iOS Developer
         country: Spain
         city: Madrid
         company_name: Movilok
         company_url: http://www.movilok.com
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+        description: Resolving bugs for BBVA Net Cash, iOS mobile banking for enterprises. Working with a team of developers to solve them.<br/><br/>Project manager of BBVA Link for Chile and México. Head of the team for iOS and Android, and developing the iOS application. Working in a team with other mobile developers, Quality services, and Front/End developers. Budget, planning and sales skills because of intense clients contact everyday.
     - item:
         date: 2016-05-01
-        fake_date: 2006-08-01
+        fake_date: 2006-09-01
         title: iOS 9 and swift 2. Learning making 15 real apps
         company_name: Udemy
         company_url: http://www.udemy.com
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+        description: Crearás hasta 15 Apps profesionales, divertidas y relevantes que te permitirán poner en práctica todos los conocimientos adquiridos a lo largo del curso y formar un portafolio sólido para comenzar tu carrera en desarrollo mobile.<br/>Aprenderás desarrollando. Está diseñado de manera tal que conocerás nuevos conceptos y podrás aplicarlos en un desarrollo real a tu propio ritmo y practicando inmediatamente.
     - item:
         date: 2016-05-15
-        fake_date: 2006-09-01
+        fake_date: 2006-10-01
         title: Lead iOS Developer
         country: Spain
         city: Madrid
         company_name: Revival
         company_url: http://www.revivalapp.com
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+        description: iOS Developer of Revival, iOS application. Working with a team of QA, back-end developer and designer in the team.
     - item:
         date: 2017-03-01
-        fake_date: 2006-10-01
+        fake_date: 2006-11-01
         title: IT Trainer
         country: Spain
         city: Madrid
         company_name: Pronoide
         company_url: http://www.pronoide.es
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+        description: 'IT Trainer of:<br/><br/>• **Mobile Development:** iOS, Android and Xamarin (359 hours).<br/>• **Big Data:** Hadoop and ElasticSearch (56 hours).<br/>• **Front End:** HTML5, CSS3, Javascript, Angular2, NodeJS, React, Polymer (146 hours).<br/>• **Testing tools:** Selenium, SoapUI, Spock, Geb, BDD, Cucumber (108 hours).<br/>• **Other tools and languages:** Java, C++, Groovy (86 hours).'
     - item:
         date: 2018-01-01
-        fake_date: 2006-11-01
+        fake_date: 2006-12-01
         title: iOS Developer
         country: Germany
         city: Leipzig
         company_name: Apps factory
         company_url: http://www.appsfactory.de
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+        description: Suban estrujen empujen bajen.
 ---
 <div id="main" role="main">
-{% include feature_row id="intro" type="center" class="remove_margin_bottom" %}
 {% include timeline.html id="timeline" %}
 </div>
 

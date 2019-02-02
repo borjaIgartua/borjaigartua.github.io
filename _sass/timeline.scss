@@ -272,12 +272,27 @@ Main Components
 
 	a {
 		display: block;		
-		margin: 5px auto 10px auto;
+		margin: 5px auto 10px auto;		
+	}
+}
 
-		font-family: $caption-font-family;
-		font-style: italic;
-		font-size: 0.8rem;
-		/*cursor: pointer;*/
+.events-detail {
+
+	.svg-inline--fa {
+		height: 0.6em;
+		vertical-align: baseline;
+	}
+
+	span {
+		font-size: 0.6rem;
+		font-family: $events-font;
+		margin-right: 20px;
+	}
+
+	a {
+		font-family: $events-font;
+		font-size: 0.6rem !important;
+		margin-right: 20px !important;
 	}
 }
 
