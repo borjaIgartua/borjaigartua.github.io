@@ -73,7 +73,7 @@
 					</div>
 					<div class="archive__item-excerpt">
 						<p>{{ item.description | markdownify }}</p>		  
-					</div>					
+					</div>
 				</li>
 			{% endfor %}
 		</ol>
