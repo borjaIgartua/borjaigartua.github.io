@@ -113,5 +113,6 @@ timeline:
 ---
 <div id="main" role="main">
 {% include timeline id="timeline" %}
+{% include accordion.html %}
 </div>
 
