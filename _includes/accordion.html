@@ -1,11 +1,11 @@
 <div class="accordion-content">	
-	<ul class="cd-accordion-menu animated">
+	<ul class="cd-accordion-menu has-children animated">
 		<li class="has-children">
 			<input type="checkbox" name ="group-1" id="group-1">
 			<label for="group-1">Group 1</label>
 
       		<ul>
-      			<li class="has-children">
+      			<li class="has-children has-parent">
       				<input type="checkbox" name ="sub-group-1" id="sub-group-1">
 					<label for="sub-group-1">Sub Group 1</label>
 
@@ -15,12 +15,12 @@
 						<li><a href="#0">Image</a></li>
 					</ul>
       			</li>
-      			<li class="has-children">
+      			<li class="has-children has-parent">
       				<input type="checkbox" name ="sub-group-2" id="sub-group-2">
 					<label for="sub-group-2">Sub Group 2</label>
 
 					<ul>
-						<li class="has-children">
+						<li class="has-children has-parent">
 							<input type="checkbox" name ="sub-group-level-3" id="sub-group-level-3">
 							<label for="sub-group-level-3">Sub Group Level 3</label>
 
@@ -37,7 +37,7 @@
       		</ul>
 		</li>
 
-		<!-- <li class="has-children">
+		 <li class="has-children">
 			<input type="checkbox" name ="group-2" id="group-2">
 			<label for="group-2">Group 2</label>
 
@@ -74,7 +74,7 @@
 				<li><a href="#0">Image</a></li>
 				<li><a href="#0">Image</a></li>
 			</ul>
-		</li> -->
+		</li>
 	</ul> <!-- cd-accordion-menu -->
 </div>
 <script src="/assets/js/vendor/jquery/jquery-3.3.1.min.js"></script>

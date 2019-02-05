@@ -9,18 +9,28 @@ Main Components
 
 -------------------------------- */
 
+.has-children {
+	background: #f9f9f9;
+	border: solid 1px #E8E9EB; 
+
+	&.has-parent {
+		border-left: 0px;
+		border-right: 0px;
+	}
+}
+
 .accordion-content {
 
     ul {
 		list-style: none;
-		padding-inline-start: 0 !important;
+		padding-inline-start: 0;
 	}
 }
-
+ 
 .cd-accordion-menu {
 	width: 100%;
 	margin: 0;
-	box-shadow: 0 4px 40px shade($color-2, 30%);
+	/*box-shadow: 0 4px 40px shade($color-2, 30%);*/
 
 	ul {
 		/* by default hide all sub menus */
@@ -44,10 +54,9 @@ Main Components
 	label, a {
 		position: relative;
 		display: block;
-		background: $color-1;
-		box-shadow: inset 0 -1px tint($color-1, 5%);
-		color: $color-3;
-		font-size: 1.6rem;
+		/*background: $color-1;*/
+		/*box-shadow: inset 0 -1px tint($color-1, 5%);*/
+		font-size: 0.8rem;
 		
 		margin-bottom: 0;
 
@@ -62,6 +71,13 @@ Main Components
 
 	label {
 		cursor: pointer;
+		font-family: $global-font-family;
+		font-size: 0.8rem;
+		text-overflow: ellipsis;
+		color: #494e52;
+		padding: $padding-medium;
+		line-height: initial;
+		font-weight: bold;
 	}
 
 	input[type=checkbox]:checked + label + ul,
@@ -73,18 +89,60 @@ Main Components
 
 	ul label,
 	ul a {
-		background: darken($color-1, 10%);
-		box-shadow: inset 0 -1px darken($color-1, 5%);
+		/*background: darken($color-1, 10%);*/
+		/*box-shadow: inset 0 -1px darken($color-1, 5%);*/
 
 		.no-touch &:hover {
 			background: darken($color-1, 7%);
 		}
 	}
 
+	/* Padding left */
+	ul label {
+		padding-left: $padding-medium * 2;
+	}
+	ul a {
+		padding-left: $padding-medium * 2;
+	}
+
+	ul ul label {
+		padding-left: $padding-medium * 3;
+	}
+	ul ul a {
+		padding-left: $padding-medium * 3;
+	}
+
+	ul ul ul label {
+		padding-left: $padding-medium * 4;
+	}
+	ul ul ul a {
+		padding-left: $padding-medium * 4;
+	}
+
+	ul ul ul ul label {
+		padding-left: $padding-medium * 5;
+	}
+	ul ul ul ul a {
+		padding-left: $padding-medium * 5;
+	}
+
+	ul ul ul ul ul label {
+		padding-left: $padding-medium * 6;
+	}
+	ul ul ul ul ul a {
+		padding-left: $padding-medium * 6;
+	}
+
+
+
+
+
+	/* *** */
+
 	@include breakpoint($medium) {
 		label, a {
 			/*padding: $item-padding-M $item-padding-M $item-padding-M ($item-padding-M * 3) + 10px;*/
-			font-size: 1.9rem;
+			font-size: 0.8rem;
 		}
 
 		
