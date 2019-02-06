@@ -1,8 +1,7 @@
 ---
-layout: default
-name: BBVA Next
+name: BBVA NetCash
 position: Developer
-date: 2011-09-01
+date: 2014-01-01
 header:
   teaser: https://picsum.photos/120/80?image=77&blur
 ---

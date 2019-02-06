@@ -1,8 +1,8 @@
 ---
 layout: default
-name: Mercedes me
+name: Mercedes Home Automation
 position: Developer
-date: 2018-10-01
+date: 2018-06-01
 header:
   teaser: https://picsum.photos/120/80?image=77&blur
   description: "ole ole ole que ole que bonito proyecto este"
