@@ -9,7 +9,7 @@ Main Components
 
 -------------------------------- */
 
-.has-children {
+/*.has-children {
 	background: #f9f9f9;
 	border: solid 1px #E8E9EB; 
 
@@ -17,13 +17,19 @@ Main Components
 		border-left: 0px;
 		border-right: 0px;
 	}
-}
+}*/
 
 .accordion-content {
 
     ul {
 		list-style: none;
 		padding-inline-start: 0;
+	}
+
+	.cd-accordion-menu {
+		.has-children.first-level {
+			margin-bottom: 3px;
+		}
 	}
 }
  
@@ -66,7 +72,8 @@ Main Components
     }
     
     a {
-        text-decoration: none;
+		text-decoration: none;
+		padding: $padding-medium;
     }
 
 	label {
@@ -78,6 +85,7 @@ Main Components
 		padding: $padding-medium;
 		line-height: initial;
 		font-weight: bold;
+		background: #f9f9f9;
 	}
 
 	input[type=checkbox]:checked + label + ul,
@@ -132,12 +140,9 @@ Main Components
 	ul ul ul ul ul a {
 		padding-left: $padding-medium * 6;
 	}
-
-
-
-
-
 	/* *** */
+
+
 
 	@include breakpoint($medium) {
 		label, a {

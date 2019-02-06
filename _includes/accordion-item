@@ -1,0 +1,18 @@
+{% assign group = item.item %}
+<li class="has-children first-level">
+    <input type="checkbox" name ="{{ group_name }}" id="{{ group_name }}">
+    <label for="{{ group_name }}">{{ group.name }}</label>
+    {% if group.haschildren %}
+		<ul>
+            {% for item in group.subitems %}
+                {% assign subgroup = item.item %}
+                {% if subgroup.haschildren %}
+                    {% assign group_name = 'sub-group-' | append: forloop.index %}                  
+                    {% include accordion-item item=item group_name=group_name %}
+				{% else %}
+					<li><a href="#0">{{ subgroup.name }}</a></li>
+				{% endif %}
+            {% endfor %}
+		</ul>
+	{% endif %}
+</li>

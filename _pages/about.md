@@ -110,6 +110,25 @@ timeline:
         company_name: Apps factory
         company_url: http://www.appsfactory.de
         description: Suban estrujen empujen bajen.
+
+accordion:
+    - item:
+        name: Título primero.
+        haschildren: true
+        subitems:
+            - item:
+                name: SubGroup
+                haschildren: true
+                subitems:
+                    - item:
+                        name: Manolo
+                        haschildren: false
+            - item:
+                name: Subitem
+                haschildren: false
+    - item:
+        name: Título segundo.
+        haschildren: true
 ---
 <div id="main" role="main">
 {% include timeline id="timeline" %}
