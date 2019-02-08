@@ -4,11 +4,11 @@ name: Mercedes Home Automation
 position: Developer
 date: 2018-06-01
 header:
-  teaser: https://picsum.photos/120/80?image=77&blur
+  teaser: /assets/images/home-automation-logo.jpg
   description: "ole ole ole que ole que bonito proyecto este"
 sidebar:
   - title: "Role"
-    image: https://picsum.photos/350/250?image=66&blur
+    image: /assets/images/home-automation-logo.jpg
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
