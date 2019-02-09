@@ -186,6 +186,12 @@ accordion:
             - item:
                 name: API de Detalles/Estadísticas
                 haschildren: false
+    - item:
+        name: Logstash
+        haschildren: true
+    - item:
+        name: Kibana
+        haschildren: true
 ---
 
 <div id="main" role="main">
@@ -198,7 +204,8 @@ accordion:
           <h1 id="page-title" class="page__title" itemprop="headline">{{ page.name }}</h1>
         </header>
         <section class="page__content" itemprop="text">
-          <p>El curso tiene como objetivo proporcionar una base sólida en la búsqueda y recuperación de información, a partir de los conceptos básicos fundamentales y componentes internos en todo las mejores prácticas, características y desarrollo de aplicaciones de búsqueda distribuida con Elasticsearch. Al final de la capacitación que tendrá una profunda comprensión de cómo funciona Elasticsearch, el alumno será capaz de analizar de forma fiable, comprender y resolver problemas comunes y estará listo para construir aplicaciones de búsqueda.</p>
+            <p>Elasticsearch is a distributed, RESTful search and analytics engine capable of solving a growing number of use cases. As the heart of the Elastic Stack, it centrally stores your data so you can discover the expected and uncover the unexpected.</p>
+            <p>El curso tiene como objetivo proporcionar una base sólida en la búsqueda y recuperación de información, a partir de los conceptos básicos fundamentales y componentes internos en todo las mejores prácticas, características y desarrollo de aplicaciones de búsqueda distribuida con Elasticsearch. Al final de la capacitación que tendrá una profunda comprensión de cómo funciona Elasticsearch, el alumno será capaz de analizar de forma fiable, comprender y resolver problemas comunes y estará listo para construir aplicaciones de búsqueda.</p>
 
           <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Temario</h3>     
           {% include accordion include_scripts=true %}
