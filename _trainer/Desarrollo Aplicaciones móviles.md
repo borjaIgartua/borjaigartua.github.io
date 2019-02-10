@@ -1,14 +1,14 @@
 ---
 layout: default
-name: 'Desarrollo Aplicaciones móviles III'
+name: 'Desarrollo Aplicaciones móviles III Edición'
 position: Trainer
 company: Telefónica Educación Digital
 date: 2016-04-01
 header:
-  teaser: https://picsum.photos/120/80?image=77&blur
+  teaser: /assets/images/telefonica-talentum-logo.jpg
 sidebar:
   - title: "Role"
-    image: https://picsum.photos/350/250?image=66&blur
+    image: /assets/images/telefonica-talentum-logo.jpg
     text: "Trainer"
   - title: "Responsibilities"
     text: "Profesor desarrollo de aplicaciones para dispositivos iOS y del Proyecto iOS & Android"

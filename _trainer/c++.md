@@ -6,10 +6,10 @@ company: Indra
 duration: 30 horas
 date: 2016-07-18
 header:
-  teaser: https://picsum.photos/120/80?image=77&blur
+  teaser: /assets/images/c-logo.jpg
 sidebar:
   - title: "Role"
-    image: https://picsum.photos/350/250?image=66&blur
+    image: /assets/images/c-logo.jpg
     text: "Trainer"
   - title: "Nivel"
     text: Básico

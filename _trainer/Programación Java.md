@@ -5,10 +5,10 @@ position: Trainer
 company: Telefónica Educación Digital
 date: 2016-09-19
 header:
-  teaser: https://picsum.photos/120/80?image=77&blur
+  teaser: /assets/images/java-logo.jpg
 sidebar:
   - title: "Role"
-    image: https://picsum.photos/350/250?image=66&blur
+    image: /assets/images/java-logo.jpg
     text: "Trainer"
 accordion:  
     - item:

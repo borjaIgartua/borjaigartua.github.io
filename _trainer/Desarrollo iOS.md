@@ -6,10 +6,10 @@ company: Sunion
 duration: 30 horas
 date: 2016-09-20
 header:
-  teaser: https://picsum.photos/120/80?image=77&blur
+  teaser: /assets/images/apple-logo.jpg
 sidebar:
   - title: "Role"
-    image: https://picsum.photos/350/250?image=66&blur
+    image: /assets/images/apple-logo.jpg
     text: "Trainer"
   - title: "Nivel"
     text: Avanzado

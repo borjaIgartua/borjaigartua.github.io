@@ -5,11 +5,11 @@ position: Trainer
 company: Panel
 duration: 16 horas
 date: 2016-10-24
-header:
-  teaser: https://picsum.photos/120/80?image=77&blur
+header: 
+  teaser: /assets/images/spock-geb-logo.jpg
 sidebar:
   - title: "Role"
-    image: https://picsum.photos/350/250?image=66&blur
+    image: /assets/images/spock-geb-logo.jpg
     text: "Trainer"
   - title: "Nivel"
     text: Avanzado

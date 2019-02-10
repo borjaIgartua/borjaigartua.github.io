@@ -6,10 +6,10 @@ company: Coritel
 duration: 16 horas
 date: 2016-11-07
 header:
-  teaser: https://picsum.photos/120/80?image=77&blur
+  teaser: /assets/images/selenium-logo.jpg
 sidebar:
   - title: "Role"
-    image: https://picsum.photos/350/250?image=66&blur
+    image: /assets/images/selenium-logo.jpg
     text: "Trainer"
   - title: "Nivel"
     text: Avanzado
