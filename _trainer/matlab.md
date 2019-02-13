@@ -6,10 +6,10 @@ company: Indra
 duration: 12 horas
 date: 2017-09-13
 header:
-  teaser: https://picsum.photos/120/80?image=77&blur
+  teaser: /assets/images/matlab-logo.jpg
 sidebar:
   - title: "Role"
-    image: https://picsum.photos/350/250?image=66&blur
+    image: /assets/images/matlab-logo.jpg
     text: "Trainer"
   - title: "Nivel"
     text: Básico
