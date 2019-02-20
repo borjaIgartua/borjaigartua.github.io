@@ -16,6 +16,22 @@
   {% endif %}
 {% endif %}
 
+{% if include.item-width and include.item-height %}
+  {% assign item_style = 'style="width:' | append: include.item-width %}
+  {% assign item_style = item_style | append: 'px; height:' %}
+  {% assign item_style = item_style | append: include.item-height %}
+  {% assign item_style = item_style | append: 'px;"' %}
+
+{% elsif include.item-width %}
+  {% assign item_style = 'style="width:' | append: include.item-width %}
+  {% assign item_style = item_style | append: 'px;' %}
+  
+{% elsif include.item-height  %}
+  {% assign item_style = 'style="height:' | append: include.item-height %}
+  {% assign item_style = item_style | append: 'px;' %}
+
+{% endif %}
+
 <figure class="{{ gallery_layout }} {{ include.class }} remove_margin_bottom">
   {% for img in gallery %}
     {% if img.url %}
@@ -33,16 +49,24 @@
           {% else %}
             "{{ img.image_path | relative_url }}"
           {% endif %}
-          alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+          alt="{% if img.alt %}{{ img.alt }}{% endif %}"
+          {% if item_style %}
+            {{ item_style }}
+          {% endif %}
+          >
       </a>
     {% else %}
-      <img src=
+      <img class="gallery-image" src=
         {% if img.image_path contains "://" %}
           "{{ img.image_path }}"
         {% else %}
           "{{ img.image_path | relative_url }}"
         {% endif %}
-        alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+        alt="{% if img.alt %}{{ img.alt }}{% endif %}"
+        {% if item_style %}
+          {{ item_style }}
+        {% endif %}
+        >
     {% endif %}
   {% endfor %}
   {% if include.caption %}

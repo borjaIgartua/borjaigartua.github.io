@@ -4,6 +4,7 @@ position: Developer
 date: 2012-10-01
 header:
   teaser: /assets/images/twitter-logo.jpg
+  description: "Application that measures the impact of a tweet"
 sidebar:
   - title: "Role"
     image: /assets/images/twitter-logo.jpg
