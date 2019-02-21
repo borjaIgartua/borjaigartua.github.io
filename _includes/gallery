@@ -18,17 +18,17 @@
 
 {% if include.item-width and include.item-height %}
   {% assign item_style = 'style="width:' | append: include.item-width %}
-  {% assign item_style = item_style | append: 'px; height:' %}
+  {% assign item_style = item_style | append: '; height:' %}
   {% assign item_style = item_style | append: include.item-height %}
-  {% assign item_style = item_style | append: 'px;"' %}
+  {% assign item_style = item_style | append: ';"' %}
 
 {% elsif include.item-width %}
   {% assign item_style = 'style="width:' | append: include.item-width %}
-  {% assign item_style = item_style | append: 'px;' %}
+  {% assign item_style = item_style | append: ';' %}
   
 {% elsif include.item-height  %}
   {% assign item_style = 'style="height:' | append: include.item-height %}
-  {% assign item_style = item_style | append: 'px;' %}
+  {% assign item_style = item_style | append: ';' %}
 
 {% endif %}
 
