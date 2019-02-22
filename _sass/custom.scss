@@ -7,6 +7,10 @@
     margin-bottom: 0em !important; 
 }
 
+.remove_margin_top {
+    margin-top: 0em !important; 
+}
+
 .custom-link {
     color: #494e52;
     text-decoration: none;
@@ -42,6 +46,31 @@
       }
 }
 
-.gallery-image:hover {
-    transform: scale(1.15);
+/* Projects */
+
+/* container */
+
+.project-container {
+    display: inline-block; 
+    vertical-align: top;
+
+    @include breakpoint($small) {
+        &.left {
+            width: 30% !important;
+        }
+    
+        &.right {
+            width: 65% !important;
+            margin-left: 20px !important;
+        }        
+    }
+
+    &.left {
+        width: 100% ;
+    }
+
+    &.right {
+        width: 100% ;
+        margin-left: 0px ;
+    }
 }
