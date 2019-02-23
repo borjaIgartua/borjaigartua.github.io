@@ -5,19 +5,14 @@ position: Developer
 date: 2013-04-01
 header:
   teaser: /assets/images/bbva-compass-logo.jpg
-  description: The new BBVA Compass Mobile Banking 2.1 provides you a fast, easy and attractive way to manage your BBVA Compass accounts.
 gallery:
-  - image_path: /assets/screens/windows-phone/BMUS/dashboard.png
-  - image_path: /assets/screens/windows-phone/BMUS/Accounts.png
-  - image_path: /assets/screens/windows-phone/BMUS/billPayment.png
-  - image_path: /assets/screens/windows-phone/BMUS/location.png
-  - image_path: /assets/screens/windows-phone/BMUS/selectLanguage.png
-  - image_path: /assets/screens/windows-phone/BMUS/TransactionDetail.png
-  - image_path: /assets/screens/windows-phone/BMUS/transfers.png
+  - image_path: /assets/screens/iOS/compass/auno.png
+  - image_path: /assets/screens/iOS/compass/ados.png
+  - image_path: /assets/screens/iOS/compass/puno.png
+  - image_path: /assets/screens/iOS/compass/pdos.png
 ---
 
 <div id="main" role="main">    
-    <!-- <article class="page" itemscope itemtype="https://schema.org/CreativeWork"> -->
       <meta itemprop="headline" content="{{ page.name }}"/>
       <meta itemprop="description" content="{{ page.header.description }}"/>
       <div class="page__inner-wrap" style="margin: 30px;">
@@ -31,20 +26,10 @@ gallery:
         <header>
           <h1 id="page-title" class="page__title" itemprop="headline">{{ page.name }}</h1>
         </header>
-            <p>The new BBVA Compass Mobile Banking 2.1 app is now fully bilingual (English/Spanish) and provides you a fast, easy and attractive way to manage your BBVA Compass accounts, allowing you to issue and view Bill Payments, Add Payees and manage Pay Accounts; display your balances and charts, view posted and pending transactions, transfer funds between accounts, see images of your paid checks, transaction receipts and find local branches.</p>
+            <p>A five-time award winner of <a href="http://newsroom.bbvacompass.com/2018-10-10-BBVA-Compass-mobile-app-deemed-a-leader-by-Javelin-Strategy-Research-in-two-categories-in-2018-Mobile-Banking-Scorecard">Javelin Mobile Banking Leader</a>, the BBVA Compass Mobile Banking app was designed with you in mind. </p>
+            <p>The BBVA Compass Mobile App is recognized as a leader in Financial Fitness for its ease of use and intuitive design. This fully bilingual app (English/Spanish) provides you a fast, easy and attractive way to manage your BBVA Compass accounts.</p>
+            <p>I have developed Alerts and PopMoney functionals for this app. With Alerts functionality the user can configure warnings for every account. And Thanks to PopMoney functionality, the user can send money to any users in his contact list</p>
         </section>         
-        <section class="page__content" itemprop="text" style="font-size: 0.8rem;">
-              <blockquote>
-                <p>BBVA Compass is a long-needed app that doesn’t disappoint. Its good, clean Windows Phone App-style UI matches the bank website’s blue and white color scheme perfectly. The app does everything you could want it to do, and so much more efficiently than going through the website on a phone. If you have the misfortune of banking with BBVA Compass (can you tell I love them?), don’t hesitate to grab the app today.</p>
-              </blockquote>
-              <blockquote>
-                <p><cite>From Window Central, Paul Acevedo</cite></p>
-              </blockquote>
-         </section>
-         <section class="page__content" itemprop="text">
-         {% include carrousel.html %}
-         </section>
          </div>
        </div>       
-    <!-- </article> -->
 </div>
