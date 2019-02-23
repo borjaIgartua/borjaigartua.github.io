@@ -41,7 +41,10 @@ gallery:
                 <p><cite>From Window Central, Paul Acevedo</cite></p>
               </blockquote>
          </section>
+         <section class="page__content" itemprop="text">
+         {% include carrousel.html %}
+         </section>
          </div>
-       </div>
+       </div>       
     <!-- </article> -->
 </div>
