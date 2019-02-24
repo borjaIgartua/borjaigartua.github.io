@@ -38,6 +38,7 @@ gallery:
             <p>Con Revival incluso puedes compartir una foto directamente desde las fotos de tu dispositivo, sin necesidad de abrir la aplicación.</p>
         </section>         
        </div>
+    {% include video id="0BwH85HmD8qFgWkxpMG9EMWJEYlE" provider="google-drive" %}
     {% include video id="C86m6wukKA8" provider="youtube" %}
     {% include video id="V__rVa7vXkY" provider="youtube" %}
 </div>

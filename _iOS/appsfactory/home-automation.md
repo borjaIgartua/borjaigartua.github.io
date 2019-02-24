@@ -5,28 +5,31 @@ position: Developer
 date: 2018-06-01
 header:
   teaser: /assets/images/home-automation-logo.jpg
-  description: "ole ole ole que ole que bonito proyecto este"
-sidebar:
-  - title: "Role"
-    image: /assets/images/home-automation-logo.jpg
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+gallery:
+  - image_path: /assets/screens/iOS/homeAutomation/uno.png
+  - image_path: /assets/screens/iOS/homeAutomation/dos.jpg
+  - image_path: /assets/screens/iOS/homeAutomation/tres.jpg
+  - image_path: /assets/screens/iOS/homeAutomation/cuatro.png
 ---
 
-<div id="main" role="main">
-    {% include sidebar.html %}
-    <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+<div id="main" role="main">    
       <meta itemprop="headline" content="{{ page.name }}"/>
       <meta itemprop="description" content="{{ page.header.description }}"/>
-      <div class="page__inner-wrap">
+      <div class="page__inner-wrap" style="margin: 30px;">
+      <div class="project-container left">
+        <section class="page__content" itemprop="text">
+             {% include gallery layout="half" class="remove_margin_top" %}
+         </section>
+      </div>
+      <div class="project-container right">        
+        <section class="page__content" itemprop="text">
         <header>
           <h1 id="page-title" class="page__title" itemprop="headline">{{ page.name }}</h1>
         </header>
-        <section class="page__content" itemprop="text">
-        <!-- content -->
+            <p>Any time and anywhere. With the Mercedes me app on your iPhone or Apple Watch you have your personal point of entry to the world of Mercedes-Benz and direct access to your vehicle at your fingertips at all times.</p>
+            <p>Thanks to this development you can connect Home Automation frameworks such us Samsung SmartThings<span style="font-size:0.6em;">&copy;</span> or Google Nest<span style="font-size:0.6em;">&copy;</span> with your car. Set your address and when you leave/enter your car will tell you that you are leaving/enter and automatically change you Home status.</p>
         </section>
-      </div>
-    </article>
+        {% include video id="YLdS_eH5xOI" provider="youtube" %}    
+         </div>
+       </div>       
 </div>
-
