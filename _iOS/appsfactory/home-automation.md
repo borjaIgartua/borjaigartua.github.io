@@ -7,9 +7,11 @@ header:
   teaser: /assets/images/home-automation-logo.jpg
 gallery:
   - image_path: /assets/screens/iOS/homeAutomation/uno.png
-  - image_path: /assets/screens/iOS/homeAutomation/dos.jpg
-  - image_path: /assets/screens/iOS/homeAutomation/tres.jpg
+  - image_path: /assets/screens/iOS/homeAutomation/dos.png
+  - image_path: /assets/screens/iOS/homeAutomation/tres.png
   - image_path: /assets/screens/iOS/homeAutomation/cuatro.png
+  - image_path: /assets/screens/iOS/homeAutomation/cinco.jpg
+  - image_path: /assets/screens/iOS/homeAutomation/seis.jpg
 ---
 
 <div id="main" role="main">    
