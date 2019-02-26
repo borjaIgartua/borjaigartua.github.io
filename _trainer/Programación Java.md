@@ -391,9 +391,8 @@ accordion:
             - item:
                 name: Acceso a los metadatos
                 haschildren: false
-
-
 ---
+
 <div id="main" role="main">
     {% include sidebar.html %}
     <article class="page" itemscope itemtype="https://schema.org/CreativeWork">

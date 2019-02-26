@@ -1,7 +1,8 @@
 {% assign group = item.item %}
+{% assign localized_name = site.data.ui-text[site.locale][{{group.name}}] | default: group.name %}
 <li class="has-children first-level">
     <input type="checkbox" name ="{{ group_name }}" id="{{ group_name }}">
-    <label for="{{ group_name }}">{{ group.name }}</label>
+    <label for="{{ group_name }}">{{ localized_name }}</label>
     {% if group.haschildren %}
 		<ul>
             {% for item in group.subitems %}
@@ -10,7 +11,8 @@
                     {% assign group_name = 'sub-group-' | append: forloop.index %}                  
                     {% include accordion-item item=item group_name=group_name %}
 				{% else %}
-					<li><a href="#0">{{ subgroup.name }}</a></li>
+                    {% assign localized_subgroupname = site.data.ui-text[site.locale][{{subgroup.name}}] | default: subgroup.name %}
+					<li><a href="#0">{{ localized_subgroupname }}</a></li>
 				{% endif %}
             {% endfor %}
 		</ul>

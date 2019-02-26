@@ -15,126 +15,127 @@ sidebar:
     text: Avanzado
   - title: "Dirigido a"
     text: Esta acción formativa  está destinada a  programadores de dispositivos móviles
+
 accordion:
   - item:
-      name: Introducción
+      name: introduction
       haschildren: true
       subitems:
         - item:
             name: iPhone SDK
             haschildren: false
         - item:
-            name: Obtener iPhone SDK
+            name: ios_obtain_iphone_sdk
             haschildren: false
   - item:
-      name: Componentes (Xcode, iPhone Simulator, Constructor de interfaces …)
+      name: ios_components
       haschildren: true
   - item:
       name: Objective-C
       haschildren: true
       subitems:
         - item:
-            name: ¿Qué es Objective-C?
+            name: ios_what_is_objc
             haschildren: false
         - item:
-            name: Características fundamentales del lenguaje
+            name: ios_main_lang_features
             haschildren: false
         - item:
-            name: Uso de Objetos
+            name: ios_use_object
             haschildren: false
         - item:
-            name: Creación de clases
+            name: ios_create_class
             haschildren: false
         - item:
-            name: Intercambio de mensajes
+            name: ios_messaging
             haschildren: false
         - item:
-            name: Gestión de excepciones
+            name: ios_exceptions
             haschildren: false
         - item:
             name: Logging
             haschildren: false
         - item:
-            name: Aserciones y testing
+            name: ios_testing
             haschildren: false
         - item:
-            name: Objetos distribuidos
+            name: ios_distributed_obj
             haschildren: false
         - item:
-            name: Biblioteca de clases básica
+            name: ios_classes_library
             haschildren: false
         - item:
-            name: Integración con productos de Apple
+            name: ios_apple_integration
             haschildren: false
   - item:
       name: Switf
       haschildren: true
       subitems:
         - item:
-            name: Fundamentos
+            name: ios_foundations
             haschildren: false
         - item:
-            name: Operadores básicos
+            name: ios_basic_operators
             haschildren: false
         - item:
-            name: Cadenas y Caracteres
+            name: ios_char_strings
             haschildren: false
         - item:
-            name: Tipos de colecciones
+            name: ios_collection_types
             haschildren: false
         - item:
-            name: Funciones
+            name: ios_functions
             haschildren: false
         - item:
-            name: Closures
+            name: ios_closures
             haschildren: false
         - item:
-            name: Enumeraciones
+            name: ios_enums
             haschildren: false
         - item:
-            name: Clases y estructuras
+            name: ios_classes_and_strucs
             haschildren: false
         - item:
-            name: Métodos
+            name: ios_methods
             haschildren: false
         - item:
-            name: Subscripts
+            name: ios_subscripts
             haschildren: false
         - item:
-            name: Herencia
+            name: ios_inheritance
             haschildren: false
         - item:
-            name: Inicialización y deinicialización
+            name: ios_initialization_deinit
             haschildren: false
         - item:
-            name: Conteo automático de referencias
+            name: ios_arc
             haschildren: false
         - item:
-            name: Encadenamiento opcional
+            name: ios_optional_chaining
             haschildren: false
         - item:
             name: Conversión de tipos
             haschildren: false
         - item:
-            name: Tipos anidados
+            name: ios_nest_types
             haschildren: false
         - item:
-            name: Extensiones
+            name: ios_extensions
             haschildren: false
         - item:
-            name: Protocolos
+            name: ios_protocols
             haschildren: false
         - item:
-            name: Genéricos
+            name: ios_generics
             haschildren: false
         - item:
-            name: Operadores avanzados
+            name: ios_advance_operators
             haschildren: false
   - item:
-      name: Arquitectura de iPhone OS
+      name: ios_architecture_title
       haschildren: true
   - item:
-      name: Componentes Visuales
+      name: ios_visual_comp
       haschildren: true
       subitems:
         - item:
@@ -150,32 +151,32 @@ accordion:
             name: Table view
             haschildren: false
         - item:
-            name: Rotación de pantalla
+            name: ios_screen_rotation
             haschildren: false
   - item: 
-      name: Soporte multiplataforma (iPhone e iPad) 
+      name: ios_cross_platform_suport
       haschildren: true
   - item:
-      name: Preferencias de aplicación
+      name: ios_user_defaults
       haschildren: true
   - item:
-      name: Manejo de ficheros
+      name: ios_files
       haschildren: true
   - item:
-      name: Almacenamiento en base de datos
+      name: ios_data_bases
       haschildren: true
   - item:
-      name: Programación avanzada iOS
+      name: ios_advance_coding
       haschildren: true
       subitems:
         - item:
-            name: Animaciones y reproducción de video
+            name: ios_animations
             haschildren: false
         - item:
-            name: Gestos
+            name: ios_gestures
             haschildren: false
         - item:
-            name: Acelerómetro
+            name: ios_acelerometer
             haschildren: false
   - item:
       name: Network Programming
