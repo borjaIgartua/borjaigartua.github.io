@@ -11,80 +11,80 @@ sidebar:
     image: /assets/images/telefonica-talentum-logo.jpg
     text: "Trainer"
   - title: "Responsibilities"
-    text: "Profesor desarrollo de aplicaciones para dispositivos iOS y del Proyecto iOS & Android"
+    text: tlf_dev_tasks
 accordion:  
   - item:
-      name: Introducción
+      name: introduction
       haschildren: true
       subitems:
         - item:
-            name: ¿Qué cubre el curso?
+            name: tlf_dev_what_is_about
             haschildren: false
         - item:
-            name: Cómo empezó Apple
+            name: tlf_dev_how_starts
             haschildren: false
         - item:
-            name: Herramientas necesarias
+            name: tlf_dev_required_tools
             haschildren: false
   - item:
       name: Objective C
       haschildren: true
       subitems:
         - item:
-            name: Descripción del entorno
+            name: tlf_dev_environment
             haschildren: false
         - item:
-            name: Clases
+            name: tlf_dev_classes
             haschildren: false
         - item:
-            name: Punteros
+            name: tlf_dev_pointer
             haschildren: false
         - item:
-            name: Propiedades
+            name: tlf_dev_properties
             haschildren: false
         - item:
             name: NSString y NSNumber
             haschildren: false
         - item:
-            name: Colecciones
+            name: tlf_dev_collections
             haschildren: false
         - item:
-            name: Herencia
+            name: tlf_dev_inheritance
             haschildren: false
   - item:
       name: iOS
       haschildren: true
       subitems:
         - item:
-            name: Entorno de desarrollo
+            name: tlf_dev_IDE
             haschildren: false
         - item:
-            name: Controladores y Vistas
+            name: tlf_dev_view_controller
+            haschildren: false                       
+        - item:
+            name: tlf_dev_visual_comp
             haschildren: false
         - item:
-            name: Componentes visuales
+            name: tlf_dev_comunication_views
             haschildren: false
         - item:
-            name: Comunicación vista controlador
+            name: tlf_dev_contraints
             haschildren: false
         - item:
-            name: Constraints
-            haschildren: false
-        - item:
-            name: Navegaciones entre vistas
+            name: tlf_dev_navigation
             haschildren: false
   - item:
-      name: Persistencia
+      name: tlf_dev_persistence
       haschildren: true
       subitems:
         - item:
-            name: Ficheros Plist
+            name: tlf_dev_plist_files
             haschildren: false
         - item:
             name: SQLite
             haschildren: false
   - item:
-      name: Componentes avanzados
+      name: tlf_dev_advance_comp
       haschildren: true
       subitems:
         - item:
@@ -100,37 +100,37 @@ accordion:
             name: MKMapView
             haschildren: false
   - item:
-      name: Servicios remotos
+      name: tlf_dev_remote_serv
       haschildren: true
       subitems:
         - item:
-            name: Introducción
+            name: introduction
             haschildren: false
         - item:
-            name: Servicios REST
+            name: tlf_dev_rest
             haschildren: false
   - item:
       name: Swift
       haschildren: true
       subitems:
         - item:
-            name: Swift y Objective C
+            name: tlf_dev_swift_objc
             haschildren: false
         - item:
-            name: Aplicaciones con Swift
+            name: tlf_dev_swift_apps
             haschildren: false
   - item:
-      name: Distribución de aplicaciones
+      name: tlf_dev_apps_distribution
       haschildren: true
       subitems:
         - item:
-            name: Registro
+            name: tlf_dev_apps_register
             haschildren: false
         - item:
             name: iTunes Connect
             haschildren: false
         - item:
-            name: Distribución
+            name: tlf_dev_dist
             haschildren: false
 ---
 
