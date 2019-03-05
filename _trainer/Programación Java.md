@@ -1,6 +1,6 @@
 ---
 layout: default
-name: 'Programación con Java Standard Edition'
+name: 'Java Standard Edition'
 position: Trainer
 company: Telefónica Educación Digital
 date: 2016-09-19
@@ -12,384 +12,369 @@ sidebar:
     text: "Trainer"
 accordion:  
     - item:
-        name: Conceptos de Java
+        name: java_concepts
         haschildren: true
         subitems:
             - item:
-                name: Evolución de Java
+                name: java_evol
                 haschildren: false
             - item:
                 name: Instalación
                 haschildren: false
             - item:
-                name: Funcionamiento de Java
+                name: java_instalation
                 haschildren: false
             - item:
-                name: Funcionamiento de Java
+                name: java_how_it_works
                 haschildren: false
             - item:
-                name: Compilar y ejecutar programas
+                name: java_compile_and_exec
                 haschildren: false
     - item:
-        name: Sintaxis del lenguaje
+        name: java_syntax_lang
         haschildren: true
         subitems:
             - item:
-                name: Sentencias y bloques de código
+                name: java_main
                 haschildren: false
             - item:
-                name: Función main
+                name: java_key_words
                 haschildren: false
             - item:
-                name: Palabras clave e identificadores
+                name: java_primitives
                 haschildren: false
             - item:
-                name: Tipos primitivos
-                haschildren: false
-            - item:
-                name: Literales
+                name: java_literals
                 haschildren: false            
             - item:
-                name: Variables, ámbito y duración
+                name: java_var_scope
                 haschildren: false
             - item:
-                name: Operadores y tipos
+                name: java_operators
                 haschildren: false            
             - item:
-                name: Expresiones y precedencia de operadores
+                name: java_exp_op_prec
                 haschildren: false
             - item:
-                name: Entrada y salida básica
+                name: java_in_out_data
                 haschildren: false
             - item:
-                name: Funciones y parámetros
+                name: java_func_param
                 haschildren: false
             - item:
-                name: Generador de documentación javadoc
+                name: java_javadoc
                 haschildren: false
     - item:
-        name: Sentencias de control de flujo
+        name: java_control_flow
         haschildren: true
         subitems:
             - item:
-                name: Sentencia if
+                name: java_if
                 haschildren: false
             - item:
-                name: 'Operador ternario ?:'
+                name: java_ternary
                 haschildren: false
             - item:
-                name: La sentencia switch
+                name: java_switch
                 haschildren: false
             - item:
-                name: El bucle for
+                name: java_for
                 haschildren: false
             - item:
-                name: El bucle while
+                name: java_while
                 haschildren: false
             - item:
-                name: El bucle do while
+                name: java_do_while
                 haschildren: false
             - item:
-                name: Sentencia de salto break y continue
+                name: java_break
                 haschildren: false
     - item:
-        name: Tipos compuestos de datos y enumeraciones
+        name: java_compound_data
         haschildren: true
         subitems:
             - item:
-                name: Arrays
+                name: java_arrays
                 haschildren: false
             - item:
-                name: Bucle for each
+                name: java_for_each
                 haschildren: false
             - item:
-                name: Cadenas
+                name: java_string
                 haschildren: false
             - item:
-                name: Argumentos de la línea de comandos
+                name: java_command_line
                 haschildren: false
             - item:
-                name: Arrays multidimendionales
+                name: java_matrix
                 haschildren: false
             - item:
-                name: Envoltorios de tipos
+                name: java_wrap
                 haschildren: false
             - item:
-                name: Autoboxing y Unboxing
+                name: java_boxing
                 haschildren: false
     - item:
-        name: Clases, objetos y métodos
+        name: java_classes_objects
         haschildren: true
         subitems:
             - item:
-                name: Principios de orientación a objetos
+                name: java_poo
                 haschildren: false
             - item:
-                name: 'Definición de clases: datos y métodos'
+                name: java_classes
                 haschildren: false
             - item:
-                name: 'Crear objetos: operador new'
+                name: java_create_objects
                 haschildren: false
             - item:
-                name: 'Crear objetos: operador new'
+                name: java_constructors
                 haschildren: false
             - item:
-                name: 'Constructores y sobrecarga de constructores'
+                name: java_this
                 haschildren: false
             - item:
-                name: 'La referencia this'
+                name: java_var_method
                 haschildren: false
             - item:
-                name: 'Variables y métodos de clase: miembros static'
+                name: java_overl_methods
                 haschildren: false
             - item:
-                name: 'Constructores y sobrecarga de constructores'
+                name: java_get_set
                 haschildren: false
             - item:
-                name: Sobrecarga de métodos
+                name: java_to_string
                 haschildren: false
             - item:
-                name: 'Métodos "getter" y "setter"'
+                name: java_equals
                 haschildren: false
             - item:
-                name: 'El método toString'
+                name: java_garbage_collector
                 haschildren: false
             - item:
-                name: 'Método equals'
-                haschildren: false
-            - item:
-                name: Garbage collector y el método finalize
-                haschildren: false
-            - item:
-                name: Clases anidadas e internas
+                name: java_nested_classes
                 haschildren: false
     - item:
-        name: Herencia
+        name: java_inheritance
         haschildren: true
         subitems:
             - item:
-                name: Concepto de herencia en Java
+                name: java_inheritance_concept
                 haschildren: false
             - item:
-                name: Constructores y herencia, la palabra super
+                name: java_constructor_inher
                 haschildren: false
             - item:
-                name: Sobrescribir métodos
+                name: java_override_method
                 haschildren: false
             - item:
-                name: Métodos y datos protegidos en la herencia
+                name: java_protected
                 haschildren: false
             - item:
-                name: Clases abstractas
+                name: java_abstract
                 haschildren: false
             - item:
-                name: El polimorfismo
+                name: java_polimorfism
                 haschildren: false
             - item:
-                name: La utilización de final
+                name: java_final
                 haschildren: false
             - item:
-                name: La clase Object
+                name: java_object_class
                 haschildren: false
     - item:
-        name: Paquetes y librerías de clase
+        name: java_package_libs
         haschildren: true
         subitems:
             - item:
-                name: Organización de las clases en paquetes
+                name: java_libs_org
                 haschildren: false
             - item:
-                name: Uso de import
+                name: java_import
                 haschildren: false
             - item:
-                name: Organización de las clases en paquetes
-                haschildren: false
-            - item:
-                name: Estructura de librerías y paquetes de JSE
+                name: java_libs_struct
                 haschildren: false
     - item:
-        name: Interfaces
+        name: java_interfaces
         haschildren: true
         subitems:
             - item:
-                name: Definición
+                name: java_int_def
                 haschildren: false
             - item:
-                name: Implementación
+                name: java_int_imp
                 haschildren: false
             - item:
-                name: Métodos default
+                name: java_default
                 haschildren: false
             - item:
-                name: Variables en interfaces
+                name: java_var_int
                 haschildren: false
     - item:
-        name: Gestión de excepciones
+        name: java_exceptions
         haschildren: true
         subitems:
             - item:
-                name: La jerarquía de excepciones
+                name: java_hier_exc
                 haschildren: false
             - item:
-                name: Los bloques try, catch y finally
+                name: java_try_catch
                 haschildren: false
             - item:
-                name: Un try y varios catch
+                name: java_multy_catch
                 haschildren: false
             - item:
-                name: Anidar bloques try
+                name: java_nested_try
                 haschildren: false
             - item:
-                name: Excepciones multicatch
+                name: java_throw_exp
                 haschildren: false
             - item:
-                name: 'Propagar excepciones: throws'
+                name: java_custom_exp
                 haschildren: false
             - item:
-                name: Crear excepciones personalizadas
+                name: java_in_out_title
                 haschildren: false
     - item:
-        name: Entrada y salida en Java
+        name: java_in_out_stream
         haschildren: true
         subitems:
             - item:
-                name: Flujos de E/S
+                name: java_byte_stream
                 haschildren: false
             - item:
-                name: 'Flujos de bytes: leer y escribir'
+                name: java_char_flows
                 haschildren: false
             - item:
-                name: 'Flujos de caracteres: leer y escribir'
+                name: java_byte_class
                 haschildren: false
             - item:
-                name: Clases de flujos de bytes
+                name: java_char_class
                 haschildren: false
             - item:
-                name: Clases de flujos de caracteres
+                name: java_read_binary
                 haschildren: false
             - item:
-                name: Leer y escribir datos binarios
-                haschildren: false
-            - item:
-                name: Leer y escribir en archivos de acceso aleatorio
+                name: java_write_file_random
                 haschildren: false            
             - item:
-                name: Obtener datos de la entrada con Scanner
+                name: java_scanner
                 haschildren: false
             - item:
-                name: try-with-resources
+                name: java_try_with_res
                 haschildren: false
     - item:
-        name: Clases genéricas y colecciones
+        name: java_generics
         haschildren: true
         subitems:
             - item:
-                name: Tipos genéricos
+                name: java_gen_types
                 haschildren: false
             - item:
-                name: 'Colecciones, tipos y operaciones'
+                name: java_gen_collections
                 haschildren: false
             - item:
-                name: Listas
+                name: java_list
                 haschildren: false
             - item:
-                name: Set
+                name: java_set
                 haschildren: false
             - item:
-                name: Diccionarios
+                name: java_dic
                 haschildren: false
             - item:
-                name: Colas
+                name: java_queue
                 haschildren: false
             - item:
-                name: Comparable
+                name: java_comp
                 haschildren: false            
             - item:
-                name: Comparator
+                name: java_comparator
                 haschildren: false
     - item:
-        name: Multitarea en Java
+        name: java_multithreading
         haschildren: true
         subitems:
             - item:
-                name: Programación multitarea
+                name: java_mthread_coding
                 haschildren: false
             - item:
-                name: 'La clase Thread y la interfaz Runnable'
+                name: java_thread_class
                 haschildren: false
             - item:
-                name: Subprocesos. Ciclo de vida
+                name: java_subproc_life
                 haschildren: false
             - item:
-                name: Finalización de subprocesos
+                name: java_kill_subproc
                 haschildren: false
             - item:
-                name: Sincronización
+                name: java_sinc
                 haschildren: false
             - item:
-                name: 'Comunicación de subprocesos: notify, notifyAll y wait'
+                name: java_subproc_comu
                 haschildren: false
             - item:
-                name: Suspender, reanudar y detener subprocesos
+                name: java_term_start_subproc
                 haschildren: false
     - item:
-        name: Novedades de Java 8
+        name: java_eight
         haschildren: true
         subitems:
             - item:
-                name: El paquete java.time
+                name: java_time
                 haschildren: false
             - item:
-                name: Interfaces funcionales
+                name: java_functional_interf
                 haschildren: false
             - item:
-                name: Expresiones Lambda
+                name: java_lambda
                 haschildren: false
             - item:
-                name: Referencias de método
+                name: java_method_ref
                 haschildren: false
             - item:
-                name: Referencias de constructor
+                name: java_constru_ref
                 haschildren: false
             - item:
-                name: Interfaces funcionales predefinidas
+                name: java_predef_int
                 haschildren: false
             - item:
-                name: Stream en Java 8
+                name: java_eight_stream
                 haschildren: false
     - item:
-        name: Acceso a datos con JDBC
+        name: java_jdbc
         haschildren: true
         subitems:
             - item:
-                name: Definición de JDBC
+                name: java_jdbc_def
                 haschildren: false
             - item:
-                name: Arquitectura y API de JDBC
+                name: java_jdbc_arch
                 haschildren: false
             - item:
-                name: Drivers JDBC
+                name: java_jdbc_drivers
                 haschildren: false
             - item:
-                name: La excepción SQLException
+                name: java_jdbc_sql_ex
                 haschildren: false
             - item:
-                name: Cargar el controlador
+                name: java_jdbc_contro
                 haschildren: false
             - item:
-                name: Obtener la conexión
+                name: java_jdbc_connect
                 haschildren: false
             - item:
-                name: Trabajar con registros
+                name: java_jdbc_reg
                 haschildren: false
             - item:
-                name: Tipos de datos y conversiones
+                name: java_jdbc_type
                 haschildren: false
             - item:
-                name: Actualizar, borrar e insertar registros con sentencias SQL
+                name: java_jdbc_op
                 haschildren: false
             - item:
-                name: Acceso a los metadatos
+                name: java_jdbc_metadata
                 haschildren: false
 ---
 

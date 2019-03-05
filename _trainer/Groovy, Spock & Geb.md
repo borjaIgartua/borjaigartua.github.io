@@ -11,127 +11,125 @@ sidebar:
   - title: "Role"
     image: /assets/images/spock-geb-logo.jpg
     text: "Trainer"
-  - title: "Nivel"
-    text: Avanzado
-  - title: "Dirigido a"
-    text: 'Esta acción formativa va dirigida a Programadores, Analistas y Jefes de proyecto que
-            necesiten conocer cómo realizar test de unitarios, de integración y funcionales con los
-            frameworks Spock y Geb.'
+  - title: level
+    text: level_advance
+  - title: go_for
+    text: spock_course_go_for
 accordion:
     - item:
-        name: Lenguaje Groovy
+        name: spock_groovy
         haschildren: true
         subitems:
             - item:
-                name: Tipos de datos simples. Cadenas
+                name: spock_data_types_string
                 haschildren: false
             - item:
-                name: Creación y manejo de colecciones
+                name: spock_data_types_collec
                 haschildren: false
             - item:
-                name: Estructuras de control, Funciones y Clausuras
+                name: spock_control_flow
                 haschildren: false
             - item:
-                name: POO con Groovy. Clases e interfaces
+                name: spock_poo
                 haschildren: false
             - item:
-                name: Librerías de Groovy
+                name: spock_libraries
                 haschildren: true
                 subitems:
                     - item:
-                        name: MarkupBuilder y XmlSlurper. Tratamiento de XML
+                        name: spock_lib_xml
                         haschildren: false
                     - item:
-                        name: GroovySQL Bases de datos
+                        name: spock_lib_sql
                         haschildren: false
                     - item:
                         name: Groovy Builders
                         haschildren: false
                     - item:
-                        name: Expandos, Metaprogramacíon y DSL´s
+                        name: spock_lib_dsl
                         haschildren: false
     - item:
         name: Spock
         haschildren: true
         subitems:
             - item:
-                name: Instalación
+                name: spock_install
                 haschildren: true
                 subitems:
                     - item:
-                        name: Uso desde maven
+                        name: spock_from_maven
                         haschildren: false
                     - item:
-                        name: Uso desde gradle
+                        name: spock_from_gradle
                         haschildren: false
                     - item:
-                        name: Uso desde Eclipse
+                        name: spock_from_eclipse
                         haschildren: false
             - item:
-                name: Terminología
+                name: spock_terms
                 haschildren: true
                 subitems:
                     - item:
-                        name: Especificaciones
+                        name: spock_specs
                         haschildren: false
                     - item:
-                        name: Features y Fixtures
+                        name: spock_features
                         haschildren: false
             - item:
-                name: Bloques
+                name: spock_blocks
                 haschildren: false
             - item:
-                name: Condiciones
+                name: spock_conditions
                 haschildren: false
             - item:
-                name: Data Driven Testing
+                name: spock_ddd
                 haschildren: false
             - item:
-                name: Excepciones
+                name: spock_exceptions
                 haschildren: false
             - item:
-                name: Interacciones
+                name: spock_iteractors
                 haschildren: false
             - item:
-                name: Extensiones
+                name: spock_extensions
                 haschildren: false
             - item:
-                name: Test de integración
+                name: spock_integration_test
                 haschildren: true
                 subitems:
                     - item:
-                        name: Bases de datos
+                        name: spock_dd
                         haschildren: false
                     - item:
-                        name: Spring
+                        name: spock_spring
                         haschildren: false
                     - item:
-                        name: Conceptos avanzados
+                        name: spock_advanced
                         haschildren: false
     - item:
         name: Geb
         haschildren: true
         subitems:
             - item:
-                name: Instalación y configuración
+                name: spock_geb_install
                 haschildren: false
             - item:
-                name: El objeto Browser
+                name: spock_geb_browser
                 haschildren: false
             - item:
-                name: Interactuar con el contenido
+                name: spock_geb_content
                 haschildren: false
             - item:
-                name: Paginas
+                name: spock_geb_pages
                 haschildren: false
             - item:
-                name: Módulos
+                name: spock_geb_modules
                 haschildren: false
             - item:
-                name: Asertos implícitos
+                name: spock_geb_asserts
                 haschildren: false
             - item:
-                name: Testing JavaScript y Ajax
+                name: spock_geb_ajax
                 haschildren: false
 ---
 

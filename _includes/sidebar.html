@@ -12,7 +12,10 @@
         {% endif %}
         alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
       {% endif %}
-      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
+      {% if s.title %}<h3>
+          {% assign title = site.data.ui-text[site.locale][{{s.title}}] | default: s.title %}
+        {{ title }}
+      </h3>{% endif %}
       {% if s.text %}
         {% assign localized_subgroupname = site.data.ui-text[site.locale][{{s.text}}] | default: s.text %}
         {{ localized_subgroupname | markdownify }}

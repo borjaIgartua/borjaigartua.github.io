@@ -12,191 +12,190 @@ sidebar:
     image: /assets/images/selenium-logo.jpg
     text: "Trainer"
   - title: "Nivel"
-    text: Avanzado
-  - title: "Dirigido a"
-    text: 'Esta acción formativa va dirigida a Programadores, Analistas, Jefes de proyecto y Arquitectos que deseen implementar pruebas funcionales con Selenium en sus proyectos.'
+    text: level_advance
+  - title: go_for
+    text: sel_course_go_for
 accordion:
   - item:
-      name: Introducción a Selenium
+      name: introduction
       haschildren: true
       subitems:
         - item:
-            name: Propósito
+            name: sel_purpouse
             haschildren: false
         - item:
-            name: Selenium IDE
+            name: sel_ide
             haschildren: false
   - item:
-      name: Utilizando Selenium IDE
+      name: sel_using
       haschildren: true
       subitems:
         - item:
-            name: Grabación y reproducción de casos de prueba
+            name: sel_record_use_case
             haschildren: false
         - item:
-            name: Verificación de casos de prueba 
+            name: sel_verify_uc
             haschildren: false
         - item:
-            name: Trabajar con bancos de pruebas
+            name: sel_work_test_suites
             haschildren: false
         - item:
-            name: Informes HTML de los caso de prueba
+            name: sel_html_docs
             haschildren: false
   - item:
-      name: Configuración Selenium WebDriver
+      name: sel_driver_config
       haschildren: true
       subitems:
         - item:
-            name: Configuración con Eclipse
+            name: sel_eclipse
             haschildren: false
         - item:
-            name: Helpers
+            name: sel_helpers
             haschildren: false
         - item:
-            name: Plantillas
+            name: sel_template
             haschildren: false
   - item:
-      name: Scripts de pruebas
+      name: sel_scripts
       haschildren: true
       subitems:
         - item:
-            name: Configuración de secuencias de comandos de test en Eclipse
+            name: sel_config_comands
             haschildren: false
         - item:
-            name: Localización de elementos Web
+            name: sel_find_el
             haschildren: false
         - item:
-            name: Instrucciones de verificación
+            name: sel_verify_instruct
             haschildren: false
         - item:
-            name: Creación de un archivo de registro
+            name: sel_register_file
             haschildren: false
         - item:
-            name: Creación de informes de prueba
+            name: sel_create_doc
             haschildren: false        
   - item:
-      name: Mejora de la escritura de la pruebas
+      name: sel_improving_tests
+      subitems:
+        - item:
+            name: sel_we_el_method
+            haschildren: false
+        - item:
+            name: sel_target_maps
+            haschildren: false
+        - item:
+            name: sel_modular_tests
+            haschildren: false
+  - item:
+      name: sel_obj_identify
       haschildren: true
       subitems:
         - item:
-            name: Métodos WebElement
+            name: sel_obj_find_method
             haschildren: false
         - item:
-            name: Creación de mapas de destino
+            name: sel_dynamic_obj
             haschildren: false
         - item:
-            name: Modularización de las pruebas
+            name: sel_dynamic_obj
             haschildren: false
   - item:
-      name: Identificación de objetos
+      name: sel_get_data
       haschildren: true
       subitems:
         - item:
-            name: Métodos de identificación (Nombre, ID, CSS, DOM, etc ...)
+            name: sel_get_data_table
             haschildren: false
         - item:
-            name: Manipulación de objetos dinámicos
+            name: sel_get_data_list
             haschildren: false
         - item:
-            name: Captura de Datos y Validación
+            name: sel_get_data_tree
             haschildren: false
   - item:
-      name: Captura de datos
+      name: sel_find_and_log
       haschildren: true
       subitems:
         - item:
-            name: Captura y validación de datos de tablas
+            name: sel_excel
             haschildren: false
         - item:
-            name: Captura y validación de datos de listas
+            name: sel_screeshot
             haschildren: false
         - item:
-            name: Captura y validación de árboles HTML
+            name: sel_log_options
             haschildren: false
   - item:
-      name: Opciones de rastreo y trazas
+      name: sel_regex
       haschildren: true
       subitems:
         - item:
-            name: Trabajar con trazas en Excel
+            name: sel_operators
             haschildren: false
         - item:
-            name: Adición de capturas de pantalla en archivos
-            haschildren: false
-        - item:
-            name: Diferentes opciones de registro
+            name: sel_regex_capture_data
             haschildren: false
   - item:
-      name: Expresiones regulares
+      name: sel_data_driven
       haschildren: true
       subitems:
         - item:
-            name: Operadores
+            name: sel_ddd_conex
             haschildren: false
         - item:
-            name: Uso de expresiones regulares para la captura de datos
+            name: sel_ddd_params
+            haschildren: false
+        - item:
+            name: sel_ddd_verify
             haschildren: false
   - item:
-      name: Pruebas basadas en datos
+      name: sel_work_dd
       haschildren: true
       subitems:
         - item:
-            name: Conexión de fuentes de datos
+            name: sel_dd_conexion
             haschildren: false
         - item:
-            name: Trabajar con parámetros
+            name: sel_exec_query
             haschildren: false
         - item:
-            name: Creación de las sentencias dinámicas de validación
+            name: sel_analize
             haschildren: false
   - item:
-      name: Trabajar con bases de datos
+      name: sel_multi_browser
       haschildren: true
       subitems:
         - item:
-            name: Conexión a Bases de Datos
+            name: sel_multi_browser_config
             haschildren: false
         - item:
-            name: Ejecutar consultas
+            name: sel_mult_b_changes
             haschildren: false
         - item:
-            name: Analizar a través de conjuntos de resultados
+            name: sel_mult_exec_suit
             haschildren: false
   - item:
-      name: Pruebas Multi Browser
+      name: sel_grid
       haschildren: true
       subitems:
         - item:
-            name: Configuración necesaria para ejecutar las pruebas como IE y Chrome
+            name: sel_nodes
             haschildren: false
         - item:
-            name: Modificación de pruebas para ejecutar en múltiples navegadores
+            name: sel_sequence
             haschildren: false
         - item:
-            name: Creación de prueba Suites va a ejecutar en múltiples navegadores
+            name: sel_parallel
             haschildren: false
   - item:
-      name: Selenium Grid
-      haschildren: true
-      subitems:
-        - item:
-            name: Ejecución de la pruebas en las máquinas múltiples
-            haschildren: false
-        - item:
-            name: Ejecución de forma secuencial
-            haschildren: false
-        - item:
-            name: Ejecución en paralelo
-            haschildren: false
-  - item:
-        name: Pruebas de aplicaciones móviles
+        name: sel_mobile
         haschildren: true
         subitems:
           - item:
-              name: Android Driver
+              name: sel_android
               haschildren: false
           - item:
-              name: Appium
+              name: sel_appium
               haschildren: false
 ---
 

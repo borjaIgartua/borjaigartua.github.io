@@ -11,182 +11,182 @@ sidebar:
   - title: "Role"
     image: /assets/images/c-logo.jpg
     text: "Trainer"
-  - title: "Nivel"
-    text: Básico
-  - title: "Dirigido a"
-    text: Esta acción formativa va dirigida a Programadores que quieran adquirir el dominio del lenguaje C++
+  - title: level
+    text: level_basic
+  - title: go_for
+    text: c_plus_course_for
 accordion:  
     - item:
-        name: Introducción a C++
+        name: c_plus_introduction
         haschildren: true
         subitems:
             - item:
-                name: Historia
+                name: c_plus_history
                 haschildren: false
             - item:
-                name: Conceptos básicos
+                name: c_plus_basics
                 haschildren: false
     - item:
-        name: Bases del lenguaje
+        name: c_plus_language_basics
         haschildren: true
         subitems:
             - item:
-                name: Variables, operadores y  tipos
+                name: c_plus_var_operator_type
                 haschildren: false
             - item:
-                name: Control de flujo
+                name: c_plus_control_flow
                 haschildren: false    
     - item:
-        name: Arrays y punteros
+        name: c_plus_array_point
         haschildren: true
         subitems:
             - item:
-                name: Arrays
+                name: c_plus_arrays
                 haschildren: false
             - item:
-                name: Swap
+                name: c_plus_swap
                 haschildren: false
             - item:
-                name: Punteros
+                name: c_plus_pointers
                 haschildren: false
             - item:
-                name: Memoria dinámica, new y delete
+                name: c_plus_memory
                 haschildren: false            
             - item:
-                name: Variables de referencia
+                name: c_plus_ref
                 haschildren: false
             - item:
-                name: Acceso a los atributos y métodos
+                name: c_plus_atributes
                 haschildren: false
             - item:
-                name: Puntero void
+                name: c_plus_void_pointers
                 haschildren: false
     - item:
-        name: Programación Orientada a Objetos
+        name: c_plus_poo
         haschildren: true
         subitems:
             - item:
-                name: Clases en C++
+                name: c_plus_classes
                 haschildren: false
             - item:
-                name: Visibilidad
+                name: c_plus_visibility
                 haschildren: false
             - item:
-                name: El puntero this
+                name: c_plus_this_pointer
                 haschildren: false
             - item:
-                name: Cabecera (.h) y código (.cpp) de una clase
+                name: c_plus_header_and_code
                 haschildren: false
             - item:
-                name: Objetos const
+                name: c_plus_consts
                 haschildren: false
             - item:
-                name: Atributos y métodos static
+                name: c_plus_statics
                 haschildren: false
             - item:
-                name: Funciones y clases friend
+                name: c_plus_friend
                 haschildren: false
     - item:
-        name: Sobrecarga de operadores
+        name: c_plus_op_overload
         haschildren: true
     - item:
-        name: Agregación, composición, inicializadores de constructor
+        name: c_plus_ag_comp
         haschildren: true
     - item:
-        name: Herencia
-        haschildren: true
-        subitems:
-            - item:
-                name: Introducción a la herencia
-                haschildren: false
-            - item:
-                name: Herencia básica
-                haschildren: false
-            - item:
-                name: Especificaciones de acceso (visibilidad)
-                haschildren: false
-            - item:
-                name: Accediendo a miembros y cambiando su visibilidad
-                haschildren: false
-            - item:
-                name: Herencia Múltiple
-                haschildren: false
-            - item:
-                name: Clases bases virtuales
-                haschildren: false
-    - item:
-        name: Funciones virtuales
+        name: c_plus_inheritance
         haschildren: true
         subitems:
             - item:
-                name: Punteros a la clase padre y a la clase hija
+                name: c_plus_inherit_intro
                 haschildren: false
             - item:
-                name: Funciones virtuales
+                name: c_plus_inherit_basic
                 haschildren: false
             - item:
-                name: Clases abstractas y Funciones virtuales puras
+                name: c_plus_access_spec
                 haschildren: false
             - item:
-                name: Clases interface
+                name: c_plus_change_access
+                haschildren: false
+            - item:
+                name: c_plus_multi_inherit
+                haschildren: false
+            - item:
+                name: c_plus_virtual_classes
                 haschildren: false
     - item:
-        name: Trabajando con ficheros
+        name: c_plus_virutal_func
         haschildren: true
         subitems:
             - item:
-                name: ofstream
+                name: c_plus_point_parent
                 haschildren: false
             - item:
-                name: ifstream
+                name: c_plus_virtual_func
                 haschildren: false
             - item:
-                name: Ficheros de acceso aleatorio
+                name: c_plus_abstract_class
                 haschildren: false
             - item:
-                name: fstream
+                name: c_plus_interfaces
                 haschildren: false
     - item:
-        name: Templates
+        name: c_plus_files
         haschildren: true
         subitems:
             - item:
-                name: Funciones con templates
+                name: c_plus_ofstream
                 haschildren: false
             - item:
-                name: Clases con templates
+                name: c_plus_ifstream
                 haschildren: false
             - item:
-                name: Especialización
+                name: c_plus_random_data_access
+                haschildren: false
+            - item:
+                name: c_plusfstream
                 haschildren: false
     - item:
-        name: Excepciones
+        name: c_plus_templates
         haschildren: true
         subitems:
             - item:
-                name: try, catch y throw
+                name: c_plus_func_temp
                 haschildren: false
             - item:
-                name: catch all y especificadores de excepciones
+                name: c_plus_classes_temp
                 haschildren: false
             - item:
-                name: Herencia y la clase Exception
+                name: c_plus_specialization
                 haschildren: false
     - item:
-        name: Standard Template Library (STL)
+        name: c_plus_exceptions
         haschildren: true
         subitems:
             - item:
-                name: Introducción
+                name: c_plus_try_catch_throw
                 haschildren: false
             - item:
-                name: Colecciones
+                name: c_plus_catch_all
                 haschildren: false
             - item:
-                name: Iteradores
+                name: c_plus_exc_inheritance
+                haschildren: false
+    - item:
+        name: c_plus_stl
+        haschildren: true
+        subitems:
+            - item:
+                name: c_plus_intro
                 haschildren: false
             - item:
-                name: Algoritmos
+                name: c_plus_collections
+                haschildren: false
+            - item:
+                name: c_plus_iteractors
+                haschildren: false
+            - item:
+                name: c_plus_algorithms
                 haschildren: false
 ---
 

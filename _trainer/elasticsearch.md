@@ -11,180 +11,170 @@ sidebar:
   - title: "Role"
     image: /assets/images/elasticsearch-logo.jpg
     text: "Trainer"
-  - title: "Nivel"
-    text: Avanzado
-  - title: "Dirigido a"
-    text: Esta acción formativa va dirigida a Programadores, Analistas y Administradores de sistemas.
+  - title: level
+    text: level_advance
+  - title: go_for
+    text: course_for
 accordion:  
     - item:
-        name: Introducción
+        name: introduction
         haschildren: true
         subitems:
             - item:
-                name: Terminología
+                name: elastic_terminology
                 haschildren: false
             - item:
-                name: Conceptos básicos
+                name: elastic_basics
                 haschildren: false
             - item:
-                name: Configuración y operaciones básicas
+                name: elastic_configuration
                 haschildren: false
     - item:
-        name: Modelo distribuido
+        name: elastic_distributed
         haschildren: true
         subitems:
             - item:
-                name: Cluster Elasticsearch
+                name: elastic_cluester
                 haschildren: false
             - item:
-                name: Fragmentos y réplicas
+                name: elastic_fragments_replica
                 haschildren: false
             - item:
-                name: Configuración
+                name: elastic_config
                 haschildren: false
             - item:
-                name: APIs y acceso local
+                name: elastic_local_access
                 haschildren: false       
     - item:
-        name: Multi Tenancy
+        name: elastic_tenancy
         haschildren: true
         subitems:
             - item:
-                name: Múltiples índices
+                name: elastic_multiple_index
                 haschildren: false
             - item:
-                name: Alias de índices
+                name: elastic_aliases
                 haschildren: false
             - item:
-                name: Operaciones entre índices
+                name: elastic_index_op
                 haschildren: false
             - item:
-                name: Introducción al flujo de datos
+                name: elastic_data_intro
                 haschildren: false
     - item:
-        name: Índice Elasticsearch
+        name: elastic_indexes
         haschildren: true
         subitems:
             - item:
-                name: Análisis
+                name: elastic_analisis
                 haschildren: false
             - item:
-                name: Asignaciones
+                name: elastic_assignments
                 haschildren: false
             - item:
-                name: Operaciones de índices
+                name: elastic_index_operations
                 haschildren: false
             - item:
-                name: Control de versiones
+                name: elastic_version_control
                 haschildren: false
             - item:
-                name: APIs y ajustes
+                name: elastic_adjustments
                 haschildren: false
     - item:
-        name: Búsquedas
+        name: elastic_searches
         haschildren: true
         subitems:
             - item:
-                name: DSL de consulta
+                name: elastic_DSL_queries
                 haschildren: false
             - item:
-                name: Ordenación
+                name: elastic_sort
                 haschildren: false
             - item:
-                name: Facetas
+                name: elastic_facets
                 haschildren: false
             - item:
-                name: Tipos de búsqueda
+                name: elastic_search_types
                 haschildren: false
             - item:
-                name: Resaltado
+                name: elastic_highligting
                 haschildren: false
             - item:
-                name: Enrutado y otros componentes de búsqueda
+                name: elastic_routing
                 haschildren: false
     - item:
-        name: Búsquedas avanzadas y Mapeos
+        name: elastic_advanced_search
         haschildren: true
         subitems:
             - item:
-                name: Documentos anidados
+                name: elastic_nested_docs
                 haschildren: false
             - item:
-                name: Relaciones padre / hijo
+                name: elastic_parent_child
                 haschildren: false
             - item:
-                name: Geo-localización
+                name: elastic_location
                 haschildren: false
             - item:
-                name: Percolación
+                name: elastic_perco
                 haschildren: false
             - item:
-                name: Relevancia
+                name: elastic_relevance
                 haschildren: false
     - item:
-        name: Modelo distribuido avanzado
+        name: elastic_adv_dist_model
         haschildren: true
         subitems:
             - item:
-                name: Swift y Objective C
+                name: elastic_recover_cluster
                 haschildren: false
             - item:
-                name: Aplicaciones con Swift
+                name: elastic_low_level_replicas
+                haschildren: false
+            - item:
+                name: elastic_recover_fragments
                 haschildren: false
     - item:
-        name: Distribución de aplicaciones
+        name: elastic_big_data
         haschildren: true
         subitems:
             - item:
-                name: Recuperación del estado del clúster
+                name: elastic_multiple_index
                 haschildren: false
             - item:
-                name: Replicación de bajo nivel
+                name: elastic_reroute
                 haschildren: false
             - item:
-                name: Recuperación de bajo nivel y de fragmentos
+                name: elastic_routing_aliases
+                haschildren: false
+            - item:
+                name: elastic_data_architecture
                 haschildren: false
     - item:
-        name: Patrón de diseño Big Data
+        name: elastic_prod_ready
         haschildren: true
         subitems:
             - item:
-                name: Índices múltiples
+                name: elastic_performance
                 haschildren: false
             - item:
-                name: Sobreasignación
+                name: elastic_data_stream
                 haschildren: false
             - item:
-                name: Enrutamiento y alias
-                haschildren: false
-            - item:
-                name: Forma de abordar la arquitectura de datos
+                name: elastic_memory
                 haschildren: false
     - item:
-        name: Preparación para la Producción
+        name: elastic_prod_exec
         haschildren: true
         subitems:
             - item:
-                name: Ajuste del rendimiento
+                name: elastic_monitoring
                 haschildren: false
             - item:
-                name: Flujo de datos
+                name: elastic_alerts
                 haschildren: false
             - item:
-                name: Asignación de memoria
-                haschildren: false
-    - item:
-        name: Ejecución en producción
-        haschildren: true
-        subitems:
-            - item:
-                name: Monitorización
-                haschildren: false
-            - item:
-                name: Alertas
-                haschildren: false
-            - item:
-                name: API de Detalles/Estadísticas
+                name: elastic_statics
                 haschildren: false
     - item:
         name: Logstash

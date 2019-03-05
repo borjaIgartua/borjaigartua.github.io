@@ -11,52 +11,52 @@ sidebar:
   - title: "Role"
     image: /assets/images/soapui-logo.jpg
     text: "Trainer"
-  - title: "Nivel"
-    text: Avanzado
-  - title: "Dirigido a"
-    text: 'Esta acción formativa está destinada a desarrolladores de servicios web, departamento de calidad de aplicaciones o gestores de entornos de sistemas.'
+  - title: level
+    text: level_advance
+  - title: go_for
+    text: soap_go_for
 accordion:
     - item:
-        name: Conceptos previos
+        name: soap_concepts
         haschildren: true
         subitems:
             - item:
-                name: Repaso rápido del lenguaje XML
+                name: soap_xml
                 haschildren: false
             - item:
-                name: Servicios Web
+                name: soap_web_serv
                 haschildren: false
             - item:
-                name: Web Service Description Language
+                name: soap_desc_lang
                 haschildren: false
             - item:
-                name: Versiones de SoapUI
+                name: soap_version
                 haschildren: false
     - item:
-        name: Empezando a trabajar con SoapUI
+        name: soap_starting
         haschildren: true
         subitems:
             - item:
-                name: Interfaz de SoapUI
+                name: soap_ide
                 haschildren: false
             - item:
-                name: Creación de proyectos
+                name: soap_create
                 haschildren: false
             - item:
-                name: WSDL
+                name: soap_wsdl
                 haschildren: false
             - item:
-                name: Auto generación de código con Apache CXF
+                name: soap_apache_cxf
                 haschildren: false
             - item:
-                name: Operaciones y Peticiones
+                name: soap_operations
                 haschildren: true
                 subitems:
                     - item:
-                        name: Simulación de peticiones a servicios web (Mocks)
+                        name: soap_mock_request
                         haschildren: false
                     - item:
-                        name: Conceptos básicos para el manejo de mensajes
+                        name: soap_messages
                         haschildren: true
                         subitems:
                             - item:
@@ -66,206 +66,206 @@ accordion:
                                 name: XQuery
                                 haschildren: false
                     - item:
-                        name: Simulación de servicios con scripts en Groovy
+                        name: soap_scripts
                         haschildren: false
     - item:
-        name: Creación de planes de pruebas (Test Suites)
+        name: soap_test_suites
         haschildren: true
     - item:
-        name: Creación/edición de casos de prueba (Test Cases) y pasos de prueba (Test Steps)
+        name: soap_test_steps
         haschildren: true
     - item:
-        name: Propiedades de un “test case”
+        name: soap_test_case_props
         haschildren: true
     - item:
-        name: Tipos de aserciones
+        name: soap_assert_types
         haschildren: true
         subitems:
             - item:
-                name: Aserciones basadas en expresiones XPath
+                name: soap_assert_xpath
                 haschildren: false
             - item:
-                name: Aserciones basadas en expresiones XQuery
+                name: soap_assert_xquery
                 haschildren: false
             - item:
-                name: De tiempo de respuesta (SLA)
+                name: soap_assert_sla
                 haschildren: false
             - item:
-                name: De conformidad con el esquema XSD
+                name: soap_assert_xsd
                 haschildren: false
             - item:
-                name: De códigos de respuesta/error http
+                name: soap_assert_http_code
                 haschildren: false
             - item:
-                name: De respuesta válida SOAP / error SOAP
+                name: soap_assert_soap
                 haschildren: false
             - item:
-                name: De presencia/ausencia de cadenas en el contenido
+                name: soap_assert_chain
                 haschildren: false
     - item:
-        name: Ejecución y depuración de planes de prueba
+        name: soap_exec_test_suites
         haschildren: true
         subitems:
             - item:
-                name: 'Ejecución simple de planes de prueba: comprobación de aserciones'
+                name: soap_exec_simple_exec
                 haschildren: false
             - item:
-                name: Ejecución de planes de pruebas en modo depuración
+                name: soap_exec_test_case_debug
                 haschildren: false
             - item:
-                name: Modularizaciones de los planes de prueba
+                name: soap_modularice
                 haschildren: false
             - item:
-                name: Configuración y uso de diferentes entornos de ejecución
+                name: soap_config_env
                 haschildren: false
             - item:
-                name: Creación y obtención de informes de ejecución
+                name: soap_report
                 haschildren: false
             - item:
                 name: Test on Demand
                 haschildren: false
             - item:
-                name: Trazas y mensajes de rastreo
+                name: soap_log
                 haschildren: false
             - item:
                 name: Scripting
                 haschildren: false
     - item:
-        name: Configuración de preferencias
+        name: soap_config_prefs
         haschildren: true
         subitems:
             - item:
-                name: Preferencias de la conexión HTTP y Proxy
+                name: soap_http_proxy
                 haschildren: false
             - item:
-                name: Preferencias SSL y WSDL
+                name: soap_ssl_prefs
                 haschildren: false
             - item:
-                name: Preferencias de la interfaz gráfica
+                name: soap_graphic_interf
                 haschildren: false
             - item:
-                name: Preferencias de editor y de herramientas externas
+                name: soap_tools_pref
                 haschildren: false
             - item:
-                name: Preferencias globales
+                name: soap_global_pref
                 haschildren: false
     - item:
-        name: Tipos de pasos de pruebas
+        name: soap_test_steps
         haschildren: true
         subitems:
             - item:
-                name: Peticiones (de muestreo)
+                name: soap_request_sampling
                 haschildren: false
             - item:
-                name: Transferencias de propiedades entre peticiones
+                name: soap_trans_properties
                 haschildren: false
             - item:
-                name: “Goto” condicional
+                name: soap_goto
                 haschildren: false
             - item:
-                name: Pasos de propiedad. Carga y guardado de propiedades desde/hacia fuentes o ficheros externos
+                name: soap_test_ste_props
                 haschildren: false
             - item:
-                name: Pasos de retardo
+                name: soap_delay_test_steps
                 haschildren: false
     - item:
-        name: Pruebas de carga y rendimiento
+        name: soap_load_test_perform
         haschildren: true
         subitems:
             - item:
-                name: Tipos de pruebas de carga
+                name: soap_load_test_types
                 haschildren: true
                 subitems:
                     - item:
-                        name: De carga
+                        name: soap_load
                         haschildren: false
                     - item:
-                        name: De estrés
+                        name: soap_stress
                         haschildren: false
                     - item:
-                        name: De desbordamiento de memoria
+                        name: soap_stackoverflow
                         haschildren: false
                     - item:
-                        name: De escalabilidad
+                        name: soap_scalability
                         haschildren: false
             - item:
-                name: Estrategias de pruebas de carga y rendimiento
+                name: soap_load_strategy
                 haschildren: false
             - item:
-                name: Aserciones en las pruebas de carga
+                name: soap_asserts_load
                 haschildren: false
             - item:
-                name: Obtención de métricas/gráficas e interpretación de resultados
+                name: soap_interpret_results
                 haschildren: false
     - item:
-        name: Pruebas de seguridad de los servicios
+        name: soap_security
         haschildren: true
         subitems:
             - item:
-                name: Inyección SQL
+                name: soap_sec_sql
                 haschildren: false
             - item:
-                name: Inyección xPath
+                name: soap_sec_xpath
                 haschildren: false
             - item:
-                name: Inyección mediante scripts
+                name: soap_sec_script
                 haschildren: false
             - item:
-                name: Fuzzing Scan
+                name: soap_sec_fuzz
                 haschildren: false
             - item:
-                name: Envio de xml mal formado
+                name: soap_sec_xml_malformed
                 haschildren: false
     - item:
-        name: Automatización de la ejecución de planes de pruebas
+        name: soap_test_automatic
         haschildren: true
         subitems:
             - item:
-                name: Integración y ejecución de planes de prueba desde JUnit
+                name: soap_int_test_case_ju
                 haschildren: false
             - item:
-                name: Integración y ejecución de planes de prueba desde Maven
+                name: soap_int_test_case_mvn
                 haschildren: false
             - item:
-                name: Integración con otras herramientas de automatización (Jenkins, …)
+                name: soap_int_test_case_other
                 haschildren: false
     - item:
-        name: Pruebas orientadas a datos (Data-Driven Test)
+        name: soap_ddd
         haschildren: true
         subitems:
             - item:
                 name: JDBC
                 haschildren: false
             - item:
-                name: Ficheros planos/CSV, ficheros Excel, o en tablas de bases de datos
+                name: soap_ddd_files
                 haschildren: false
     - item:
-        name: Casos de prueba particulares
+        name: soap_test_case_odd
         haschildren: true
         subitems:
             - item:
-                name: Generación de un proyecto dado un WSDL
+                name: soap_odd_wsdl
                 haschildren: false
             - item:
-                name: Inyección SQL a un servicio propio y posterior securización del mismo
+                name: soap_odd_sql
                 haschildren: false
             - item:
-                name: Inyección XPath a un servicio propio y posterior securización del mismo
+                name: soap_odd_xpath
                 haschildren: false
             - item:
-                name: Data Driven Development. Proyecto de realización de un plan de pruebas completo a una base de datos real
+                name: soap_odd_ddd
                 haschildren: false
             - item:
-                name: Validaciones con autenticación HTTP REST
+                name: soap_odd_http
                 haschildren: false
             - item:
-                name: Validaciones con Autenticación HTTP REST con formularios
+                name: soap_http_form
                 haschildren: false
             - item:
-                name: Validaciones con OAuth 2
+                name: soap_oauth_two
                 haschildren: false
             - item:
-                name: Generación automática de token de sesión en OAuth 2
+                name: soap_session
                 haschildren: false
 ---
 
