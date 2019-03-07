@@ -213,7 +213,6 @@ accordion:
         </header>
         <section class="page__content" itemprop="text">
           <p>El alumno aprenderá las bases del lenguaje Objective-C / Swift, al mismo tiempo que conocerás las posibilidades que te brinda el framework Cocoa-Touch para crear interfaces gráficas, conectarte con un servidor, acceder a bases de datos SQL, y consultar la ubicación geográfica del usuario.</p>
-
           <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Temario</h3>     
           {% include accordion include_scripts=true %}
         </section>

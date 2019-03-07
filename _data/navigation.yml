@@ -6,7 +6,9 @@ main:
     url: /trainer
   - title: "Windows Phone"
     url: /windows-phone
-  - title: "Projects"
-    url: /projects
   - title: "About me"
     url: /about
+
+
+#  - title: "Projects"
+#    url: /projects
