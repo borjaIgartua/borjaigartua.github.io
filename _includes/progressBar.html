@@ -1,0 +1,10 @@
+<div class="progressbar-wrapper">
+        {% assign percentage = 'p' | append: include.percentage %}
+    <div class="c100 {{ percentage }} {{ include.color }}">
+        <div class="slice">
+          <div class="bar"></div>
+          <div class="fill"></div>
+        </div>
+    <p class="pb-header">{{ include.title }}</p>
+    </div>
+</div>

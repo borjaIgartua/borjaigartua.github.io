@@ -116,5 +116,13 @@ timeline:
 <div style="text-align: center;">
 <p><a href="/assets/files/cv.pdf" class="btn btn--primary">Download CV</a></p>
 </div>
+<div class="page__inner-wrap" style="margin: 30px;">
+{% include progressBar.html percentage="80" title="Git" color="blue" %}
+{% include progressBar.html percentage="50" title="Project Management" color="green" %}
+{% include progressBar.html percentage="60" title="Agile" color="orange" %}
+{% include progressBar.html percentage="70" title="Continuos integration" color="green" %}
+{% include progressBar.html percentage="80" title="English" color="pink" %}
+{% include progressBar.html percentage="16" title="German" color="blue" %}
+</div>
 </div>
 
