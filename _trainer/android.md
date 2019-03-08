@@ -1,6 +1,6 @@
 ---
 layout: default
-name: Desarrollo de Aplicaciones para Android
+title: 'Developing applications for Android'
 position: Trainer
 company: CLE Formación
 duration: 30 horas
@@ -11,8 +11,8 @@ sidebar:
   - title: "Role"
     image: /assets/images/android-logo.jpg
     text: "Trainer"
-  - title: "Nivel"
-    text: Avanzado
+  - title: level
+    text: level_advance
 accordion:  
   - item:
       name: Introducción a Android y al entorno de desarrollo
@@ -180,16 +180,16 @@ accordion:
 <div id="main" role="main">
     {% include sidebar.html %}
     <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-      <meta itemprop="headline" content="{{ page.name }}"/>
+      <meta itemprop="headline" content="{{ page.title }}"/>
       <meta itemprop="description" content="{{ page.header.description }}"/>
       <div class="page__inner-wrap">
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">{{ page.name }}</h1>
+          <h1 id="page-title" class="page__title" itemprop="headline">{{ page.title }}</h1>
         </header>
         <section class="page__content" itemprop="text">
             <p>Aprender a desarrollar una aplicación en el sistema operativo para móviles Android. Conocer los programas y entornos para su desarrollo así como las etapas necesarias hasta su publicación y posterior comercialización.</p>
-          <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Temario</h3>     
-          {% include accordion include_scripts=true %}
+          <!-- <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Temario</h3>     
+          {% include accordion include_scripts=true %} -->
         </section>
       </div>
     </article>

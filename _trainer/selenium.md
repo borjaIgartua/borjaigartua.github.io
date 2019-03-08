@@ -1,6 +1,6 @@
 ---
 layout: default
-name: 'Selenium'
+title: 'Selenium'
 position: Trainer
 company: Coritel
 duration: 16 horas
@@ -202,11 +202,11 @@ accordion:
 <div id="main" role="main">
     {% include sidebar.html %}
     <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-      <meta itemprop="headline" content="{{ page.name }}"/>
+      <meta itemprop="headline" content="{{ page.title }}"/>
       <meta itemprop="description" content="{{ page.header.description }}"/>
       <div class="page__inner-wrap">
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">{{ page.name }}</h1>
+          <h1 id="page-title" class="page__title" itemprop="headline">{{ page.title }}</h1>
         </header>
         <section class="page__content" itemprop="text">
           <p>Selenium automates browsers. That's it! What you do with that power is entirely up to you. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) be automated as well.</p>

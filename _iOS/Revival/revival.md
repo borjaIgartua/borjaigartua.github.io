@@ -1,6 +1,6 @@
 ---
 layout: default
-name: Revival
+title: Revival
 position: Developer
 date: 2015-03-01
 header:
@@ -17,7 +17,7 @@ gallery:
 ---
 
 <div id="main" role="main">    
-      <meta itemprop="headline" content="{{ page.name }}"/>
+      <meta itemprop="headline" content="{{ page.title }}"/>
       <meta itemprop="description" content="{{ page.header.description }}"/>
       <div class="page__inner-wrap" style="margin: 30px;">
       <div class="project-container left">
@@ -28,7 +28,7 @@ gallery:
       <div class="project-container right">        
         <section class="page__content" itemprop="text">
             <header>
-            <h1 id="page-title" class="page__title" itemprop="headline">{{ page.name }}</h1>
+            <h1 id="page-title" class="page__title" itemprop="headline">{{ page.title }}</h1>
             </header>
             <p>Revival es una red social gratuita que permite enviar cápsulas de tiempo de forma privada a los contactos del móvil.</p>
             <p>Se trata de una aplicación emotiva con la que compartir con amigos y familiares estas cápsulas del tiempo repletas de fotos y ví­deos. La idea es bien sencilla: recopilar un contenido y guardarlo bajo llave hasta una fecha determinada, cuando el receptor podrá verlo y disfrutarlo. Una espera que puede hacerse todo lo larga que se quiera, o formar parte de una sorpresa a corto plazo.</p>

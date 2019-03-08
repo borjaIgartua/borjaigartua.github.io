@@ -1,6 +1,6 @@
 ---
 layout: default
-name: BBVA Compass
+title: BBVA Compass
 position: Developer
 date: 2012-09-01
 header:
@@ -16,7 +16,7 @@ gallery:
 ---
 
 <div id="main" role="main">    
-      <meta itemprop="headline" content="{{ page.name }}"/>
+      <meta itemprop="headline" content="{{ page.title }}"/>
       <meta itemprop="description" content="{{ page.header.description }}"/>
       <div class="page__inner-wrap" style="margin: 30px;">
       <div class="project-container left">
@@ -27,7 +27,7 @@ gallery:
       <div class="project-container right">        
         <section class="page__content" itemprop="text">
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">{{ page.name }}</h1>
+          <h1 id="page-title" class="page__title" itemprop="headline">{{ page.title }}</h1>
         </header>
             <p>The new BBVA Compass Mobile Banking 2.1 app is now fully bilingual (English/Spanish) and provides you a fast, easy and attractive way to manage your BBVA Compass accounts, allowing you to issue and view Bill Payments, Add Payees and manage Pay Accounts; display your balances and charts, view posted and pending transactions, transfer funds between accounts, see images of your paid checks, transaction receipts and find local branches.</p>
             <p>Application develop in Visual Studio for Window phone. I had been working developing the whole application.</p>

@@ -1,6 +1,6 @@
 ---
 layout: default
-name: 'Programación Orientada a Objetos con C++'
+title: 'Object Oriented Programming with C++'
 position: Trainer
 company: Indra
 duration: 30 horas
@@ -193,11 +193,11 @@ accordion:
 <div id="main" role="main">
     {% include sidebar.html %}
     <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-      <meta itemprop="headline" content="{{ page.name }}"/>
+      <meta itemprop="headline" content="{{ page.title }}"/>
       <meta itemprop="description" content="{{ page.header.description }}"/>
       <div class="page__inner-wrap">
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">{{ page.name }}</h1>
+          <h1 id="page-title" class="page__title" itemprop="headline">{{ page.title }}</h1>
         </header>
         <section class="page__content" itemprop="text">
           <p>Los alumnos entenderán los fundamentos del lenguaje de programación C++ y las técnicas de programación orientada a objetos, creando una base sólida de conceptos y conocimientos que luego utilizaran en su día a día profesional.</p>

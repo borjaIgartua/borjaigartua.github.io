@@ -1,6 +1,6 @@
 ---
 layout: default
-name: Introducción a MATLAB
+title: 'Introduction to MATLAB'
 position: Trainer
 company: Indra
 duration: 12 horas
@@ -11,10 +11,10 @@ sidebar:
   - title: "Role"
     image: /assets/images/matlab-logo.jpg
     text: "Trainer"
-  - title: "Nivel"
-    text: Básico
-  - title: "Dirigido a"
-    text: 'Departamento de Previsión y Gestión de la Demanda.'
+  - title: level
+    text: level_basic
+  - title: go_for
+    text: 'Management and forecast demands department.'
 accordion:
     - item:
         name: Introducción
@@ -45,11 +45,11 @@ accordion:
 <div id="main" role="main">
     {% include sidebar.html %}
     <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-      <meta itemprop="headline" content="{{ page.name }}"/>
+      <meta itemprop="headline" content="{{ page.title }}"/>
       <meta itemprop="description" content="{{ page.header.description }}"/>
       <div class="page__inner-wrap">
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">{{ page.name }}</h1>
+          <h1 id="page-title" class="page__title" itemprop="headline">{{ page.title }}</h1>
         </header>
         <section class="page__content" itemprop="text">
             <p>Tanto si tiene que analizar datos como desarrollar algoritmos
@@ -64,8 +64,8 @@ accordion:
             tipos de datos (escaleras y matriciales), funciones, creación de gráficos e importación/
             exportación de datos. Se realiza también una pequeña introducción a la programación en
             Matlab.</p>
-          <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Temario</h3>     
-          {% include accordion include_scripts=true %}
+          <!-- <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Temario</h3>     
+          {% include accordion include_scripts=true %} -->
         </section>
       </div>
     </article>

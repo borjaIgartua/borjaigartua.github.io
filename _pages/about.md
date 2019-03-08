@@ -8,7 +8,7 @@ timeline:
         title: Pontifical University of Salamanca
         country: Spain
         city: Salamanca
-        duration: 5 años
+        duration: 5 years
         company_name: Universidad
         company_url: http://www.upsa.es
         description: Degree in Computer Science Engineering, specialization in Software Engineering.
@@ -18,7 +18,7 @@ timeline:
         title: Curso de desarrollo de aplicaciones para iOS
         country: Spain
         city: Madrid
-        duration: 80 horas
+        duration: 80 hours
         company_name: CICE professional School for new Technologies ( Apple Certificate )
         company_url: http://www.cice.es        
         description: Desarrollo de pequeñas aplicaciones iOS con conocimientos sobre POO y Objective – C (lenguaje de programación indispensable en la creación de aplicaciones para IOS), siendo capaces de desarrollar planteamientos sencillos para el desarrollo de aplicaciones, tanto particularmente como en un equipo de trabajo.
@@ -62,7 +62,7 @@ timeline:
         date: 2015-06-01
         fake_date: 2006-07-01
         title: Test Driven Development for iOS
-        duration: 12 horas
+        duration: 12 hours
         company_name: KeepCoding
         company_url: https://www.keepcoding.io
         description: Desde que el TDD (Test-Driven Development) fue creado por Kent Beck, se ha extendido como la pólvora y goza de especial popularidad en estos momentos. Sin embargo, a menudo es mal aplicado y los equipos que lo implementan se ven aquejados de problemas comunes que terminan haciendo que se abandone:<br/><br/>• Se testa lo que no se debe.<br/>• Se diseñan mal los tests, de tal forma que un fallo tiene varias posibles causas.<br/>• Los tests tardan mucho en ejecutarse, haciendo que muchos desarrolladores se los salten.<br/>• Se intenta testarlo todo, en vez de aquello que hace falta.<br/>• No se sabe aplicar a las peculiaridades de iOS, Cocoa y Objective C.<br/><br/>La totalidad de estos errores se debe a que muchos equipos de desarrollo aprenden el “cómo” del TDD pero no el “por qué”. Solo existe una forma de modificar hábitos; practicando los nuevos. Por eso este curso, que ha sido impartido con éxito en varias empresas de Europa y LATAM, es fundamentalmente práctico y se basa en el desarrollo de una App real para iPhone.
@@ -79,7 +79,7 @@ timeline:
         date: 2016-05-01
         fake_date: 2006-09-01
         title: iOS 9 and swift 2. Learning making 15 real apps
-        duration: 23 horas
+        duration: 23 hours
         company_name: Udemy
         company_url: http://www.udemy.com
         description: Crearás hasta 15 Apps profesionales, divertidas y relevantes que te permitirán poner en práctica todos los conocimientos adquiridos a lo largo del curso y formar un portafolio sólido para comenzar tu carrera en desarrollo mobile.<br/>Aprenderás desarrollando. Está diseñado de manera tal que conocerás nuevos conceptos y podrás aplicarlos en un desarrollo real a tu propio ritmo y practicando inmediatamente.

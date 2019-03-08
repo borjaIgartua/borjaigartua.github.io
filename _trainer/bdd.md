@@ -1,6 +1,6 @@
 ---
 layout: default
-name: Behavior Driven Development
+title: Behavior Driven Development
 position: Trainer
 company: Indra
 duration: 12 horas
@@ -11,8 +11,8 @@ sidebar:
   - title: "Role"
     image: /assets/images/bdd-logo.jpg
     text: "Trainer"
-  - title: "Nivel"
-    text: Avanzado
+  - title: level
+    text: level_advance
 accordion:  
     - item:
         name: Introducción a BDD
@@ -91,18 +91,18 @@ accordion:
 <div id="main" role="main">
     {% include sidebar.html %}
     <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-      <meta itemprop="headline" content="{{ page.name }}"/>
+      <meta itemprop="headline" content="{{ page.title }}"/>
       <meta itemprop="description" content="{{ page.header.description }}"/>
       <div class="page__inner-wrap">
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">{{ page.name }}</h1>
+          <h1 id="page-title" class="page__title" itemprop="headline">{{ page.title }}</h1>
         </header>
         <section class="page__content" itemprop="text">
             <p>Behavior Driven Development es un proceso de desarrollo de software que trata de combinar los aspectos puramente técnicos y los de negocio, de manera que tengamos un marco de trabajo, y un marco de pruebas, en el que los requisitos de negocio formen parte del proceso de desarrollo.</p>
             <p>BDD es una evolución de TDD (Test Driven Development o Desarrollo Dirigido por Pruebas). De hecho, el concepto de BDD fue inicialmente introducido por Dan North como respuesta a los problemas que surgían al enseñar TDD.</p>
             <p>Como hemos visto, en su origen DBB empezó siendo un sistema que sustituía a TDD aplicando estos modelos de comportamiento, actualmente se ha convertido en mucho mas, según su creador “using examples at múltiple levels to create a shared understanding and surface uncertainty to deliver software that matters”.</p>
-          <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Temario</h3>     
-          {% include accordion include_scripts=true %}
+          <!-- <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Temario</h3>     
+          {% include accordion include_scripts=true %} -->
         </section>
       </div>
     </article>

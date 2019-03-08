@@ -1,6 +1,6 @@
 ---
 layout: default
-name: BBVA Link
+title: BBVA Link
 position: Developer
 date: 2014-03-01
 header:
@@ -20,7 +20,7 @@ gallery:
 ---
 
 <div id="main" role="main">    
-      <meta itemprop="headline" content="{{ page.name }}"/>
+      <meta itemprop="headline" content="{{ page.title }}"/>
       <meta itemprop="description" content="{{ page.header.description }}"/>
       <div class="page__inner-wrap" style="margin: 30px;">
       <div class="project-container left">
@@ -31,7 +31,7 @@ gallery:
       <div class="project-container right">        
         <section class="page__content" itemprop="text">
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">{{ page.name }}</h1>
+          <h1 id="page-title" class="page__title" itemprop="headline">{{ page.title }}</h1>
         </header>
             <p>BBVA Chile launches first bank account on Facebook in Latin America</p>
             <p>Digital banking has grown by leaps and bounds around the world and in Chile as well. The possibility of transferring money and performing many other financial operations through ATMs, mobile telephones, computers and tablets via Internet, is now joined by an innovative bank account on Facebook, the first of its kind in Latin America.</p>

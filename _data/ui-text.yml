@@ -53,6 +53,7 @@ en: &DEFAULT_EN
   go_for                     : "Go for"
   course_for                 : "This course is for developers, Analists and system administrators"
 # Desarrollo iOS
+  ios_dev_title              : "Developing applications for iOS"
   ios_obtain_iphone_sdk      : "Get iPhone SDK"
   ios_components             : "Components (Xcode, Simulator, interface builder…)"
   ios_what_is_objc           : "What is Objective-C?"

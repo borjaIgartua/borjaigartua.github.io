@@ -1,6 +1,6 @@
 ---
 layout: default
-name: Mercedes Home Automation
+title: Home Automation
 position: Developer
 date: 2018-06-01
 header:
@@ -15,7 +15,7 @@ gallery:
 ---
 
 <div id="main" role="main">    
-      <meta itemprop="headline" content="{{ page.name }}"/>
+      <meta itemprop="headline" content="{{ page.title }}"/>
       <meta itemprop="description" content="{{ page.header.description }}"/>
       <div class="page__inner-wrap" style="margin: 30px;">
       <div class="project-container left">
@@ -26,7 +26,7 @@ gallery:
       <div class="project-container right">        
         <section class="page__content" itemprop="text">
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">{{ page.name }}</h1>
+          <h1 id="page-title" class="page__title" itemprop="headline">{{ page.title }}</h1>
         </header>
             <p>Any time and anywhere. With the Mercedes me app on your iPhone or Apple Watch you have your personal point of entry to the world of Mercedes-Benz and direct access to your vehicle at your fingertips at all times.</p>
             <p>Thanks to this development you can connect Home Automation frameworks such us Samsung SmartThings<span style="font-size:0.6em;">&copy;</span> or Google Nest<span style="font-size:0.6em;">&copy;</span> with your car. Set your address and when you leave/enter your car will tell you that you are leaving/enter and automatically change you Home status.</p>

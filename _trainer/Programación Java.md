@@ -1,6 +1,6 @@
 ---
 layout: default
-name: 'Java Standard Edition'
+title: 'Java Standard Edition'
 position: Trainer
 company: Telefónica Educación Digital
 date: 2016-09-19
@@ -381,11 +381,11 @@ accordion:
 <div id="main" role="main">
     {% include sidebar.html %}
     <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-      <meta itemprop="headline" content="{{ page.name }}"/>
+      <meta itemprop="headline" content="{{ page.title }}"/>
       <meta itemprop="description" content="{{ page.header.description }}"/>
       <div class="page__inner-wrap">
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">{{ page.name }}</h1>
+          <h1 id="page-title" class="page__title" itemprop="headline">{{ page.title }}</h1>
         </header>
         <section class="page__content" itemprop="text">
           <p>Este curso está diseñado para gente que nunca se había planteado programar, pero quiere empezar. En este curso aprenderás la sintaxis del lenguaje Java y a utilizar las clases más importantes de la edición Java Standard Edition.</p>

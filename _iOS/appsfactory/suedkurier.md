@@ -1,6 +1,6 @@
 ---
 layout: default
-name: Südkurier
+title: Südkurier
 position: Developer
 date: 2018-01-15
 header:
@@ -17,7 +17,7 @@ gallery:
 ---
 
 <div id="main" role="main">    
-      <meta itemprop="headline" content="{{ page.name }}"/>
+      <meta itemprop="headline" content="{{ page.title }}"/>
       <meta itemprop="description" content="{{ page.header.description }}"/>
       <div class="page__inner-wrap" style="margin: 30px;">
       <div class="project-container left">
@@ -28,7 +28,7 @@ gallery:
       <div class="project-container right">        
         <section class="page__content" itemprop="text">
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">{{ page.name }}</h1>
+          <h1 id="page-title" class="page__title" itemprop="headline">{{ page.title }}</h1>
         </header>
             <p>Lesen Sie mit der neuen SÜDKURIER Online-App alle Nachrichten aus unserer Region auf Ihrem Smartphone. Erstellen Sie unverbindlich einen Zugang und testen Sie 7 Tage kostenlos SÜDKURIER Online in vollem Umfang.</p>
             <p>Die Vorteile als SÜDKURIER Online-Abonnent:<br/>• Alle SÜDKURIER Online Artikel optimiert für das Lesen auf dem Smartphone<br/>• 50% schnellere Ladezeiten als im Webbrowser<br/>• Durch Auswahl eines Heimatortes alle lokalen Neuigkeiten auf einen Blick<br/>• Dank Push-Nachrichten als Erster über lokale Ereignisse aus dem Heimatort informiert<br/>• Eilmeldungspush zu überregionalen Großereignissen sowie Leseempfehlungen<br/>• Einfache Navigation durch die Themen von SÜDKURIER Online<br/>• Artikel auf die persönliche Leseliste setzen und bequem später lesen</p>

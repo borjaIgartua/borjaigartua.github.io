@@ -1,6 +1,6 @@
 ---
 layout: default
-name: Tweetmeter
+title: Tweetmeter
 position: Developer
 date: 2012-10-01
 header:
@@ -13,7 +13,7 @@ gallery:
 ---
 
 <div id="main" role="main">    
-      <meta itemprop="headline" content="{{ page.name }}"/>
+      <meta itemprop="headline" content="{{ page.title }}"/>
       <meta itemprop="description" content="{{ page.header.description }}"/>
       <div class="page__inner-wrap" style="margin: 30px;">
       <div class="project-container left">
@@ -24,7 +24,7 @@ gallery:
       <div class="project-container right">        
         <section class="page__content" itemprop="text">
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">{{ page.name }}</h1>
+          <h1 id="page-title" class="page__title" itemprop="headline">{{ page.title }}</h1>
         </header>
             <p>Application that measures the impact of a tweet. Each tweet obtains points depending on the retweets within a range and the followers of the user who wrote the tweet.</p>
             <p>Screens display depending on the tweet position. In the first screens, we can see the tweets put together according to the zoom level of the map. The last screen is to change the localization of searching tweets. Depending on the position of the map, the app will look for tweets nearby.</p>

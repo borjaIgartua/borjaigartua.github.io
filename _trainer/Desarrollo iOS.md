@@ -1,6 +1,6 @@
 ---
 layout: default
-name: 'Desarrollo de aplicaciones para iOS'
+title: 'Developing applications for iOS'
 position: Trainer
 company: Sunion
 duration: 30 horas
@@ -205,11 +205,11 @@ accordion:
 <div id="main" role="main">
     {% include sidebar.html %}
     <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-      <meta itemprop="headline" content="{{ page.name }}"/>
+      <meta itemprop="headline" content="{{ page.title }}"/>
       <meta itemprop="description" content="{{ page.header.description }}"/>
       <div class="page__inner-wrap">
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">{{ page.name }}</h1>
+          <h1 id="page-title" class="page__title" itemprop="headline">{{ page.title }}</h1>
         </header>
         <section class="page__content" itemprop="text">
           <p>El alumno aprenderá las bases del lenguaje Objective-C / Swift, al mismo tiempo que conocerás las posibilidades que te brinda el framework Cocoa-Touch para crear interfaces gráficas, conectarte con un servidor, acceder a bases de datos SQL, y consultar la ubicación geográfica del usuario.</p>
