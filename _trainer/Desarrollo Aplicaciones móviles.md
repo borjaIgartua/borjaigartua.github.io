@@ -144,13 +144,13 @@ accordion:
           <h1 id="page-title" class="page__title" itemprop="headline">{{ page.title }}</h1>
         </header>
         <section class="page__content" itemprop="text">
-          <p>Dado que las apps móviles siguen experimentando un boom a nivel mundial y que España es uno de los países europeos con mayor utilización de aplicaciones móviles, este curso de Fundación Telefónica se perfila como opción para formarse y abrirse paso en un sector laboral con múltiples oportunidades para estos profesionales.</p>
-          <p>Los participantes aprenderán el sistema operativo Android e iOS, a familiarizarse con el lenguaje JAVA como Objective C, acceder desde las apps a todas las funcionalidades del terminal y publicar las apps en los repositorios de Apple y Google para que puedan ser descargadas.</p>
-          <p>El curso comprende un total de 4 meses separados en un bloque de formación troncal sobre arquitectura de aplicaciones, diseño web, desarrollo web con Phone Gap y programación JAVA, un bloque de formación específica sobre desarrollo de apps para Android, iOS, más desarrollo de proyecto, así como un bloque de habilidades para la empleabilidad para mejorar la marca personal, la búsqueda de empleo 2.0 e incrementar las competencias profesionales.</p>
+          <p>{{ site.data.ui-text[site.locale].tlf_desc_1 }}</p>
+          <p>{{ site.data.ui-text[site.locale].tlf_desc_2 }}</p>
+          <p>{{ site.data.ui-text[site.locale].tlf_desc_3 }}</p>
           <br/>
-          <p>Profesor de la parte de desarrollo de aplicaciones para iOS. Durante la parte del proyecto los alumnos se dividían en equipos de 5 o 6 personas y junto con una empresa colaboradora desarrollaban una aplicación que luego expondrían en un evento. En esta parte del curso trabajé ayudando y guiando a los equipos para que pudieran terminar sus proyectos tanto de iOS como de Android.</p>
+          <p>{{ site.data.ui-text[site.locale].tlf_desc_4 }}</p>
 
-          <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Temario</h3>     
+          <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Topics</h3>     
           {% include accordion include_scripts=true %}
         </section>
       </div>

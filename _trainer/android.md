@@ -187,7 +187,7 @@ accordion:
           <h1 id="page-title" class="page__title" itemprop="headline">{{ page.title }}</h1>
         </header>
         <section class="page__content" itemprop="text">
-            <p>Aprender a desarrollar una aplicación en el sistema operativo para móviles Android. Conocer los programas y entornos para su desarrollo así como las etapas necesarias hasta su publicación y posterior comercialización.</p>
+            <p>{{ site.data.ui-text[site.locale].android_desc_1 }}</p>
           <!-- <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Temario</h3>     
           {% include accordion include_scripts=true %} -->
         </section>

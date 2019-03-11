@@ -98,9 +98,9 @@ accordion:
           <h1 id="page-title" class="page__title" itemprop="headline">{{ page.title }}</h1>
         </header>
         <section class="page__content" itemprop="text">
-            <p>Behavior Driven Development es un proceso de desarrollo de software que trata de combinar los aspectos puramente técnicos y los de negocio, de manera que tengamos un marco de trabajo, y un marco de pruebas, en el que los requisitos de negocio formen parte del proceso de desarrollo.</p>
-            <p>BDD es una evolución de TDD (Test Driven Development o Desarrollo Dirigido por Pruebas). De hecho, el concepto de BDD fue inicialmente introducido por Dan North como respuesta a los problemas que surgían al enseñar TDD.</p>
-            <p>Como hemos visto, en su origen DBB empezó siendo un sistema que sustituía a TDD aplicando estos modelos de comportamiento, actualmente se ha convertido en mucho mas, según su creador “using examples at múltiple levels to create a shared understanding and surface uncertainty to deliver software that matters”.</p>
+            <p>{{ site.data.ui-text[site.locale].bdd_desc_1 }}</p>
+            <p>{{ site.data.ui-text[site.locale].bdd_desc_2 }}</p>
+            <p>{{ site.data.ui-text[site.locale].bdd_desc_3 }}</p>
           <!-- <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Temario</h3>     
           {% include accordion include_scripts=true %} -->
         </section>

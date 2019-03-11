@@ -19,7 +19,7 @@ accordion:
                 name: java_evol
                 haschildren: false
             - item:
-                name: Instalación
+                name: Instalation
                 haschildren: false
             - item:
                 name: java_instalation
@@ -388,9 +388,9 @@ accordion:
           <h1 id="page-title" class="page__title" itemprop="headline">{{ page.title }}</h1>
         </header>
         <section class="page__content" itemprop="text">
-          <p>Este curso está diseñado para gente que nunca se había planteado programar, pero quiere empezar. En este curso aprenderás la sintaxis del lenguaje Java y a utilizar las clases más importantes de la edición Java Standard Edition.</p>
-          <p>Empleo Digital de Fundación Telefónica te ayuda a descubrir el lenguaje de la era digital y el mundo apasionante de la programación.</p>
-          <p>El lenguaje Java es sin duda alguna el más utilizado entre la comunidad de desarrolladores y también por las Empresas de software. Aplicaciones Web, programas para dispositivos electrónicos, teléfonos móviles, tabletas, etc., todos estos tipos de programas se desarrollan utilizando el lenguaje Java. En este curso te enseñaremos a programar con este lenguaje y conocerás las principales clases utilizadas en la mayoría de los desarrollos, además de enseñarte las técnicas de orientación a objetos.</p>
+          <p>{{ site.data.ui-text[site.locale].java_desc_1 }}</p>
+          <p>{{ site.data.ui-text[site.locale].java_desc_2 }}</p>
+          <p>{{ site.data.ui-text[site.locale].java_desc_3 }}</p>
 
           <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Temario</h3>     
           {% include accordion include_scripts=true %}

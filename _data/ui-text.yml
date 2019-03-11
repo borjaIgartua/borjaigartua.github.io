@@ -96,6 +96,7 @@ en: &DEFAULT_EN
   ios_animations             : "Animations and video"
   ios_gestures               : "Gestures"
   ios_acelerometer           : "Acelerometer"
+  ios_desc_1                 : "The student will learn the foundations of Objective-C and Swift languages. Besides, we will teach all the possibilities available with the Cocoa-Touch framework to create graphic interfaces, connect to a server, access a SQL Data Base and obtain the user’s geographic location."
 # Desarrollo Aplicaciones móviles III Edición
   tlf_dev_tasks              : "IT Trainer in iOS module and in Project iOS & Android module"
   tlf_dev_what_is_about      : "About the couse"
@@ -123,6 +124,10 @@ en: &DEFAULT_EN
   tlf_dev_apps_distribution  : "Apps distribution"
   tlf_dev_apps_register      : "Register"
   tlf_dev_dist               : "Distribution"
+  tlf_desc_1                 : "Considering the worldwide boom of mobile apps and that Spain is one of the European countries with more mobile app users, this course, organised by Fundación Telefónica, offered the possibility to gain knowledge and make a way in a laboral market with various opportunities to these professionals."
+  tlf_desc_2                 : "The participants learnt Android and iOS, became familiar with JAVA language like Objective C and learnt how to access from the apps to all functionalities of the terminal, as well as to publish the apps on Apple and Google repositories to be downloaded."
+  tlf_desc_3                 : "The course had a four month duration divided into a core training on app architecture, web design, web design with Phone Gap and JAVA programming. Another specific part on app developing for Android, iOS and project developing, as well as a skills part to improve the personal brand, job seeking 2.0 and enhance professional competencies."
+  tlf_desc_4                 : "Teaching iOS app developing. During the project the participants were divided into teams of 5-6 and together with a collaborating company, developed an app that they would present at a event. In this part of the course I monitored and guided the groups so as to help them finish their projects in iOS and Android."
 # Elasticsearch
   elastic_terminology        : "Terminology"
   elastic_basics             : "Basic concepts"
@@ -172,6 +177,8 @@ en: &DEFAULT_EN
   elastic_monitoring         : "Monitoring"
   elastic_alerts             : "Alerts"
   elastic_statics            : "Statistics API"
+  elastic_desc_1             : "Elasticsearch is a distributed, RESTful search and analytics engine capable of solving a growing number of use cases. As the heart of the Elastic Stack, it centrally stores your data so you can discover the expected and uncover the unexpected."
+  elastic_desc_2             : "The course aims at obtaining a solid background in searching and recovering information, from the foundations and internal components to all practices, characteristics and searching apps development distributed by Elasticsearch. By the end of the course the participant would have gathered a profound knowledge of you Elasticsearch works and would be able to analyse, understand and solve common problems. The participant would also be able to build searching apps."
 # C++
   c_plus_course_for          : "This course is for developers who wants to learn C++"
   c_plus_introduction        : "Introduction to C++"
@@ -228,6 +235,7 @@ en: &DEFAULT_EN
   c_plus_algorithms          : "Algorithims"
   c_plus_point_parent        : "Pointers to Parent and childs"
   c_plus_virtual_func        : "Virtual functions"
+  c_plus_desc_1              : "The students will understand the fundations about programming language c++ and Object Oriented Programming technique. They will create a solid foundation of concepts and knowledge to use in their carriers."
 # Java Standard Edition
   java_concepts              : "Java concepts"
   java_evol                  : "Java evolution"
@@ -345,6 +353,9 @@ en: &DEFAULT_EN
   java_jdbc_type             : "Data types and casting"
   java_jdbc_op               : "Update, delete, insert records with SQL queries"
   java_jdbc_metadata         : "Metadata"
+  java_desc_1                : "This course is made for beginners. People who have never coded before and want to learn. On this course you will learn Java sintaxis and how to use the main Java Standard Edition libraries."
+  java_desc_2                : "Telefónica foundation will help you to discover the digital era language and a passionate programming world."
+  java_desc_3                : "Java is the most common programming language inside the IT community and for software enterprises. Web Applications, software for electronic devices, mobile phones, tablets… All of this kind of programs can be made with Java. On this course we will teach you how to code with this language and you will see the main classes used."
 #Selenium
   sel_course_go_for          : "This course is made for developers, project managers and architects who want to implement functional testing with Selenium"
   sel_purpouse               : "Purpose"
@@ -513,6 +524,53 @@ en: &DEFAULT_EN
   soap_http_form             : "Authentication with HTTP REST with forms"
   soap_oauth_two             : "Authentication with OAth 2"
   soap_session               : "Automatic generation for the OAuth 2 session token"
+# Revival
+  revival_desc_1             : "Revival is a free social network that enables to send time capsules privately to other contacts on a user’s contact list."
+  revival_desc_2             : "It is a touching app in which the user can share these time capsules packed with videos and pictures with relatives and friends. The idea is very simple: collect content and locked it up until a certain date. When the capsule reaches the deadline, the receiver will be able to open it and enjoy it. The user can make the waiting time longer or shorter."
+  revival_desc_3             : "Revival is very simple, the user only needs to run the app and sign up. The user can sign up easily through Facebook and get all contacts. After this the user needs to choose any picture, video or even messages saved on the phone and create the time capsule. Last but not least the user has to choose the date in which the time capsule will be open. A period of time between a few minutes or tons of years."
+  revival_desc_4             : "With the user’s friends will receive immediately a notification on their phones, but they won’t see the time capsule content, just a countdown with the time left to open it."
+  revival_desc_5             : "When the deadline is reached the receiver only has to open and enjoy it. Inside this time capsule a secure and private chat will open to comment with all those who are inside the time capsule."
+  revival_desc_6             : "With Revival you can share your pictures from your gallery, without opening the app."
+  revival_desc_1_2           : "Revival is a free social network that enables to send time capsules privately to other contacts on a user’s contact list. It is a touching app in which the user can share these time capsules packed with videos and pictures with relatives and friends."
+# NetCash
+  netcash_desc_1             : "Manage your business at any time and in any place with the app BBVA Net cash, the online banking for your businesses."
+  netcash_desc_2             : "With this app you can have a look at your accounts, activities and statements. You can check and accept pending transactions as well as follow them up. You can confirm transactions with a security code integrated in the app. Making national and international transactions and wire transfers is also possible. Manage and validate the operations of the users. Manage the security devices “mobile token” within the app (installation/generation of security codes). Receiving notifications on the phone regarding overdrafts and pending transactions to be confirmed by the user. Office locator. BBVA contact section. Notifications. Contact your financial advisor. Password forgotten."
+  netcash_desc_3             : "I have develop securization transfers throught soft security token."
+# HTML 5
+  html5_desc_1               : "HTML5 is the latest version of HTML. The term represents two different concepts:"
+  html5_desc_2               : "It is a new version of HTML, with new elements, attributes and behaviours."
+  html5_desc_3               : "It contains a wider range of technologies that enables Web sites and apps to be more diverse and reachable. This compound is called HTML5."
+  html5_desc_4               : "CSS3 is the last language development of cascade spread style sheet and aims at expanding the CSS2.1. Version. It contains many expected novelties like round corners, shadows, gradients, transitions or animations and new layouts like multiple columns, flexboxes and grid layouts."
+# Telefonica frontend
+  tlf_front_desc_1           : "A front end developer is the one in charge of changing the visual design into a interactive one: the web site. Due to this, the front end developer is a key part within the current laboral market, since there is a huge need increasement of interactive website."
+  tlf_front_desc_2           : "In this course we teach algorithm design and basic knowledge for the language programming. We will apply new technologies inside web design, as well new techniques and tools to build a project. We will use javascript language and its main libraries."
+  tlf_front_desc_3           : "The course is divided into the following modules:"
+  tlf_front_desc_4           : "Programming Methodology:"
+  tlf_front_desc_41          : "Application web architecture and all the different technologies involved."
+  tlf_front_desc_5           : "Design and Web integration:"
+  tlf_front_desc_51          : "Knowledge about the different design web technologies, as well as new techniques and tools to build a project."
+  tlf_front_desc_6           : "Client Layer development:"
+  tlf_front_desc_61          : "How to use javascript and its main libraries. Build the web client layer with this language."
+  tlf_front_desc_7           : "Last development Node JS:"
+  tlf_front_desc_71          : "Complex web site development with Node JS"
+# HTML5 frameworks
+  html5_fmrwk_desc           : "At the end of the course the student will know how to build website applications using HTML5 frameworks such as:  JQuery, SASS, Jasmine, Angular 2 y Node."
+# MATLAB
+  matlab_desc_1              : "Whether you are analyzing data, developing algorithms, or creating models, MATLAB is designed for the way you think and the work you do."
+  matlab_desc_2              : "MATLAB combines a desktop environment tuned for iterative analysis and design processes with a programming language that expresses matrix and array mathematics directly."
+  matlab_desc_3              : "MATLAB apps let you see how different algorithms work with your data. Iterate until you get the results you want, then automatically generate a MATLAB program to reproduce or automate your work."
+  matlab_desc_4              : "Scale your analyses to run on clusters, GPUs, and clouds with only minor code changes. There is no need to rewrite your code or learning big data programming and out-of-memory techniques."
+  matlab_desc_5              : "The goal of this course is to obtain enough knowledge about MATLAB so that the student can develop his/her daily job with it. Taking the advantage that these tools offer to deal with huge data. The course is 100% practical and we will learn all MATLAB basics. Data types (arrays and matrix) functions, how to create graphics and how to export/import data. We will see a little introduction about coding with MATLAB."
+# BDD
+  bdd_desc_1                 : "Behaviour Driven Development is a software development process which aims at combining the purely technical and business aspects so as to obtain a work scope and tests suite in which the business requisites take part in the development process."
+  bdd_desc_2                 : "BDD is a development of TDD (Test Driven Development). In fact, the concept BDD was initially introduced by Dan North as a solution to the problems that arose when teaching TDD."
+  bdd_desc_3                 : "As we have seen, DBB started as a system which substituted TDD applying these behavioural models and now it has become something more. According to its creator: “using examples at múltiple levels to create a shared understanding and surface uncertainty to deliver software that matters”."
+# Android
+  android_desc_1             : "Learn how to develop an app with Android. Getting to know the programs and environments to develop it and the necessary steps until its publications and later market launch."
+# About me
+  cice_course_desc           : "Developing small iOS apps integrating concepts of POO and Objective-C (an essential programming language to create iOS apps), being able to develop simple approach to develop apps, not only on my own but also as part of a teamwork."
+  tdd_course_desc            : "Since its creation by Kent Beck,  TDD (Test-Driven Development) has spread and gained popularity. However, it is often wrongly applied and the teams that implement them face the common problems and end up giving up the task:<br/><br/>• Usually we test what we shouldn’t <br/>• Tests are wrongly designed, so one test failed can have multiple reasons.<br/>• Tests take too long to execute, making developers to skip them.<br/>• We try to test everything instead of testing what needs to be test.<br/>•  It is not applied correctly to the particularities of iOS, Cocoa and Objective C.<br/><br/>All these errors happen because development teams learn “how” about TDD but not “why”. There is only a way to change our habits, that is, practising new ones. That is why this course, which has been successfully taught in European and LATAM companies, is mainly practice and is based on an iOS app development."
+  swift_couse_dec            : "You will create 15 professional, funny and relevant applications that allow you put into practice all the acquired knowledges during the course. Learning by doing: this course is designed in a way that you will learn new concepts and apply them to a real development case, always at your own working rhythm."
 en-US:
   <<: *DEFAULT_EN
 en-CA:

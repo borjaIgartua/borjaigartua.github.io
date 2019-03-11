@@ -27,14 +27,14 @@ sidebar:
           <h1 id="page-title" class="page__title" itemprop="headline">{{ page.title }}</h1>
         </header>
         <section class="page__content" itemprop="text">
-            <p>En el mundo tecnológico, el desarrollador de Front-End se encarga de convertir el diseño visual e interactivo de la parte que ven los usarios: el navegador web. Es por ello que es una pieza imprescindible para el mercado laboral actual por el auge de los sitios web interactivos.</p>
-            <p>Dentro de este curso se estudia desde el diseño de algoritmos, conocimiento fundamental para los lenguajes de programación. Aplicación de tecnologías en el diseño web, así como de las técnicas y herramientas para acometer un proyecto. Utilización del lenguaje javascript, así como las librerías mas importantes basadas en este lenguaje.</p>
-            <p>Se estudia a partir de módulos:<p>
+            <p>{{ site.data.ui-text[site.locale].tlf_front_desc_1 }}</p>
+            <p>{{ site.data.ui-text[site.locale].tlf_front_desc_2 }}</p>
+            <p>{{ site.data.ui-text[site.locale].tlf_front_desc_3 }}<p>
             <ul>
-                <li>Metodología de la programación.<br/><span style="font-size: 0.7em;">Comprender la arquitectura de una aplicación web y conocer las diferentes tecnologías implicadas</span></li>
-                <li> Diseño e integración web.<br/><span style="font-size: 0.7em;">Conocer y aplicar las diferentes tecnologías en el diseño web, así como las técnicas y herramientas para acometer un proyecto.</span></li>
-                <li> Desarrollo Capa cliente.<br/><span style="font-size: 0.7em;">Utilizar el lenguaje javascript, así como las librerías mas importantes basadas en este lenguaje, par la construcción de la capa cliente web en una aplicación</span></li>
-                <li> Desarrollo final de Servidor Node JS y el proyecto final del curso.<br/><span style="font-size: 0.7em;">Desarrollar un sitio web complejo con Node JS</span></li>
+                <li>{{ site.data.ui-text[site.locale].tlf_front_desc_4 }}<br/><span style="font-size: 0.7em;">{{ site.data.ui-text[site.locale].tlf_front_desc_41 }}</span></li>
+                <li> {{ site.data.ui-text[site.locale].tlf_front_desc_5 }}<br/><span style="font-size: 0.7em;">{{ site.data.ui-text[site.locale].tlf_front_desc_51 }}</span></li>
+                <li> {{ site.data.ui-text[site.locale].tlf_front_desc_6 }}<br/><span style="font-size: 0.7em;">{{ site.data.ui-text[site.locale].tlf_front_desc_61 }}</span></li>
+                <li> {{ site.data.ui-text[site.locale].tlf_front_desc_7 }}<br/><span style="font-size: 0.7em;">{{ site.data.ui-text[site.locale].tlf_front_desc_71 }}</span></li>
             </ul>
         <!-- </section>
       </div>

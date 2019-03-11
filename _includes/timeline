@@ -21,7 +21,7 @@
 
 				<span class="main_timeline filling-line" aria-hidden="true"></span>
 			</div> <!-- .events -->
-		</div> <!-- .events-wrapper -->
+		</div> <!-- .events-wrapper --> 
 			
 		<ul class="cd-timeline-navigation">
 			<li><a  class="main_timeline prev inactive">Prev</a></li>
@@ -72,7 +72,8 @@
 
 					</div>
 					<div class="archive__item-excerpt">
-						<p>{{ item.description | markdownify }}</p>							
+						{% assign localized_desc = site.data.ui-text[site.locale][{{item.description}}] | default: item.description %}
+						<p>{{ localized_desc | markdownify }}</p>							
 					</div>
 				</li>
 			{% endfor %}

@@ -34,9 +34,9 @@ gallery:
         <header>
           <h1 id="page-title" class="page__title" itemprop="headline">{{ page.title }}</h1>
         </header>
-            <p>Continúa con la gestión financiera de tu negocio en cualquier momento y lugar con la app de BBVA Net cash, la banca online para empresas.</p>
-            <p>Con esta aplicación podrás. Consultar cuentas, movimientos y extractos de correspondencia virtual. Consultar y firmar órdenes pendientes además de realizar su seguimiento. Firmar órdenes con el token móvil integrado en la aplicación. Realizar transferencias domésticas, internacionales, banco de España y traspasos. Solicitar anticipos de confirming. Administrar y validar operaciones de usuarios del contrato. Gestionar los dispositivos de seguridad "Token móvil" en la misma aplicación (instalación/generación de códigos de seguridad). Recibir notificaciones en el móvil con saldos descubiertos, órdenes pendientes, operaciones pendientes de realizar por un usuario. Localizador de oficinas. Sección de información de contacto con BBVA. Notificaciones. Contacta con tu gestor. Olvido de contraseña.</p>
-            <p>I have develop securization transfers throught soft security token.</p>
+            <p>{{ site.data.ui-text[site.locale].netcash_desc_1 }}</p>
+            <p>{{ site.data.ui-text[site.locale].netcash_desc_2 }}</p>
+            <p>{{ site.data.ui-text[site.locale].netcash_desc_3 }}</p>
             {% include video id="u23JETAhk3g" provider="youtube" %}
         </section>         
          </div>

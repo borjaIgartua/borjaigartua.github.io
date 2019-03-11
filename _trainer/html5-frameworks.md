@@ -267,7 +267,7 @@ accordion:
           <h1 id="page-title" class="page__title" itemprop="headline">{{ page.title }}</h1>
         </header>
         <section class="page__content" itemprop="text">
-          <p>Al acabar el curso, el alumno será capaz de entender como desarrollar aplicaciones Web usando HTML5 y los frameworks: JQuery, SASS, Jasmine, Angular 2 y Node.</p>
+          <p>{{ site.data.ui-text[site.locale].html5_fmrwk_desc }}</p>
           <!-- <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Temario</h3>     
           {% include accordion include_scripts=true %} -->
         </section>

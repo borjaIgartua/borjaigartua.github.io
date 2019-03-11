@@ -241,9 +241,9 @@ accordion:
           <h1 id="page-title" class="page__title" itemprop="headline">{{ page.title }}</h1>
         </header>
         <section class="page__content" itemprop="text">
-            <p>HTML5  es la última versión de HTML. El término representa dos conceptos diferentes:
-            <br/>Se trata de una nueva versión de HTML, con nuevos elementos, atributos y comportamientos. <br/>Contiene un conjunto más amplio de tecnologías que permite a los sitios Web y a las aplicaciones ser más diversas y de gran alcance. A este conjunto se le llama HTML5</p>
-            <p>CSS3 es la última evolución del lenguaje de las Hojas de Estilo en Cascada (Cascading Style Sheets), y pretende ampliar la versión CSS2.1. Trae consigo muchas novedades altamente esperadas , como las esquinas redondeadas, sombras, gradientes , transiciones o animaciones, y nuevos layouts como multi-columnas, cajas flexibles o maquetas de diseño en cuadrícula (grid layouts).</p>
+            <p>{{ site.data.ui-text[site.locale].html5_desc_1 }}
+            <br/>{{ site.data.ui-text[site.locale].html5_desc_2 }} <br/>{{ site.data.ui-text[site.locale].html5_desc_3 }}</p>
+            <p>{{ site.data.ui-text[site.locale].html5_desc_4 }}</p>
           <!-- <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Temario</h3>     
           {% include accordion include_scripts=true %} -->
         </section>

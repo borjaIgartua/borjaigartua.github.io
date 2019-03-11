@@ -200,9 +200,8 @@ accordion:
           <h1 id="page-title" class="page__title" itemprop="headline">{{ page.title }}</h1>
         </header>
         <section class="page__content" itemprop="text">
-          <p>Los alumnos entenderán los fundamentos del lenguaje de programación C++ y las técnicas de programación orientada a objetos, creando una base sólida de conceptos y conocimientos que luego utilizaran en su día a día profesional.</p>
-
-          <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Temario</h3>     
+          <p>{{ site.data.ui-text[site.locale].c_plus_desc_1 }}</p>
+          <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Topics</h3>     
           {% include accordion include_scripts=true %}
         </section>
       </div>

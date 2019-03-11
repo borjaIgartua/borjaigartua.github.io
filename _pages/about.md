@@ -21,7 +21,7 @@ timeline:
         duration: 80 hours
         company_name: CICE professional School for new Technologies ( Apple Certificate )
         company_url: http://www.cice.es        
-        description: Desarrollo de pequeñas aplicaciones iOS con conocimientos sobre POO y Objective – C (lenguaje de programación indispensable en la creación de aplicaciones para IOS), siendo capaces de desarrollar planteamientos sencillos para el desarrollo de aplicaciones, tanto particularmente como en un equipo de trabajo.
+        description: cice_course_desc
     - item:
         date: 2011-09-30
         fake_date: 2006-03-01
@@ -65,7 +65,7 @@ timeline:
         duration: 12 hours
         company_name: KeepCoding
         company_url: https://www.keepcoding.io
-        description: Desde que el TDD (Test-Driven Development) fue creado por Kent Beck, se ha extendido como la pólvora y goza de especial popularidad en estos momentos. Sin embargo, a menudo es mal aplicado y los equipos que lo implementan se ven aquejados de problemas comunes que terminan haciendo que se abandone:<br/><br/>• Se testa lo que no se debe.<br/>• Se diseñan mal los tests, de tal forma que un fallo tiene varias posibles causas.<br/>• Los tests tardan mucho en ejecutarse, haciendo que muchos desarrolladores se los salten.<br/>• Se intenta testarlo todo, en vez de aquello que hace falta.<br/>• No se sabe aplicar a las peculiaridades de iOS, Cocoa y Objective C.<br/><br/>La totalidad de estos errores se debe a que muchos equipos de desarrollo aprenden el “cómo” del TDD pero no el “por qué”. Solo existe una forma de modificar hábitos; practicando los nuevos. Por eso este curso, que ha sido impartido con éxito en varias empresas de Europa y LATAM, es fundamentalmente práctico y se basa en el desarrollo de una App real para iPhone.
+        description: tdd_course_desc
     - item:
         date: 2015-03-10
         fake_date: 2006-08-01
@@ -82,7 +82,7 @@ timeline:
         duration: 23 hours
         company_name: Udemy
         company_url: http://www.udemy.com
-        description: Crearás hasta 15 Apps profesionales, divertidas y relevantes que te permitirán poner en práctica todos los conocimientos adquiridos a lo largo del curso y formar un portafolio sólido para comenzar tu carrera en desarrollo mobile.<br/>Aprenderás desarrollando. Está diseñado de manera tal que conocerás nuevos conceptos y podrás aplicarlos en un desarrollo real a tu propio ritmo y practicando inmediatamente.
+        description: swift_couse_dec
     - item:
         date: 2016-05-15
         fake_date: 2006-10-01
