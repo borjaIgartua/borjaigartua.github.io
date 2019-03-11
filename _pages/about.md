@@ -122,7 +122,6 @@ timeline:
 {% include progressBar.html percentage="60" title="Agile" color="orange" %}
 {% include progressBar.html percentage="70" title="Continuos integration" color="green" %}
 {% include progressBar.html percentage="80" title="English" color="pink" %}
-{% include progressBar.html percentage="16" title="German" color="blue" %}
 </div>
 </div>
 
