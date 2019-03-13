@@ -4,7 +4,7 @@ title: Revival
 position: Developer
 date: 2015-03-01
 header:
-  teaser: /assets/images/revival-logo.png
+  teaser: /assets/images/revival-logo.jpg
 gallery:
   - image_path: /assets/screens/iOS/revival/uno.png
   - image_path: /assets/screens/iOS/revival/dos.png
