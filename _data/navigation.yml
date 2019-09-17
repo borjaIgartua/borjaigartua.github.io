@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Movilok"
+    url: /movilok
   - title: "iOS"
     url: /iOS
   - title: "Trainer"
