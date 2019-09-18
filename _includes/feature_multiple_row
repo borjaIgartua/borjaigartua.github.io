@@ -1,0 +1,64 @@
+{% if include.id %}
+  {% assign feature_multiple_row = page[include.id] %}
+{% else %}
+  {% assign feature_multiple_row = page.feature_multiple_row %}
+{% endif %}
+
+<div class="feature__wrapper {% if include.class %}{{ include.class }}{% endif %}">
+
+  {% for f in feature_multiple_row %}
+
+    {% if f.url contains "://" %}
+      {% capture f_url %}{{ f.url }}{% endcapture %}
+    {% else %}
+      {% capture f_url %}{{ f.url | relative_url }}{% endcapture %}
+    {% endif %}
+
+    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+      <div class="archive__item">
+        {% if f.images %}
+          <div class="archive__item-teaser {{ f.size }} ">
+            {% for i in f.images %}
+              {% assign item = i.item %}
+              {% if item.url %}
+              <a href="{{item.url}}">
+              {% endif %}
+                <img src=
+                  {% if item.image_path contains "://" %}
+                    "{{ item.image_path }}"
+                  {% else %}
+                    "{{ item.image_path | relative_url }}"
+                  {% endif %}
+                alt="{% if item.alt %}{{ item.alt }}{% endif %}" class="{{item.class}}">                            
+              {% if item.url %}
+              </a>
+              {% endif %}
+            {% endfor %}            
+          </div>
+        {% endif %}
+
+        <div class="archive__item-body" 
+        {% if include.type == "left" %}
+          style="float:left;"
+        {% endif %}
+        >
+          {% if f.title %}
+            <h1 class="archive__item-title splash_title">{{ f.title }}</h1>
+          {% endif %}
+
+          {% if f.excerpt %}
+            <div class="archive__item-excerpt">
+              {% assign localized_excerpt = site.data.ui-text[site.locale][{{f.excerpt}}] | default: f.excerpt %}
+              {{ localized_excerpt | markdownify }}
+            </div>
+          {% endif %}
+
+          {% if f.url %}
+            <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+
+</div>

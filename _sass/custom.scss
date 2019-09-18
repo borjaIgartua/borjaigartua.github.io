@@ -122,7 +122,19 @@ h1 {
     }
 }
 
-/* Gallery include*/
-.figure_display_grid {
-    display: grid !important;
+/* Multiple feature row */
+.multiple_row_image {
+    border-radius: $border-radius;
+    
+    &.bottom {
+        margin-top: 10px;
+    }
+}
+
+@include breakpoint($small) {
+    .archive__item-teaser {
+        &.teaser-small {
+            width: span(3 of 22);
+        }      
+    }
 }
