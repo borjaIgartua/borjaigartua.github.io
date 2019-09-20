@@ -138,3 +138,14 @@ h1 {
         }      
     }
 }
+
+div .archive__item-body {
+    &.archive__item-body--left {
+        float: left;
+    }
+
+    &.archive__item-body--right {
+        float: right;
+    }
+}
+

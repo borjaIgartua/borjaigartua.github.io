@@ -14,7 +14,7 @@
       {% capture f_url %}{{ f.url | relative_url }}{% endcapture %}
     {% endif %}
 
-    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}" {% if include.style %}style="{{include.style}}"{%endif%}>
       <div class="archive__item">
         {% if f.images %}
           <div class="archive__item-teaser {{ f.size }} ">
@@ -37,10 +37,7 @@
           </div>
         {% endif %}
 
-        <div class="archive__item-body" 
-        {% if include.type == "left" %}
-          style="float:left;"
-        {% endif %}
+        <div class="archive__item-body {% if include.type %}archive__item-body--{{include.type}}{% endif %}"
         >
           {% if f.title %}
             <h1 class="archive__item-title splash_title">{{ f.title }}</h1>

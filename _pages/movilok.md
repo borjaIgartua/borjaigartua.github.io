@@ -16,6 +16,28 @@ windows_phone:
     title: BBVA
     excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi neque purus, volutpat ut purus nec, ultrices venenatis erat. Maecenas fermentum scelerisque justo, ullamcorper tristique tortor tristique ut.'
     size: teaser-small
+ios_multiple_row:
+  - images:
+    - item:
+        image_path: /assets/images/twitter-logo.jpg
+        url: /iOS/tweetmeter
+        class: multiple_row_image
+    - item:
+        image_path: /assets/images/bbva-next-logo.jpg
+        url: /iOS/bbva-next
+        class: multiple_row_image bottom
+    - item:
+        image_path: /assets/images/bbva-next-logo.jpg
+        url: /iOS/bbva-next
+        class: multiple_row_image bottom
+    - item:
+        image_path: /assets/images/bbva-next-logo.jpg
+        url: /iOS/bbva-next
+        class: multiple_row_image bottom
+    title: BBVA
+    excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi neque purus, volutpat ut purus nec, ultrices venenatis erat. Maecenas fermentum scelerisque justo, ullamcorper tristique tortor tristique ut.'
+    size: teaser-small
 ---
 
-{% include feature_multiple_row id="windows_phone" type="left" %}
+{% include feature_multiple_row id="windows_phone" type="left" style="margin-top: 20px;" %}
+{% include feature_multiple_row id="ios_multiple_row" type="right" style="margin-top: 5px;" %}
