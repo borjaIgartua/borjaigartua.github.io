@@ -25,19 +25,19 @@ ios_multiple_row:
     - item:
         image_path: /assets/images/bbva-next-logo.jpg
         url: /iOS/bbva-next
-        class: multiple_row_image bottom
+        class: multiple_row_image
     - item:
         image_path: /assets/images/bbva-next-logo.jpg
         url: /iOS/bbva-next
-        class: multiple_row_image bottom
+        class: multiple_row_image
     - item:
         image_path: /assets/images/bbva-next-logo.jpg
         url: /iOS/bbva-next
-        class: multiple_row_image bottom
+        class: multiple_row_image
     title: BBVA
     excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi neque purus, volutpat ut purus nec, ultrices venenatis erat. Maecenas fermentum scelerisque justo, ullamcorper tristique tortor tristique ut.'
-    size: teaser-small
+    size: teaser-medium
 ---
 
-{% include feature_multiple_row id="windows_phone" type="left" style="margin-top: 20px;" %}
-{% include feature_multiple_row id="ios_multiple_row" type="right" style="margin-top: 5px;" %}
+{% include feature_multiple_row id="windows_phone" type="left" rows="2" style="margin-top: 20px;" %}
+{% include feature_multiple_row id="ios_multiple_row" type="right" rows="2" style="margin-top: 5px;" %}

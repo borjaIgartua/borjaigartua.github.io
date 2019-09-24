@@ -122,30 +122,3 @@ h1 {
     }
 }
 
-/* Multiple feature row */
-.multiple_row_image {
-    border-radius: $border-radius;
-    
-    &.bottom {
-        margin-top: 10px;
-    }
-}
-
-@include breakpoint($small) {
-    .archive__item-teaser {
-        &.teaser-small {
-            width: span(3 of 22);
-        }      
-    }
-}
-
-div .archive__item-body {
-    &.archive__item-body--left {
-        float: left;
-    }
-
-    &.archive__item-body--right {
-        float: right;
-    }
-}
-

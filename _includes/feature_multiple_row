@@ -17,22 +17,32 @@
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}" {% if include.style %}style="{{include.style}}"{%endif%}>
       <div class="archive__item">
         {% if f.images %}
-          <div class="archive__item-teaser {{ f.size }} ">
+          <div class="archive__item-teaser {{ f.size }} ">            
             {% for i in f.images %}
-              {% assign item = i.item %}
-              {% if item.url %}
-              <a href="{{item.url}}">
-              {% endif %}
+              {% assign item = i.item %}              
+              {% assign rows = include.rows %}
+              {% assign image_size = f.images.size %}
+
+              {% capture rows %}{{rows}}{% endcapture %}
+              {% capture image_size %}{{image_size}}{% endcapture %}
+              {% if rows < image_size %}
+              <div class="image_row_container--{{forloop.index}} ">
+              {%endif%}
+                {% if item.url %}
+                <a href="{{item.url}}">
+                {% endif %}
                 <img src=
                   {% if item.image_path contains "://" %}
                     "{{ item.image_path }}"
                   {% else %}
                     "{{ item.image_path | relative_url }}"
                   {% endif %}
-                alt="{% if item.alt %}{{ item.alt }}{% endif %}" class="{{item.class}}">                            
-              {% if item.url %}
-              </a>
-              {% endif %}
+                  alt="{% if item.alt %}{{ item.alt }}{% endif %}" class="{{item.class}}">                
+                {% if item.url %}
+                </a>
+                {% endif %}
+              {% if rows < image_size %}</div>{%endif%}                
+
             {% endfor %}            
           </div>
         {% endif %}

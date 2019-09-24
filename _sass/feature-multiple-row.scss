@@ -1,0 +1,51 @@
+.multiple_row_image {
+    border-radius: $border-radius;
+    
+    &.bottom {
+        margin-top: 10px;
+    }
+}
+
+@include breakpoint($small) {
+    .archive__item-teaser {
+        &.teaser-small {
+            width: span(3 of 22);
+        }
+        
+        &.teaser-medium {
+            width: span(5 of 12);
+        }
+    }
+}
+
+div .archive__item-body {
+    &.archive__item-body--left {
+        float: left;
+    }
+
+    &.archive__item-body--right {
+        float: right;
+    }
+}
+
+
+//TODO: for in scss
+
+.image_row_container--1, 
+.image_row_container--3 {
+    width: 48%;
+    float: right;
+    // margin-left: 10px;
+}
+
+.image_row_container--2,
+.image_row_container--4 {
+    width: 48%;
+    float: left;
+    // margin-right: 10px;
+}
+
+.image_row_container--3,
+.image_row_container--4 {
+    margin-top: 10px;
+}
