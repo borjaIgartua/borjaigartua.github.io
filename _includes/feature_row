@@ -17,7 +17,7 @@
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item">
         {% if f.image_path %}
-          <div class="archive__item-teaser">
+          <div class="archive__item-teaser {{f.image_size}}">
             <img src=
               {% if f.image_path contains "://" %}
                 "{{ f.image_path }}"
@@ -31,7 +31,7 @@
           </div>
         {% endif %}
 
-        <div class="archive__item-body">
+        <div class="archive__item-body {{ include.type }}">
           {% if f.title %}
             <h1 class="archive__item-title splash_title">{{ f.title }}</h1>
           {% endif %}

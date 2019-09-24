@@ -2,6 +2,10 @@
 main:
   - title: "Movilok"
     url: /movilok
+  - title: "Revival"
+    url: /revival
+  - title: "Pronoide"
+    url: /pronoide
   - title: "iOS"
     url: /iOS
   - title: "Trainer"

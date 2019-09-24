@@ -13,7 +13,7 @@
         }
         
         &.teaser-medium {
-            width: span(5 of 12);
+            width: span(4 of 16);
         }
     }
 }
@@ -28,19 +28,16 @@ div .archive__item-body {
     }
 }
 
-
-//TODO: for in scss
-
 .image_row_container--1, 
 .image_row_container--3 {
-    width: 48%;
+    width: 49%;
     float: right;
     // margin-left: 10px;
 }
 
 .image_row_container--2,
 .image_row_container--4 {
-    width: 48%;
+    width: 49%;
     float: left;
     // margin-right: 10px;
 }
