@@ -288,7 +288,22 @@ collections:
     permalink: /movilok/windows-phone/:name
   movilokios:    
     output: true
-    permalink: /movilok/ios/:name       
+    permalink: /movilok/ios/:name
+  pronoidemobile:
+    output: true
+    permalink: /pronoide/mobile/:name
+  pronoidebigdata:
+    output: true
+    permalink: /pronoide/big-data/:name
+  pronoidetesting:
+    output: true
+    permalink: /pronoide/testing/:name
+  pronoidefrontend:
+    output: true
+    permalink: /pronoide/front-end/:name
+  pronoidemore:
+    output: true
+    permalink: /pronoide/more/:name
   # iOS:
   #   output: true
   #   permalink: /:collection/:name
