@@ -307,6 +307,12 @@ collections:
   appsfactoryfirstprojects:
     output: true
     permalink: /appsfactory/first-projects/:name
+  appsfactorybeurer:
+    output: true
+    permalink: /appsfactory/beurer/:name
+  appsfactorybackend:
+    output: true
+    permalink: /appsfactory/backend/:name
   # iOS:
   #   output: true
   #   permalink: /:collection/:name
