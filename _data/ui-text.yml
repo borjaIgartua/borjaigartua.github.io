@@ -571,6 +571,10 @@ en: &DEFAULT_EN
   cice_course_desc           : "Developing small iOS apps integrating concepts of POO and Objective-C (an essential programming language to create iOS apps), being able to develop simple approach to develop apps, not only on my own but also as part of a teamwork."
   tdd_course_desc            : "Since its creation by Kent Beck,  TDD (Test-Driven Development) has spread and gained popularity. However, it is often wrongly applied and the teams that implement them face the common problems and end up giving up the task:<br/><br/>• Usually we test what we shouldn’t <br/>• Tests are wrongly designed, so one test failed can have multiple reasons.<br/>• Tests take too long to execute, making developers to skip them.<br/>• We try to test everything instead of testing what needs to be test.<br/>•  It is not applied correctly to the particularities of iOS, Cocoa and Objective C.<br/><br/>All these errors happen because development teams learn “how” about TDD but not “why”. There is only a way to change our habits, that is, practising new ones. That is why this course, which has been successfully taught in European and LATAM companies, is mainly practice and is based on an iOS app development."
   swift_couse_dec            : "You will create 15 professional, funny and relevant applications that allow you put into practice all the acquired knowledges during the course. Learning by doing: this course is designed in a way that you will learn new concepts and apply them to a real development case, always at your own working rhythm."
+# My Wires
+  my_wires_desc_1            : "Digitise your clothings – and use My Wires app to gain an overview of central topics of your clothing management, such as clothing condition, service and maintenance."
+  my_wires_desc_2            : "The starting point is the unique digitisation of your clothing management. This only takes a few minutes – with Truetzschler clothing and Truetzschler machines, just a few details are needed and you are ready to go. The My Wires app can also be used for machines and clothings from other manufacturers."
+  my_wires_desc_3            : "Once set up, you can use the My Wires app to manage all tasks related to your clothings. You can see at a glance when and where the next maintenance assignment is due. You can adapt the Truetzschler recommendations for grinding and clothing change to your own experience. Orders can also be easily organised and implemented."
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -983,6 +987,10 @@ de: &DEFAULT_DE
   loading_label              : "Lade..."
   search_placeholder_text    : "Suchbegriff eingeben..."
   results_found              : "Ergebnis(se) gefunden"
+# My Wires
+  my_wires_desc_1            : "Digitalisieren Sie Ihre Garnituren – und überblicken Sie mit unserer My Wires App zentrale Themen Ihres Garnituren-Managements, wie Garnituren-Zustand, Service und Wartung."
+  my_wires_desc_2            : "Startpunkt ist die einmalige Digitalisierung Ihres Garnituren-Managements. Das nimmt nur wenige Minuten in Anspruch – bei Trützschler Garnituren und Trützschler Maschinen genügen wenige Angaben und Sie sind startklar. Die My Wires App ist aber auch für Maschinen und Garnituren anderer Hersteller einsetzbar."
+  my_wires_desc_3            : "Einmal eingerichtet können Sie mit der My Wires App alle Aufgaben rund um Ihre Garnituren managen. Sie sehen auf einen Blick, wann und wo der nächste Wartungseinsatz ansteht. Die Trützschler-Empfehlungen für das Schleifen und Wechseln der Garnituren können Sie an Ihre eigenen Erfahrungen anpassen. Auch Bestellungen lassen sich ­unkompliziert organisieren und durchführen."
 de-DE:
   <<: *DEFAULT_DE
 de-AT:

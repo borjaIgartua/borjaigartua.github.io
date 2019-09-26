@@ -304,6 +304,9 @@ collections:
   pronoidemore:
     output: true
     permalink: /pronoide/more/:name
+  appsfactoryfirstprojects:
+    output: true
+    permalink: /appsfactory/first-projects/:name
   # iOS:
   #   output: true
   #   permalink: /:collection/:name

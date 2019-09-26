@@ -9,27 +9,38 @@ ios_row:
   - images:
     - item:
         image_path: /assets/images/irl-logo.jpg
+        url: /appsfactory/first-projects/invest-region-leipzig
         class: multiple_row_image
     - item:
         image_path: /assets/images/suedkurier-logo.jpg
+        url: /appsfactory/first-projects/suedkurier
         class: multiple_row_image
     - item:
         image_path: /assets/images/home-automation-logo.jpg
+        url: /appsfactory/first-projects/home-automation
         class: multiple_row_image
     - item:
         image_path: /assets/images/mercedes-me-logo.jpg
+        url: /appsfactory/first-projects/mercedes-me
         class: multiple_row_image
     title: First Projects
     excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi neque purus, volutpat ut purus nec, ultrices venenatis erat. Maecenas fermentum scelerisque justo, ullamcorper tristique tortor tristique ut.'
     size: teaser-medium
+    url: "/appsfactory/first-projects"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 truetzschler_row:
   - images:
     - item:
         image_path: /assets/images/bbva-link-logo.jpg
+        url: /appsfactory/mywires
         class: multiple_row_image
     title: Trützschler
     excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi neque purus, volutpat ut purus nec, ultrices venenatis erat. Maecenas fermentum scelerisque justo, ullamcorper tristique tortor tristique ut. (trü ios)'
     size: teaser-medium
+    url: "/appsfactory/mywires"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 beurer_row:
   - images:
     - item:
