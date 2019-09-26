@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /movilok/ios/bbva-link
 title: BBVA Link
 position: Developer
 date: 2014-03-01

@@ -112,16 +112,9 @@ timeline:
         description: Developing Südkurier iOS application. Newspaper app to read, safe and rate the latest news. App developed in Swift. Working with a full team, Project Manager, QA, back-end  and designer.<br/><br/>Development Pilot project to evaluate Augmented Reality framework in iOS. With this application you can scan a QR and see a video playing in augmented reality.<br/><br/>Working for Daimler USA developing Mercedes Home Automation feature. Feature to connect smart home services such as Nest or SmartThings to your car. Working in Silicon Valley with a full team, Project Manager, QA, back-end  and designer.<br/><br/>Working for Daimler AG into a team responsible of the good quality features. Our responsability was review team features and ensure that the code quality follows the Daimler standards. As well As we were responsible of the good sanity of the Continuos integration system. Also we develop some features for the application.<br/><br/>During this time we won the Daimler Supplier Award in the category Innovation agains over 60.000 other suppliers.
 ---
 <div id="main" role="main">
-{% include timeline id="timeline" %}
-<div style="text-align: center;">
-<p><a href="/assets/files/cv.pdf" class="btn btn--primary">Download CV</a></p>
-</div>
-<div class="page__inner-wrap" style="margin: 30px;">
-{% include progressBar.html percentage="80" title="Git" color="blue" %}
-{% include progressBar.html percentage="50" title="Project Management" color="green" %}
-{% include progressBar.html percentage="60" title="Agile" color="orange" %}
-{% include progressBar.html percentage="70" title="Continuos integration" color="green" %}
-{% include progressBar.html percentage="80" title="English" color="pink" %}
-</div>
+    {% include timeline id="timeline" %}
+    <div style="text-align: center;">
+        <p><a href="/assets/files/cv.pdf" class="btn btn--primary">Download CV</a></p>
+    </div>
 </div>
 

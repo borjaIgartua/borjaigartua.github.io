@@ -3,6 +3,7 @@ layout: default
 title: BBVA ES
 position: Developer
 date: 2011-09-01
+
 header:
   teaser: /assets/images/bbva-next-logo.jpg
 gallery:

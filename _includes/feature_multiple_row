@@ -26,7 +26,7 @@
               {% capture rows %}{{rows}}{% endcapture %}
               {% capture image_size %}{{image_size}}{% endcapture %}
               {% if rows < image_size %}
-              <div class="image_row_container--{{forloop.index}} ">
+              <div class="image_row_container--{{forloop.index}} {{item.class}}">
               {%endif%}
                 {% if item.url %}
                 <a href="{{item.url}}">
@@ -57,12 +57,21 @@
             <div class="archive__item-excerpt">
               {% assign localized_excerpt = site.data.ui-text[site.locale][{{f.excerpt}}] | default: f.excerpt %}
               {{ localized_excerpt | markdownify }}
-            </div>
-          {% endif %}
 
-          {% if f.url %}
-            <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+              {% if f.url %}
+                <div style="font-size:1.2em;">
+                  <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+                </div>
+              {% endif %}
+            </div>
+          {% else %}
+            {% if f.url %}
+              <div>
+                <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+              </div>
+            {% endif %}          
           {% endif %}
+          
         </div>
       </div>
     </div>

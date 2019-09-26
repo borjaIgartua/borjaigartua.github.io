@@ -281,16 +281,17 @@ compress_html:
 # Defaults
 
 #Collections
-collections:
-  iOS:
+collections_dir: my_collections
+collections:  
+  movilokwp:    
     output: true
-    permalink: /:collection/:name
-  trainer:
+    permalink: /movilok/windows-phone/:name
+  movilokios:    
     output: true
-    permalink: /:collection/:name
-  windows-phone:
-    output: true
-    permalink: /:collection/:name
-  pet-projects:
-    output: true
-    permalink: /projects/:name
+    permalink: /movilok/ios/:name       
+  # iOS:
+  #   output: true
+  #   permalink: /:collection/:name
+  # trainer:
+  #   output: true
+  #   permalink: /:collection/:name  

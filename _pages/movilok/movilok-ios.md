@@ -1,9 +1,9 @@
 ---
 title: iOS
 layout: collection
-permalink: /iOS/
-collection: iOS
+permalink: /movilok/ios/
+collection: movilokios
 entries_layout: grid
 sort_by: date
-sort_order: reverse
+sort_order: forward
 ---

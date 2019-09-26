@@ -6,12 +6,8 @@ main:
     url: /revival
   - title: "Pronoide"
     url: /pronoide
-  - title: "iOS"
-    url: /iOS
-  - title: "Trainer"
-    url: /trainer
-  - title: "Windows Phone"
-    url: /windows-phone
+  - title: "Appsfactory"
+    url: /appsfactory
   - title: "About me"
     url: /about
 

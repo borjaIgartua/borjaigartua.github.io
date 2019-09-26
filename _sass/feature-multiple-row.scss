@@ -33,6 +33,10 @@ div .archive__item-body {
     width: 49%;
     float: right;
     // margin-left: 10px;
+
+    &.special-left {
+        float: left;
+    }
 }
 
 .image_row_container--2,
