@@ -113,8 +113,5 @@ timeline:
 ---
 <div id="main" role="main">
     {% include timeline id="timeline" %}
-    <div style="text-align: center;">
-        <p><a href="/assets/files/cv.pdf" class="btn btn--primary">Download CV</a></p>
-    </div>
 </div>
 
