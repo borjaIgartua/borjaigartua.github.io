@@ -4,7 +4,7 @@ title: Appsfactory
 permalink: /appsfactory/
 
 feature_row:
-    - excerpt: 'Back to the roots. I moved to Germany and went back iOS development. After almost two years as a trainer I wanted to put in practice my expertise, also I missed being part of a team and develop products that the people can use.'
+    - excerpt: 'Back to the roots. I moved to Germany and went back iOS development. I wanted to put in practice my expertise gained as trainer, also I missed being part of a team and develop products that the people can use. I am working here **since 2018**'
 ios_row:
   - images:
     - item:

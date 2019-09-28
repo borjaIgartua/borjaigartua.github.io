@@ -4,7 +4,7 @@ title: Pronoide
 permalink: /pronoide/
 
 feature_row:
-    - excerpt: "Being five years as iOS developer has let me with a little bit of knowledge about what I didn't know. Becoming a Trainer I want to learn all about what I didn't know. I was Trainer around two years and I can say that is one of the most gratefull jobs I ever had."
+    - excerpt: "Being five years as iOS developer has let me with a little bit of knowledge about what I didn't know. Becoming a Trainer I want to learn all about what I didn't know. I was Trainer around **two years** and I can say that is one of the most gratefull jobs I ever had."
 mobile_row:
   - images:
     - item:

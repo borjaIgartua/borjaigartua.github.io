@@ -9,7 +9,7 @@ header:
 feature_row:
   - image_path: /assets/images/revival-logo.jpg
     title: "Revival"
-    excerpt: 'After my first years I was ready for a new challenge. I joined Revival, a startup where I was in since it started. We were a team of five working in all aspects related our application. At Revival I was not only the **iOS developer**, we worked together taking decisions about the app usability, the product, new features ...'
+    excerpt: 'After my first years I was ready for a new challenge and I joined Revival, a startup where I was in since the beginning. We were a team of five working in all aspects related our application. At Revival I was not only the **iOS developer**, we worked together taking decisions about the app usability, the product, new features ...'
     image_size: medium
 gallery:
   - image_path: /assets/screens/iOS/revival/uno.png
