@@ -15,165 +15,165 @@ sidebar:
     text: level_advance
 accordion:  
   - item:
-      name: Introducción a Android y al entorno de desarrollo
+      name: Introduction
       haschildren: true
       subitems:
         - item:
-            name: ¿Qué es Android?
+            name: What is Android?
             haschildren: false
         - item:
-            name: Instalación Android SDK, Android Studio, Eclipse y ADT
+            name: Android SDK Installation, Android Studio, Eclipse and ADT
             haschildren: false
         - item:
-            name: Los archivos APK
+            name: The APK files
             haschildren: false
         - item:
-            name: Emuladores y dispositivos físicos
+            name: Emulators and phisycal devices
             haschildren: false
         - item:
-            name: El uso de ficheros XML y el archivo AndroidManifest.xml
+            name: XML file and AndroidManifest.xml
             haschildren: false
         - item:
-            name: Firmado con APK y distribución
+            name: Sign  APK and distribution
             haschildren: false
   - item:
-      name: Aplicaciones
+      name: Applications
       haschildren: true
       subitems:
         - item:
-            name: Características de las aplicaciones
+            name: Application characteristics
             haschildren: false
         - item:
-            name: Actividades
+            name: Activities
             haschildren: false
         - item:
-            name: Ciclo de vida de las actividades
+            name: Activities life cycle
             haschildren: false
         - item:
             name: Intents
             haschildren: false
   - item:
-      name: Generación de interfaces de usuario
+      name: Generation user interfaces
       haschildren: true
       subitems:
         - item:
-            name: Layouts y vistas
+            name: Layouts y views
             haschildren: false
         - item:
             name: ViewGroups
             haschildren: false
         - item:
-            name: Vistas avanzadas
+            name: Advanced views
             haschildren: false
         - item:
-            name: Resoluciones y tamaños de pantalla
+            name: Screens resolutions
             haschildren: false
         - item:
             name: ListView y Adapters
             haschildren: false
         - item:
-            name: Manejo de eventos
+            name: How to handle an event
             haschildren: false
         - item:
-            name: Estilos y temas
+            name: Styles and themes
             haschildren: false
   - item:
-      name: Menús, Diálogos y Notificaciones
+      name: Menu, Dialogs and Notifications
       haschildren: true
       subitems:
         - item:
-            name: Menús de opciones y contextuales
+            name: Contextual menu
             haschildren: false
         - item:
-            name: Menú ítems, submenús y menús contextuales
+            name: Menu items, submenu and contextual menu
             haschildren: false
         - item:
-            name: Dialogos
+            name: Dialogs
             haschildren: false
         - item:
             name: Toasts
             haschildren: false
         - item:
-            name: Notificaciones
+            name: Notifications
             haschildren: false
   - item:
-      name: Persistencia de datos y content providers
+      name: Data persistancy and content providers
       haschildren: true
       subitems:
         - item:
-            name: Preferencias y estados de pantalla
+            name: Preferences and screen states
             haschildren: false
         - item:
-            name: Ficheros
+            name: Files
             haschildren: false
         - item:
-            name: Bases de datos Android SQLite
+            name: Android SQLite
             haschildren: false
         - item:
-            name: Proveedores de contenido
+            name: Content providers
             haschildren: false
   - item:
-      name: Gráficos y animaciones 2D y 3D
+      name: Graphics and 2D, 3D Animations
       haschildren: false
   - item:
-      name: Servicios en segundo plano
+      name: Background services
       haschildren: true
       subitems:
         - item:
-            name: Modelo de ejecución
+            name: How to execute
             haschildren: false
         - item:
-            name: Servicios Locales y Remotos
+            name: Local and remote services
             haschildren: false
         - item:
-            name: Threads y AsyncTask
+            name: Threads and AsyncTask
             haschildren: false
   - item:
-      name: Dispositivos y Sensores
+      name: Sensors
       haschildren: true
       subitems:
         - item:
-            name: La cámara de fotos
+            name: Camera photo
             haschildren: false
         - item:
-            name: La conexión de red y bluetooth
+            name: Network conection and bluetooth
             haschildren: false
         - item:
-            name: Posicionamiento y ubicación
+            name: Location services
             haschildren: false
         - item:
-            name: 'Sensor Manager y uso de sensores: acelerómetro, orientación'
+            name: 'Sensor Manager, how to: accelerometer, orientation'
             haschildren: false
         - item:
-            name: Vibración
+            name: Vibration
             haschildren: false
   - item:
-      name: App Widgets y Live Folders
+      name: App Widgets and Live Folders
       haschildren: false
   - item:
-      name: Publicación de aplicaciones
+      name: Publishing an app
       haschildren: false
   - item:
-      name: Librerías Google APIS
+      name: Google APIS
       haschildren: false
   - item:
-      name: Uso de código nativo con Android NDK
+      name: Native code with Android NDK
       haschildren: false
   - item:
-      name: Pruebas de las aplicaciones Android
+      name: testing Android apps
       haschildren: false
   - item:
-      name: Acceso a servicios remotos
+      name: How to acces remote services
       haschildren: true
       subitems:
         - item:
-            name: Peticiones HTTP / SOAP / Rest
+            name: HTTP / SOAP / Rest Requests
             haschildren: false
         - item:
-            name: Procesado de XML / JSON
+            name: Processing XML / JSON
             haschildren: false
   - item:
-      name: Frameworks para desarrollo de aplicaciones
+      name: Frameworks to develop apps
       haschildren: false
 ---
 
@@ -188,8 +188,8 @@ accordion:
         </header>
         <section class="page__content" itemprop="text">
             <p>{{ site.data.ui-text[site.locale].android_desc_1 }}</p>
-          <!-- <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Temario</h3>     
-          {% include accordion include_scripts=true %} -->
+          <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Topics</h3>     
+          {% include accordion include_scripts=true %}
         </section>
       </div>
     </article>
