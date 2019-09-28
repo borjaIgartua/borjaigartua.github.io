@@ -4,7 +4,7 @@ layout: splash
 permalink: /movilok/
 
 feature_row:
-    - excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi neque purus, volutpat ut purus nec, ultrices venenatis erat. Maecenas fermentum scelerisque justo, ullamcorper tristique tortor tristique ut.'
+    - excerpt: Software company exclusively dedicated on mobile developmnet. Where I dedicated with passion and effort my first **four years** as mobile developer.
 windows_phone:
   - images:
     - item:
@@ -16,7 +16,7 @@ windows_phone:
         url: /movilok/windows-phone/bbva-compass
         class: multiple_row_image bottom
     title: Windows Phone
-    excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi neque purus, volutpat ut purus nec, ultrices venenatis erat. Maecenas fermentum scelerisque justo, ullamcorper tristique tortor tristique ut.'
+    excerpt: 'On my firsts years I was developing BBVA banking apps for Spain and USA on Windos Phone platform. At the end of this time I was on charge of all Windows Phone developments for he company.'
     size: teaser-small
     url: "/movilok/windows-phone"
     btn_label: "Read More"
@@ -40,7 +40,7 @@ ios_multiple_row:
         url: /movilok/ios/bbva-netcash
         class: multiple_row_image
     title: iOS
-    excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi neque purus, volutpat ut purus nec, ultrices venenatis erat. Maecenas fermentum scelerisque justo, ullamcorper tristique tortor tristique ut.'
+    excerpt: 'First steps as ios developer. At the beginning was just bug fixing but little by little I was ganning expertise and developing complete projects for our banking apps.'
     size: teaser-medium
     url: "/movilok/ios"
     btn_label: "Read More"
@@ -52,7 +52,7 @@ link_multiple_row:
         url: /movilok/ios/bbva-link
         class: multiple_row_image
     title: BBVA Link
-    excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi neque purus, volutpat ut purus nec, ultrices venenatis erat. Maecenas fermentum scelerisque justo, ullamcorper tristique tortor tristique ut.'
+    excerpt: 'This was my first big project. We were a team of four developers and I was on charge of the management of the team. We develop the project from the scracht for Chile and later on for Mexico.'
     size: teaser-medium
     url: "/movilok/ios/bbva-link"
     btn_label: "Read More"

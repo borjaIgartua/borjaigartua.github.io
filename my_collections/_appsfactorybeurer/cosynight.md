@@ -28,8 +28,9 @@ gallery:
         <header>
           <h1 id="page-title" class="page__title" itemprop="headline">{{ page.title }}</h1>
         </header>
-            <p>Any time and anywhere. With the Mercedes me app on your iPhone or Apple Watch you have your personal point of entry to the world of Mercedes-Benz and direct access to your vehicle at your fingertips at all times.</p>
-            <p>Thanks to this development you can connect Home Automation frameworks such us Samsung SmartThings<span style="font-size:0.6em;">&copy;</span> or Google Nest<span style="font-size:0.6em;">&copy;</span> with your car. Set your address and when you leave/enter your car will tell you that you are leaving/enter and automatically change you Home status.</p>
+            <p>Come home to a pre-warmed bed. It won't just be nice and cosy, it will also help you get to sleep. The two UB 190 and UB 200 heated underblankets and the accompanying "beurer CosyNight" app make this level of comfort possible. Look forward to getting into a warm bed at home. From nasty weather to cosy relaxation – preheat your heated underblanket via the app so that it's already comfy and warm when you get home.</p>
+            <p>It is also possible to create your own personal heating program. You can easily select the desired heat setting and the separately adjustable heat zones via the app. A warm, cosy bed will then be waiting for you at home when you slide under the covers. The Beurer safety system (BSS) is fitted to always guarantee your safety. It can be safely said that heat has never been so much fun.</p>
+            <p>I took all the migration to a new communication system with the device through native web sockets, more precisely signalR. Besides that migration I did some bug fixing and swift language updates</p>
         </section>
          </div>
        </div>       

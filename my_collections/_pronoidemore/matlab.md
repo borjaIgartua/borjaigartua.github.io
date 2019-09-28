@@ -17,28 +17,28 @@ sidebar:
     text: 'Management and forecast demands department.'
 accordion:
     - item:
-        name: Introducción
+        name: Introduction
         haschildren: true
     - item:
-        name: Operadores matemáticos
+        name: Math operators
         haschildren: true
     - item:
-        name: Introducción a funciones básicas
+        name: Basic functions
         haschildren: true
     - item:
-        name: Cálculo matricial
+        name: Matrix calculus
         haschildren: true
     - item:
-        name: Ampliación de conceptos
+        name: More concepts
         haschildren: true
     - item:
-        name: Filtrado de datos y otras utilidades
+        name: Data filtering and other tools
         haschildren: true
     - item:
-        name: Introducción a la programación Matlab
+        name: Matlab coding introduction
         haschildren: true
     - item:
-        name: Puesta en marcha del caso práctico individual
+        name: Running a real world example
         haschildren: true
 ---
 
@@ -57,8 +57,8 @@ accordion:
             <p>{{ site.data.ui-text[site.locale].matlab_desc_3 }}</p>
             <p>{{ site.data.ui-text[site.locale].matlab_desc_4 }}</p>
             <p>{{ site.data.ui-text[site.locale].matlab_desc_5 }}</p>
-          <!-- <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Temario</h3>     
-          {% include accordion include_scripts=true %} -->
+          <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Topics</h3>     
+          {% include accordion include_scripts=true %}
         </section>
       </div>
     </article>

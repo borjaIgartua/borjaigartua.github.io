@@ -27,8 +27,11 @@ Main Components
 	}
 
 	.cd-accordion-menu {
-		.has-children.first-level {
+		.first-level {
 			margin-bottom: 5px;
+		}
+		.has-children {
+			cursor: pointer;
 		}
 	}
 }
@@ -57,7 +60,7 @@ Main Components
 		opacity: 0;
 	}
 
-	label, a {
+	label, p {
 		position: relative;
 		display: block;
 		/*background: $color-1;*/
@@ -71,13 +74,12 @@ Main Components
 		}
     }
     
-    a {
+    p {
 		text-decoration: none;
 		padding: $padding-medium;
     }
 
 	label {
-		cursor: pointer;
 		font-family: $global-font-family;
 		font-size: 0.8rem;
 		text-overflow: ellipsis;
@@ -96,7 +98,7 @@ Main Components
 	}
 
 	ul label,
-	ul a {
+	ul p {
 		/*background: darken($color-1, 10%);*/
 		/*box-shadow: inset 0 -1px darken($color-1, 5%);*/
 
@@ -109,35 +111,35 @@ Main Components
 	ul label {
 		padding-left: $padding-medium * 2;
 	}
-	ul a {
+	ul p {
 		padding-left: $padding-medium * 2;
 	}
 
 	ul ul label {
 		padding-left: $padding-medium * 3;
 	}
-	ul ul a {
+	ul ul p {
 		padding-left: $padding-medium * 3;
 	}
 
 	ul ul ul label {
 		padding-left: $padding-medium * 4;
 	}
-	ul ul ul a {
+	ul ul ul p {
 		padding-left: $padding-medium * 4;
 	}
 
 	ul ul ul ul label {
 		padding-left: $padding-medium * 5;
 	}
-	ul ul ul ul a {
+	ul ul ul ul p {
 		padding-left: $padding-medium * 5;
 	}
 
 	ul ul ul ul ul label {
 		padding-left: $padding-medium * 6;
 	}
-	ul ul ul ul ul a {
+	ul ul ul ul ul p {
 		padding-left: $padding-medium * 6;
 	}
 	/* *** */
@@ -145,7 +147,7 @@ Main Components
 
 
 	@include breakpoint($medium) {
-		label, a {
+		label, p {
 			/*padding: $item-padding-M $item-padding-M $item-padding-M ($item-padding-M * 3) + 10px;*/
 			font-size: 0.8rem;
 		}

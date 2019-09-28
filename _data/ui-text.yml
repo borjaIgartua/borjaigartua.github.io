@@ -52,6 +52,9 @@ en: &DEFAULT_EN
   level_basic                : "Basic"
   go_for                     : "Go for"
   course_for                 : "This course is for developers, Analists and system administrators"
+#Movilok
+  movilok_header             : "Software company exclusively dedicated to mobile developmnet. I spent my first **four years** working here as mobile developer."
+
 # Desarrollo iOS
   ios_dev_title              : "Developing applications for iOS"
   ios_obtain_iphone_sdk      : "Get iPhone SDK"
@@ -625,6 +628,8 @@ es: &DEFAULT_ES
   comment_success_msg        : "Gracias por su comentario!, Este se visualizará en el sitio una vez haya sido aprobado"
   comment_error_msg          : "Lo sentimos, ha ocurrido un error al enviar su comentario. Por favor asegurese que todos los campos han sido diligenciados e intente de nuevo"
   loading_label              : "Cargando..."
+#Movilok
+  movilok_header             : "Empresa dedicada exclusivamente al desarrollo móvil en la que estube trabajando mis primeros **cuatro años** como desarrollador."
 es-ES:
   <<: *DEFAULT_ES
 es-CO:

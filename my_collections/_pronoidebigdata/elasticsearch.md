@@ -196,7 +196,6 @@ accordion:
         <section class="page__content" itemprop="text">
             <p>{{ site.data.ui-text[site.locale].elastic_desc_1 }}</p>
             <p>{{ site.data.ui-text[site.locale].elastic_desc_2 }}</p>
-
           <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Topics</h3>     
           {% include accordion include_scripts=true %}
         </section>

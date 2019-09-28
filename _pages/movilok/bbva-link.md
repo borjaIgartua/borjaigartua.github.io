@@ -46,7 +46,7 @@ gallery:
                 <p><cite>Mauricio Fuenzalida, BBVA Chile Business Development manager</cite></p>
             </blockquote>
             {% include video id="rryrHuUIDDg" provider="youtube" %}
-            <p>This apps has been developed in xCode and it  is available for iPhone with iOS 6 and further versions. The application has "networking" which handles network request to a server with user’s data and also callings to a security server. Facebook SDK has been included for the users to log in. Google Analytics SDK has also been incorporated to trace the user’s behaviour.</p>
+            <p>This apps it's available for iPhone with iOS 6 and further versions. The application has "networking" which handles network request to a server with user’s data and also callings to a security server. Facebook SDK has been included for the users to log in. Google Analytics SDK has also been incorporated to trace the user’s behaviour.</p>
         </section>         
          </div>
        </div>       

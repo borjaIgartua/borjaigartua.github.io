@@ -14,7 +14,7 @@ sidebar:
   - title: "Nivel"
     text: Avanzado
   - title: "Dirigido a"
-    text: Esta acción formativa  está destinada a  programadores de dispositivos móviles
+    text: This course is made for mobile developers. Some kind of experience is needed to take advantage of this lessons.
 
 accordion:
   - item:

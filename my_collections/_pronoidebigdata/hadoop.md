@@ -11,52 +11,52 @@ sidebar:
   - title: "Role"
     image: /assets/images/hadoop-logo.jpg
     text: "Trainer"
-  - title: "Nivel"
-    text: Avanzado
-  - title: "Dirigido a"
-    text: 'Esta acción formativa va dirigida a Programadores, Analistas y Administradores de sistemas.'
+  - title: level
+    text: level_advance
+  - title: go_for
+    text: course_for 
 accordion:
   - item:
-      name: Introducción a Hadoop
+      name: Hadoop Introduction
       haschildren: true
       subitems:
         - item:
             name: Big Data y Hadoop
             haschildren: false
         - item:
-            name: Historia
+            name: History
             haschildren: false
         - item:
-            name: Introducción al HDFS, YARN y MapReduce
+            name: HDFS, YARN and MapReduce
             haschildren: false
   - item:
       name: Hadoop Distributed File System (HDFS)
       haschildren: true
       subitems:
         - item:
-            name: Conceptos HDFS
+            name: HDFS Basics
             haschildren: false
         - item:
-            name: Lectura en HDFS
+            name: Reading in HDFS
             haschildren: false
         - item:
-            name: Escritura en HDFS
+            name: Writing in HDFS
             haschildren: false
         - item:
-            name: Comandos del HDFS
+            name: HDFS commands
             haschildren: false
         - item:
-            name: Herramientas de HDFS
+            name: HDFS tooling
             haschildren: false
         - item:
-            name: API Java de HDFS
+            name: HDFS Java API
             haschildren: false
   - item:
       name: MapReduce
       haschildren: true
       subitems:
         - item:
-            name: Preparar el entorno
+            name: Getting ready the environment
             haschildren: false
         - item:
             name: Map
@@ -68,27 +68,27 @@ accordion:
             name: Combiner
             haschildren: false
         - item:
-            name: Ejemplo avanzado
+            name: Advanced sample
             haschildren: false
   - item:
       name: MRUnit
       haschildren: true
       subitems:
         - item:
-            name: Instalación
+            name: Installation
             haschildren: false
         - item:
-            name: Casos de uso
+            name: Use cases
             haschildren: false
   - item:
       name: HIVE
       haschildren: true
       subitems:
         - item:
-            name: Introducción
+            name: Introduction
             haschildren: false
         - item:
-            name: Consola Hive
+            name: Hive Shell
             haschildren: false
         - item:
             name: HiveQL
@@ -98,7 +98,7 @@ accordion:
       haschildren: true
       subitems:
         - item:
-            name: Introducción
+            name: Introduction
             haschildren: false
         - item:
             name: Resilient Distributed Datasets (RDD)
@@ -107,13 +107,13 @@ accordion:
             name: Spark Shell
             haschildren: false
         - item:
-            name: Transformaciones sobre RDDs
+            name: RDDs transforms
             haschildren: false
         - item:
-            name: Acciones sobre RDDs
+            name: RDDs actions
             haschildren: false
         - item:
-            name: API Java de Spark
+            name: Spark Java API
             haschildren: false
 ---
 
@@ -129,8 +129,8 @@ accordion:
         <section class="page__content" itemprop="text">
             <p>The Apache™ Hadoop® project develops open-source software for reliable, scalable, distributed computing.</p>
             <p>The Apache Hadoop software library is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models. It is designed to scale up from single servers to thousands of machines, each offering local computation and storage. Rather than rely on hardware to deliver high-availability, the library itself is designed to detect and handle failures at the application layer, so delivering a highly-available service on top of a cluster of computers, each of which may be prone to failures.</p>
-          <!-- <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Temario</h3>     
-          {% include accordion include_scripts=true %} -->
+          <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Topics</h3>     
+          {% include accordion include_scripts=true %}
         </section>
       </div>
     </article>

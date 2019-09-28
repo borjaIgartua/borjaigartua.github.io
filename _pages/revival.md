@@ -9,7 +9,7 @@ header:
 feature_row:
   - image_path: /assets/images/revival-logo.jpg
     title: "Revival"
-    excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi neque purus, volutpat ut purus nec, ultrices venenatis erat. Maecenas fermentum scelerisque justo, ullamcorper tristique tortor tristique ut.'
+    excerpt: 'After my first years I was ready for a new challenge. I joined Revival, a startup where I was in since it started. We were a team of five working in all aspects related our application. At Revival I was not only the **iOS developer**, we worked together taking decisions about the app usability, the product, new features ...'
     image_size: medium
 gallery:
   - image_path: /assets/screens/iOS/revival/uno.png
@@ -40,6 +40,6 @@ gallery:
     </section>         
   </div>
   {% include video id="0BwH85HmD8qFgWkxpMG9EMWJEYlE" provider="google-drive" %}
-  {% include video id="C86m6wukKA8" provider="youtube" %}
-  {% include video id="V__rVa7vXkY" provider="youtube" %}
+  {% include video id="1EBGCTkzGv6P0riBRMbky2Sy4E575Maa7" provider="google-drive" %}
+  {% include video id="1eN1ZU_e4oIg2etKJJZDM2LuEsyCaGH75" provider="google-drive" %}
 </div>

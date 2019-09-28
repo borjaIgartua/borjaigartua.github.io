@@ -15,27 +15,27 @@ sidebar:
     text: level_advance
 accordion:  
     - item:
-        name: Introducción a BDD
+        name: Introduction
         haschildren: true
         subitems:
             - item:
-                name: Definición y Origen
+                name: What is BDD?
                 haschildren: false
             - item:
-                name: BDD en la actualidad
+                name: BDD nowadays
                 haschildren: false
     - item:
-        name: Definición de requisitos usando BDD
+        name: Requirements definition process on BDD
         haschildren: true
         subitems:
             - item:
-                name: Historias de usuario
+                name: User Stories
                 haschildren: false
             - item:
                 name: Three Amigos
                 haschildren: false
             - item:
-                name: 'Goals de negocio: features'
+                name: 'Bussines goals: features'
                 haschildren: true
                 subitems:
                 - item:
@@ -48,11 +48,11 @@ accordion:
                     name: Purpose-Based Aligment Model
                     haschildren: false
     - item:
-        name: Codificación
+        name: Codification
         haschildren: true
         subitems:
             - item:
-                name: Automatización de escenarios
+                name: Scene automatization
                 haschildren: false
             - item:
                 name: Cucumber
@@ -61,30 +61,30 @@ accordion:
                 name: Gherkin
                 haschildren: false
     - item:
-        name: Mejorando el código
+        name: Improving the code
         haschildren: true
     - item:
-        name: Aceptación para la capa de interface de usuario
+        name: Acceptance test for user interface layer
         haschildren: true
         subitems:
             - item:
-                name: Tests de aceptación
+                name: Acceptance test
                 haschildren: false
             - item:
                 name: Selenium
                 haschildren: false
     - item:
-        name: Gestión de la documentación
+        name: Documents management
         haschildren: true
     - item:
-        name: El proceso de build en BDD
+        name: How to build on BDD
         haschildren: true
         subitems:
             - item:
-                name: Integración continua
+                name: Continuos integration
                 haschildren: false
             - item:
-                name: Documentación
+                name: Documentation
                 haschildren: false
 ---
 
@@ -101,8 +101,8 @@ accordion:
             <p>{{ site.data.ui-text[site.locale].bdd_desc_1 }}</p>
             <p>{{ site.data.ui-text[site.locale].bdd_desc_2 }}</p>
             <p>{{ site.data.ui-text[site.locale].bdd_desc_3 }}</p>
-          <!-- <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Temario</h3>     
-          {% include accordion include_scripts=true %} -->
+          <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Topics</h3>     
+          {% include accordion include_scripts=true %}
         </section>
       </div>
     </article>
