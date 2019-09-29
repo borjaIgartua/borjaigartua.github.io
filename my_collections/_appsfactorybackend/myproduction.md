@@ -22,7 +22,7 @@ header:
             <p>We have attached particular importance to the intuitive operation of the My Production App. Like all our apps, My Production meets the highest security standards and is available as a free download from the Apple AppStore, the Google Play Store and the Chinese My Apps Store.</p>
             <p>My Production is not a complicated analysis tool. You can see at a glance whether everything is running optimally in your production or whether there are problems. </p>
             <br/>
-            <p>This was my first work as a fullstack developer, I did a strong refactor because the system was shutting down every two weeks. The part of the project that I changed was reading some data from an <span style="font-style:italic;">azure table storage</span> procesing it and writing in a <span style="font-style:italic;">azure sql</span> data base.</p>
+            <p>This was my first work as a fullstack developer, I did a strong refactor because the system was shutting down every two weeks. The part of the project that I changed was reading some data from an <span style="font-style:italic;">azure table storage</span> processing it and writing in a <span style="font-style:italic;">azure sql</span> data base.</p>
         </section>
          </div>
        </div>       

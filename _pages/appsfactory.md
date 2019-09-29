@@ -4,7 +4,7 @@ title: Appsfactory
 permalink: /appsfactory/
 
 feature_row:
-    - excerpt: 'Back to the roots. I moved to Germany and went back iOS development. I wanted to put in practice my expertise gained as trainer, also I missed being part of a team and develop products that the people can use. I am working here **since 2018**'
+    - excerpt: 'Back to the roots. I moved to Germany and went back to iOS development. I wanted to put in practice the expertise gained as a Trainer. Besides, I missed being part of a team and developing products that people can use. I am working here **since 2018**'
 ios_row:
   - images:
     - item:
@@ -24,7 +24,7 @@ ios_row:
         url: /appsfactory/first-projects/mercedes-me
         class: multiple_row_image
     title: First Projects
-    excerpt: 'Almost one year of iOS development. I did alone some projects, had the opportunity to work on Silicon Valley and I worked with a huge international team.'
+    excerpt: 'Almost one year of iOS development. During this year, I did some projects alone, had the opportunity to work in Silicon Valley and worked with a huge international team.'
     size: teaser-medium
     url: "/appsfactory/first-projects"
     btn_label: "Read More"
@@ -36,7 +36,7 @@ truetzschler_row:
         url: /appsfactory/mywires
         class: multiple_row_image
     title: Trützschler
-    excerpt: 'This was my bigest project in Germany. I lead the iOS development of this project working together with a team of 10 people. We worked around 4 months to finish it'
+    excerpt: 'This was my biggest project in Germany. I led the iOS development of this project working together with a team of 10 people. We worked around 4 months to finish it'
     size: teaser-medium
     url: "/appsfactory/mywires"
     btn_label: "Read More"
@@ -52,7 +52,7 @@ beurer_row:
         url: /appsfactory/beurer/cosynight
         class: multiple_row_image bottom
     title: Beurer
-    excerpt: 'Due to company needs I had to take care of two iOS projects and fix some mayor problems that they had. I did some small features too.'
+    excerpt: 'Due to company needs, I had to take care of two iOS projects and fix some major problems. I did some small features too.'
     size: teaser-small
     url: "/appsfactory/beurer"
     btn_label: "Read More"
@@ -68,7 +68,7 @@ backend_row:
         url: /appsfactory/backend/beurersso
         class: multiple_row_image bottom
     title: Backend
-    excerpt: 'After settle down in Germany I wanted new challenges and I requested to become part of the fullstack team. As everything has a beginning I started refactoring a quite old project and taking care of small features and bugs.'
+    excerpt: 'After settling down in Germany, I wanted new challenges and requested to become part of the fullstack team. As everything has a beginning, I started refactoring a quite old project and taking care of small features and bugs.'
     size: teaser-small
     url: "/appsfactory/backend"
     btn_label: "Read More"

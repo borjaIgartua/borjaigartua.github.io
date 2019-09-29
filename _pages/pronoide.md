@@ -4,7 +4,7 @@ title: Pronoide
 permalink: /pronoide/
 
 feature_row:
-    - excerpt: "Being five years as iOS developer has let me with a little bit of knowledge about what I didn't know. Becoming a Trainer I want to learn all about what I didn't know. I was Trainer around **two years** and I can say that is one of the most gratefull jobs I ever had."
+    - excerpt: "After five years as an iOS developer, I discovered that there were other paths to explore. By becoming a Trainer I wanted to learn all about what I didn't know. I was a Trainer for around **two years** and I can say that it was one of the most gratefull jobs I have ever done."
 mobile_row:
   - images:
     - item:
@@ -16,7 +16,7 @@ mobile_row:
         url: /pronoide/mobile/android
         class: multiple_row_image bottom
     title: Mobile
-    excerpt: 'My first courses as Trainer was the ones that I was more knowledge about. I taught **359 hours** of iOS and Android courses of a lot of different levels from the most basic to the most advanced.'
+    excerpt: 'My first courses as a Trainer were the ones in which I was more experienced. I taught **359 hours** of iOS and Android courses of a lot of different levels from the most basic to the most advanced ones.'
     size: teaser-small
     url: "/pronoide/mobile"
     btn_label: "Read More"
@@ -32,7 +32,7 @@ big_data_row:
         url: /pronoide/big-data/hadoop
         class: multiple_row_image bottom
     title: Big Data
-    excerpt: 'Two cuorses to understand what is behind big data, desmitify and master it. On both of them we try to implement a real enviroment to learn through the development who it works. I gave **56 hours** of this kind of courses.'
+    excerpt: 'Two courses to understand what is behind big data, demystify and master it. In both of them we tried to implement a real environment to learn how it works through the development. I gave **56 hours** of this kind of courses.'
     size: teaser-small
     url: "/pronoide/big-data"
     btn_label: "Read More"
@@ -56,7 +56,7 @@ testing_row:
         url: /pronoide/testing/soap-ui
         class: multiple_row_image
     title: Testing
-    excerpt: '**108 hours** where I instructed not only how to write tests. From a BDD course to a more specific topics like Selenium or SoapUI. As all the courses I tried to build a real world enviroment and then test it. On the BDD course we follow the methodology since the conception of the idea to the test implementation.'
+    excerpt: '**108 hours** where I instructed more than how to write tests. From a BDD course to more specific topics like Selenium or SoapUI. As in all the courses I tried to build a real world enviroment and then test it. On the BDD course we followed the methodology from the conception of the idea to the test implementation.'
     size: teaser-medium
     url: "/pronoide/testing"
     btn_label: "Read More"
@@ -88,7 +88,7 @@ others_row:
         url: /pronoide/more/java-development
         class: multiple_row_image bottom
     title: More curses
-    excerpt: 'Different courses that I have to taught for different reasons. C++, Java and Matlab with a total of **86 hours**'
+    excerpt: 'Different courses that I had to teach for different reasons. C++, Java and Matlab with a total of **86 hours**'
     size: teaser-small
     url: "/pronoide/more"
     btn_label: "Read More"
