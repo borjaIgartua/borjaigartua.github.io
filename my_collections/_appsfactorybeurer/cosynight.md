@@ -6,12 +6,12 @@ date: 2019-08-20
 header:
   teaser: /assets/images/cosynight.jpg
 gallery:
-  - image_path: /assets/screens/iOS/homeAutomation/uno.png
-  - image_path: /assets/screens/iOS/homeAutomation/dos.png
-  - image_path: /assets/screens/iOS/homeAutomation/tres.png
-  - image_path: /assets/screens/iOS/homeAutomation/cuatro.png
-  - image_path: /assets/screens/iOS/homeAutomation/cinco.jpg
-  - image_path: /assets/screens/iOS/homeAutomation/seis.jpg
+  - image_path: /assets/screens/iOS/cosynight/01.jpg
+  - image_path: /assets/screens/iOS/cosynight/02.jpg
+  - image_path: /assets/screens/iOS/cosynight/03.jpg
+  - image_path: /assets/screens/iOS/cosynight/04.jpg
+  - image_path: /assets/screens/iOS/cosynight/05.jpg
+  - image_path: /assets/screens/iOS/cosynight/06.jpg
 ---
 
 <div id="main" role="main">    

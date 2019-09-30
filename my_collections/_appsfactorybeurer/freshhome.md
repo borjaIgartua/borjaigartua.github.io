@@ -6,12 +6,13 @@ date: 2019-08-21
 header:
   teaser: /assets/images/freshhome.jpg
 gallery:
-  - image_path: /assets/screens/iOS/homeAutomation/uno.png
-  - image_path: /assets/screens/iOS/homeAutomation/dos.png
-  - image_path: /assets/screens/iOS/homeAutomation/tres.png
-  - image_path: /assets/screens/iOS/homeAutomation/cuatro.png
-  - image_path: /assets/screens/iOS/homeAutomation/cinco.jpg
-  - image_path: /assets/screens/iOS/homeAutomation/seis.jpg
+  - image_path: /assets/screens/iOS/freshhome/01.png
+  - image_path: /assets/screens/iOS/freshhome/02.png
+  - image_path: /assets/screens/iOS/freshhome/03.png
+  - image_path: /assets/screens/iOS/freshhome/04.png
+  - image_path: /assets/screens/iOS/freshhome/05.png
+  - image_path: /assets/screens/iOS/freshhome/06.png
+  - image_path: /assets/screens/iOS/freshhome/07.png
 ---
 
 <div id="main" role="main">    
