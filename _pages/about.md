@@ -23,42 +23,6 @@ timeline:
         company_url: http://www.cice.es        
         description: cice_course_desc
     - item:
-        date: 2011-09-30
-        fake_date: 2006-03-01
-        title: Junior Mobile Developer
-        country: Spain
-        city: Madrid
-        company_name: Movilok
-        company_url: http://www.movilok.com
-        description: Developing projects for BBVA Mobile Banking Spain and USA for Windows Phone 7.   Working with a team o developers, Quality services and Front/End developers.
-    - item:
-        date: 2012-10-25
-        fake_date: 2006-04-01
-        title: Junior Mobile Developer
-        country: Spain
-        city: Madrid
-        company_name: Movilok
-        company_url: http://www.movilok.com
-        description: Developing maps for Tweetmeter, iOS application that measures the impact of a tweet depending on the retweets within a range and the followers of the user who wrote the tweet. Working with a team of developers.
-    - item:
-        date: 2013-04-01
-        fake_date: 2006-05-01
-        title: Junior Mobile Developer
-        country: Spain
-        city: Madrid
-        company_name: Movilok
-        company_url: http://www.movilok.com
-        description: Developing Alerts and PopMoney functionality for BBVA Compass, American Mobile Banking application for iOS. Analysing the functionality and full development of the project. Working with a team of developers and Quality services.<br/><br/>Resolving bugs and adding features for BBVA Mobile Banking iOS application for Peru and Argentina. Working with a team of developers to resolve them.<br/><br/>Project management for Windows Phone, Windows Phone 7 updating and migration to Windows Phone 8.
-    - item:
-        date: 2013-06-15
-        fake_date: 2006-06-01
-        title: Senior iOS Developer
-        country: Spain
-        city: Madrid
-        company_name: Movilok
-        company_url: http://www.movilok.com
-        description: Developing iOS pilot project, monitoring Nuance® voice control to BBVA Mobile Banking Spain. Completing project development, interviews carried out with the client and monitoring the project deadlines. Working with Nuance® team for the full integration of his SDK.<br/><br/>Resolving bugs for BBVA Wallet iOS, application to manage payments by card. Working with a team of developers to resolve them.
-    - item:
         date: 2015-06-01
         fake_date: 2006-07-01
         title: Test Driven Development for iOS
@@ -104,12 +68,13 @@ timeline:
     - item:
         date: 2018-01-01
         fake_date: 2006-12-01
-        title: iOS Developer
+        title: Software Developer
         country: Germany
         city: Leipzig
         company_name: Apps factory
         company_url: http://www.appsfactory.de
-        description: Developing Südkurier iOS application. Newspaper app to read, safe and rate the latest news. App developed in Swift. Working with a full team, Project Manager, QA, back-end  and designer.<br/><br/>Development Pilot project to evaluate Augmented Reality framework in iOS. With this application you can scan a QR and see a video playing in augmented reality.<br/><br/>Working for Daimler USA developing Mercedes Home Automation feature. Feature to connect smart home services such as Nest or SmartThings to your car. Working in Silicon Valley with a full team, Project Manager, QA, back-end  and designer.<br/><br/>Working for Daimler AG into a team responsible of the good quality features. Our responsability was review team features and ensure that the code quality follows the Daimler standards. As well As we were responsible of the good sanity of the Continuos integration system. Also we develop some features for the application.<br/><br/>During this time we won the Daimler Supplier Award in the category Innovation agains over 60.000 other suppliers.
+        description: Developing Südkurier iOS application. Newspaper app to read, safe and rate the latest news. App developed in Swift. Working with a full team, Project Manager, QA, back-end  and designer.<br/><br/>Development Pilot project to evaluate Augmented Reality framework in iOS. With this application you can scan a QR and see a video playing in augmented reality.<br/><br/>Working for Daimler USA developing Mercedes Home Automation iOS feature. Feature to connect smart home services such as Nest or SmartThings to your car. Working in Silicon Valley with a full team, Project Manager, QA, back-end  and designer.<br/><br/>Working for Daimler AG into a team responsible of the good quality iOS features. Our responsability was review team features and ensure that the code quality follows the Daimler standards. As well As we were responsible of the good sanity of the Continuos integration system. Also we develop some features for the application.<br/><br/>During this time we won the Daimler Supplier Award in the category Innovation agains over 60.000 other suppliers.<br/><br/>Creating a App to analyze textile manufacturing machines. I Led and mentored the development for the iOS App.
+
 ---
 <div id="main" role="main">
     {% include timeline id="timeline" %}

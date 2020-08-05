@@ -8,9 +8,8 @@ main:
     url: /pronoide
   - title: "Appsfactory"
     url: /appsfactory
-  - title: "About me"
-    url: /about
 
-
+#  - title: "About me"
+#    url: /about
 #  - title: "Projects"
 #    url: /projects
