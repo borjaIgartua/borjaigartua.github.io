@@ -1,0 +1,37 @@
+I"�<div id="main" role="main">
+    
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/assets/images/java-logo.jpg" alt="" />
+      
+      <h3>
+          
+        Role
+      </h3>
+      
+        
+        <p>Trainer</p>
+
+      
+      
+    
+    
+  
+  </div>
+
+    <article class="page" itemscope="" itemtype="https://schema.org/CreativeWork">
+      <meta itemprop="headline" content="Java Standard Edition" />
+      <meta itemprop="description" content="" />
+      <div class="page__inner-wrap">
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Java Standard Edition</h1>
+        </header>
+        <section class="page__content" itemprop="text">
+          <p>This course is made for beginners. People who have never coded before and want to learn. On this course you will learn Java sintaxis and how to use the main Java Standard Edition libraries.</p>
+          <p>Telefónica foundation will help you to discover the digital era language and a passionate programming world.</p>
+          <p>Java is the most common programming language inside the IT community and for software enterprises. Web Applications, software for electronic devices, mobile phones, tablets… All of this kind of programs can be made with Java. On this course we will teach you how to code with this language and you will see the main classes used.</p>
+</section></div></article></div>
+:ET

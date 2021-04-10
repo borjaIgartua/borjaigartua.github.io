@@ -1,0 +1,642 @@
+I"T%<div id="main" role="main">
+    
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/assets/images/selenium-logo.jpg" alt="" />
+      
+      <h3>
+          
+        Role
+      </h3>
+      
+        
+        <p>Trainer</p>
+
+      
+      
+    
+      
+      <h3>
+          
+        Nivel
+      </h3>
+      
+        
+        <p>Advance</p>
+
+      
+      
+    
+      
+      <h3>
+          
+        Go for
+      </h3>
+      
+        
+        <p>This course is made for developers, project managers and architects who want to implement functional testing with Selenium</p>
+
+      
+      
+    
+    
+  
+  </div>
+
+    <article class="page" itemscope="" itemtype="https://schema.org/CreativeWork">
+      <meta itemprop="headline" content="Selenium" />
+      <meta itemprop="description" content="" />
+      <div class="page__inner-wrap">
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Selenium</h1>
+        </header>
+        <section class="page__content" itemprop="text">
+          <p>Selenium automates browsers. That's it! What you do with that power is entirely up to you. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) be automated as well.</p>
+          <p>Selenium has the support of some of the largest browser vendors who have taken (or are taking) steps to make Selenium a native part of their browser. It is also the core technology in countless other browser automation tools, APIs and frameworks.</p>
+
+          <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Temario</h3>     
+          
+<div class="accordion-content">	
+	<ul class="cd-accordion-menu has-children animated">
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-1" id="group-1" />
+<label for="group-1">Introduction</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Purpose</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Selenium IDE</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-2" id="group-2" />
+<label for="group-2">Using Selenium IDE</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Record and play test cases</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Verifying tes cases</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Working with test suites</p></li>
+				
+            
+                
+                
+                    
+					<li><p>HTML documentation</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-3" id="group-3" />
+<label for="group-3">Selenium Driver configuration</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Eclipse configuration</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Helpers</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Templates</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-4" id="group-4" />
+<label for="group-4">Test scripts</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Automatic test sequences</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Finding web elements</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Verify instructions</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Creating log file</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Test documentation</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-5" id="group-5" />
+<label for="group-5">Improving test cases</label>
+
+  
+    
+    
+    
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-6" id="group-6" />
+<label for="group-6">How to find Objects</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Find methods (name, ID, css, DOM ...)</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Handling dynamic elements</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Handling dynamic elements</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-7" id="group-7" />
+<label for="group-7">Capturing data</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Data in tables</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Data in lists</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Data in HTML tree</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-8" id="group-8" />
+<label for="group-8">Find and Log options</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Working with Excel</p></li>
+				
+            
+                
+                
+                    
+					<li><p>ScreenShots</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Logging options</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-9" id="group-9" />
+<label for="group-9">Regular expresions</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Operators</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Regex usage for capturing data</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-10" id="group-10" />
+<label for="group-10">Data driven tests</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Conexion</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Working with paramters</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Create dynamic assert sentences</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-11" id="group-11" />
+<label for="group-11">Working with data bases</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Conexion</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Execute queries</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Analize data results</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-12" id="group-12" />
+<label for="group-12">Multi browser tests</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Configuration for IE and Chrome</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Modifying test to execute in multiple browsers</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Create test suites to execute in multiple browsers</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-13" id="group-13" />
+<label for="group-13">Selenium Grid</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Execution in multiple nodes</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Sequential execution</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Parallel execution</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-14" id="group-14" />
+<label for="group-14">Mobile application testing</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Android Driver</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Appium</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+		
+	</ul>
+</div>
+
+	<script src="/assets/js/vendor/jquery/jquery-3.3.1.min.js"></script>
+	<script src="/assets/js/accordion.js"></script>
+
+        </section>
+      </div>
+    </article>
+</div>
+:ET

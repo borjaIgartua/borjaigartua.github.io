@@ -1,0 +1,55 @@
+I"H	<div id="main" role="main">    
+      <meta itemprop="headline" content="Cosy Night" />
+      <meta itemprop="description" content="" />
+      <div class="page__inner-wrap" style="margin: 30px;">
+      <div class="project-container left">
+        <section class="page__content" itemprop="text">
+             
+
+
+
+<!--  -->
+
+<figure class="half remove_margin_top remove_margin_bottom">
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/cosynight/01.jpg" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/cosynight/02.jpg" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/cosynight/03.jpg" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/cosynight/04.jpg" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/cosynight/05.jpg" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/cosynight/06.jpg" alt="" />
+    
+  
+  
+</figure>
+         </section>
+      </div>
+      <div class="project-container right">        
+        <section class="page__content" itemprop="text">
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Cosy Night</h1>
+        </header>
+            <p>Come home to a pre-warmed bed. It won't just be nice and cosy, it will also help you get to sleep. The two UB 190 and UB 200 heated underblankets and the accompanying "beurer CosyNight" app make this level of comfort possible. Look forward to getting into a warm bed at home. From nasty weather to cosy relaxation – preheat your heated underblanket via the app so that it's already comfy and warm when you get home.</p>
+            <p>It is also possible to create your own personal heating program. You can easily select the desired heat setting and the separately adjustable heat zones via the app. A warm, cosy bed will then be waiting for you at home when you slide under the covers. The Beurer safety system (BSS) is fitted to always guarantee your safety. It can be safely said that heat has never been so much fun.</p>
+            <p>I took all the migration to a new communication system with the device through native web sockets, more precisely signalR. Besides that migration I did some bug fixing and swift language updates</p>
+        </section>
+         </div>
+       </div>       
+</div>
+:ET

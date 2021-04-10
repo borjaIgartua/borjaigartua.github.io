@@ -1,0 +1,60 @@
+I";<div id="main" role="main">
+    
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/assets/images/spock-geb-logo.jpg" alt="" />
+      
+      <h3>
+          
+        Role
+      </h3>
+      
+        
+        <p>Trainer</p>
+
+      
+      
+    
+      
+      <h3>
+          
+        Level
+      </h3>
+      
+        
+        <p>Advance</p>
+
+      
+      
+    
+      
+      <h3>
+          
+        Go for
+      </h3>
+      
+        
+        <p>This course is for developers, analists and project manager who wants to implement unit, integration and functional testing with Spock and Geb framework</p>
+
+      
+      
+    
+    
+  
+  </div>
+
+    <article class="page" itemscope="" itemtype="https://schema.org/CreativeWork">
+      <meta itemprop="headline" content="Groovy, Spock &amp; Geb" />
+      <meta itemprop="description" content="" />
+      <div class="page__inner-wrap">
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Groovy, Spock &amp; Geb</h1>
+        </header>
+        <section class="page__content" itemprop="text">
+          <p>Spock is a testing and specification framework for Java and Groovy applications. What makes it stand out from the crowd is its beautiful and highly expressive specification language. Thanks to its JUnit runner, Spock is compatible with most IDEs, build tools, and continuous integration servers.</p>
+          <p>Geb is a browser automation solution. It brings together the power of WebDriver, the elegance of jQuery content selection, the robustness of Page Object modelling and the expressiveness of the Groovy language. It can be used for scripting, scraping and general automation — or equally as a functional/web/acceptance testing solution via integration with testing frameworks such as Spock, JUnit &amp; TestNG.</p>
+</section></div></article></div>
+:ET

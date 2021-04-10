@@ -1,0 +1,262 @@
+I"¶<div id="main" role="main">
+    
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/assets/images/matlab-logo.jpg" alt="" />
+      
+      <h3>
+          
+        Role
+      </h3>
+      
+        
+        <p>Trainer</p>
+
+      
+      
+    
+      
+      <h3>
+          
+        Level
+      </h3>
+      
+        
+        <p>Basic</p>
+
+      
+      
+    
+      
+      <h3>
+          
+        Go for
+      </h3>
+      
+        
+        <p>Management and forecast demands department.</p>
+
+      
+      
+    
+    
+  
+  </div>
+
+    <article class="page" itemscope="" itemtype="https://schema.org/CreativeWork">
+      <meta itemprop="headline" content="Introduction to MATLAB" />
+      <meta itemprop="description" content="" />
+      <div class="page__inner-wrap">
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Introduction to MATLAB</h1>
+        </header>
+        <section class="page__content" itemprop="text">
+            <p>Whether you are analyzing data, developing algorithms, or creating models, MATLAB is designed for the way you think and the work you do.</p>
+            <p>MATLAB combines a desktop environment tuned for iterative analysis and design processes with a programming language that expresses matrix and array mathematics directly.</p>
+            <p>MATLAB apps let you see how different algorithms work with your data. Iterate until you get the results you want, then automatically generate a MATLAB program to reproduce or automate your work.</p>
+            <p>Scale your analyses to run on clusters, GPUs, and clouds with only minor code changes. There is no need to rewrite your code or learning big data programming and out-of-memory techniques.</p>
+            <p>The goal of this course is to obtain enough knowledge about MATLAB so that the student can develop his/her daily job with it. Taking the advantage that these tools offer to deal with huge data. The course is 100% practical and we will learn all MATLAB basics. Data types (arrays and matrix) functions, how to create graphics and how to export/import data. We will see a little introduction about coding with MATLAB.</p>
+          <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Topics</h3>     
+          
+<div class="accordion-content">	
+	<ul class="cd-accordion-menu has-children animated">
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-1" style="cursor:default;">Introduction</label>
+
+  
+    
+    
+    
+		<ul>
+            
+		</ul>
+	
+
+</div>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-2" style="cursor:default;">Math operators</label>
+
+  
+    
+    
+    
+		<ul>
+            
+		</ul>
+	
+
+</div>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-3" style="cursor:default;">Basic functions</label>
+
+  
+    
+    
+    
+		<ul>
+            
+		</ul>
+	
+
+</div>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-4" style="cursor:default;">Matrix calculus</label>
+
+  
+    
+    
+    
+		<ul>
+            
+		</ul>
+	
+
+</div>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-5" style="cursor:default;">More concepts</label>
+
+  
+    
+    
+    
+		<ul>
+            
+		</ul>
+	
+
+</div>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-6" style="cursor:default;">Data filtering and other tools</label>
+
+  
+    
+    
+    
+		<ul>
+            
+		</ul>
+	
+
+</div>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-7" style="cursor:default;">Matlab coding introduction</label>
+
+  
+    
+    
+    
+		<ul>
+            
+		</ul>
+	
+
+</div>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-8" style="cursor:default;">Running a real world example</label>
+
+  
+    
+    
+    
+		<ul>
+            
+		</ul>
+	
+
+</div>
+
+
+
+		
+		
+	</ul>
+</div>
+
+	<script src="/assets/js/vendor/jquery/jquery-3.3.1.min.js"></script>
+	<script src="/assets/js/accordion.js"></script>
+
+        </section>
+      </div>
+    </article>
+</div>
+:ET

@@ -1,0 +1,126 @@
+I"�<div style="margin-top:30px;">
+  
+
+<div class="feature__wrapper ">
+
+  
+
+    
+
+    <div class="feature__item--left">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser medium">
+            <img src="/assets/images/revival-logo.jpg" alt="" />
+            
+          </div>
+        
+
+        <div class="archive__item-body left">
+          
+            <h1 class="archive__item-title splash_title">Revival</h1>
+          
+
+          
+            <div class="archive__item-excerpt">
+              
+              <p>After my first years I was ready for a new challenge and I joined Revival, a startup where I was in since the beginning. We were a team of five colleagues working in all aspects related to our application. At Revival I was not only the <strong>iOS developer</strong>, but also we worked together making decisions about the app usability, the product, new features, among others.</p>
+
+            </div>
+          
+
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+  <div class="project-container left">
+    <section class="page__content" itemprop="text">
+      
+
+
+
+<!--  -->
+
+<figure class="half remove_margin_top remove_margin_bottom">
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/revival/uno.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/revival/dos.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/revival/tres.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/revival/cuatro.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/revival/cinco.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/revival/seis.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/revival/siete.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/revival/ocho.png" alt="" />
+    
+  
+  
+</figure>
+    </section>
+  </div>
+  <div class="project-container right">        
+    <section class="page__content" itemprop="text">
+      <p>Revival is a free social network that enables to send time capsules privately to other contacts on a user’s contact list.</p>
+      <p>It is a touching app in which the user can share these time capsules packed with videos and pictures with relatives and friends. The idea is very simple: collect content and locked it up until a certain date. When the capsule reaches the deadline, the receiver will be able to open it and enjoy it. The user can make the waiting time longer or shorter.</p>
+      <p>Revival is very simple, the user only needs to run the app and sign up. The user can sign up easily through Facebook and get all contacts. After this the user needs to choose any picture, video or even messages saved on the phone and create the time capsule. Last but not least the user has to choose the date in which the time capsule will be open. A period of time between a few minutes or tons of years.</p>
+      <p>With the user’s friends will receive immediately a notification on their phones, but they won’t see the time capsule content, just a countdown with the time left to open it.</p>
+      <p>When the deadline is reached the receiver only has to open and enjoy it. Inside this time capsule a secure and private chat will open to comment with all those who are inside the time capsule.</p>
+      <p>With Revival you can share your pictures from your gallery, without opening the app.</p>
+    </section>         
+  </div>
+  
+
+
+<!-- Courtesy of embedresponsively.com //-->
+<div class="responsive-video-container ">
+
+  <iframe src="https://drive.google.com/file/d/0BwH85HmD8qFgWkxpMG9EMWJEYlE/preview" frameborder="0" allowfullscreen=""></iframe>
+
+</div>
+
+  
+
+
+<!-- Courtesy of embedresponsively.com //-->
+<div class="responsive-video-container ">
+
+  <iframe src="https://drive.google.com/file/d/1EBGCTkzGv6P0riBRMbky2Sy4E575Maa7/preview" frameborder="0" allowfullscreen=""></iframe>
+
+</div>
+
+  
+
+
+<!-- Courtesy of embedresponsively.com //-->
+<div class="responsive-video-container ">
+
+  <iframe src="https://drive.google.com/file/d/1eN1ZU_e4oIg2etKJJZDM2LuEsyCaGH75/preview" frameborder="0" allowfullscreen=""></iframe>
+
+</div>
+
+</div>
+:ET

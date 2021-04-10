@@ -1,0 +1,652 @@
+I"�*<div id="main" role="main">
+    
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/assets/images/html-frameworks.jpg" alt="" />
+      
+      <h3>
+          
+        Role
+      </h3>
+      
+        
+        <p>Trainer</p>
+
+      
+      
+    
+      
+      <h3>
+          
+        Level
+      </h3>
+      
+        
+        <p>Advance</p>
+
+      
+      
+    
+    
+  
+  </div>
+
+    <article class="page" itemscope="" itemtype="https://schema.org/CreativeWork">
+      <meta itemprop="headline" content="HTML5 Frameworks" />
+      <meta itemprop="description" content="" />
+      <div class="page__inner-wrap">
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">HTML5 Frameworks</h1>
+        </header>
+        <section class="page__content" itemprop="text">
+          <p>At the end of the course the student will know how to build website applications using HTML5 frameworks such as:  JQuery, SASS, Jasmine, Angular 2 y Node.</p>
+          <!-- <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Temario</h3>     
+          
+<div class="accordion-content">	
+	<ul class="cd-accordion-menu has-children animated">
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name ="group-1" id="group-1">
+<label for="group-1">Repaso de HTML5 y CSS3</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Estructura de la página</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Etiquetas y marcas</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Elementos estructurales</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Elementos semánticos</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Elementos desaprobados</p></li>
+				
+            
+                
+                
+                    
+					<li><p>CSS3</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Formularios y Elementos</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Audio y vídeo</p></li>
+				
+            
+                
+                
+                                      
+                    
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name ="sub-group-9" id="sub-group-9">
+<label for="sub-group-9">Programación HTML 5 y su API</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Canvas y SVG</p></li>
+				
+            
+                
+                
+                    
+					<li><p>API de Comunicaciones</p></li>
+				
+            
+                
+                
+                    
+					<li><p>XMLHttpRequest Nivel 2</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Sockets Web</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Web Workers</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Geolocalización</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Almacenamiento</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name ="group-2" id="group-2">
+<label for="group-2">Creación de aplicaciones Javascript Crossbrowser con JQuery</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Configuración</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Selectores</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Filtros</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Programación orientada a eventos</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Manipulación de estilos</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Animaciones</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Modificación de html</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Efectos</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Formularios y validación</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Peticiones Ajax y control del estado</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name ="group-3" id="group-3">
+<label for="group-3">Escribiendo CSS con SaSS</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Configuración SASS</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Reutilización de valores con variables</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Reutilización de las normas con Mixins</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Escribir CSS conciso vía reglas anidadas</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Cálculos con operadores y funciones</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Agrupación de elementos utilizando espacios de nombres</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Importación de archivos</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Precompilación</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name ="group-4" id="group-4">
+<label for="group-4">Testing con Jasmine</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Configuración</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Escribir la primera prueba Jasmine</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Bloques describe</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Comparadores (Matchers)</p></li>
+				
+            
+                
+                
+                    
+					<li><p>El desarrollo de comparadores personalizados</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Pruebas asíncronas (Ajax) de código JavaScript</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Probando con objetos</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Probando aplicaciones</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Ejecución de los test</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name ="group-5" id="group-5">
+<label for="group-5">JavaScript en el servidor con Node</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>¿Qué es Node? Cuándo usarlo?</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Módulos de Node. Instalando Node</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Usando npm para instalar módulos</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Eventos</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Manejando el POST</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Enrutamiento</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Acceso a Bases de datos</p></li>
+				
+            
+                
+                
+                                      
+                    
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name ="sub-group-8" id="sub-group-8">
+<label for="sub-group-8">WebSockets</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Creación de un website</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Creación de una aplicación</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+				
+            
+                
+                
+                    
+					<li><p>Sistemas de plantillas (Jade)</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name ="group-6" id="group-6">
+<label for="group-6">Angular 2</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Introducción</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Arquitectura</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Datos</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Eventos de entradas de usuario</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Formularios</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Inyección de dependencias</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Sintaxis de plantillas</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Operadores de expresiones</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name ="group-7" id="group-7">
+<label for="group-7">Nuevas Tendencias</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Polymer</p></li>
+				
+            
+                
+                
+                    
+					<li><p>React</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+		
+	</ul>
+</div>
+
+	<script src="/assets/js/vendor/jquery/jquery-3.3.1.min.js"></script>
+	<script src="/assets/js/accordion.js"></script>
+ -->
+        </section>
+      </div>
+    </article>
+</div>
+:ET

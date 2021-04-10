@@ -1,0 +1,60 @@
+I"¤<div id="main" role="main">
+    
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/assets/images/soapui-logo.jpg" alt="" />
+      
+      <h3>
+          
+        Role
+      </h3>
+      
+        
+        <p>Trainer</p>
+
+      
+      
+    
+      
+      <h3>
+          
+        Level
+      </h3>
+      
+        
+        <p>Advance</p>
+
+      
+      
+    
+      
+      <h3>
+          
+        Go for
+      </h3>
+      
+        
+        <p>This couse is for web developers, QA departments or System admins</p>
+
+      
+      
+    
+    
+  
+  </div>
+
+    <article class="page" itemscope="" itemtype="https://schema.org/CreativeWork">
+      <meta itemprop="headline" content="Soap UI" />
+      <meta itemprop="description" content="" />
+      <div class="page__inner-wrap">
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Soap UI</h1>
+        </header>
+        <section class="page__content" itemprop="text">
+            <p>SoapUI is a tool for testing Web Services; these can be the SOAP Web Services as well RESTful Web Services or HTTP based services. SoapUI is an Open Source and completely free tool with a commercial companion -SoapUI Pro- that has extra functionality for companies with mission critical Web Services.</p>
+            <p>SoapUI has been downloaded more than 3 million times and is seen as the de facto standard for API Service Testing. </p>
+</section></div></article></div>
+:ET

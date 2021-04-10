@@ -1,0 +1,363 @@
+I"�1<div id="main" role="main">
+    <!-- source: https://codyhouse.co/demo/horizontal-timeline/index.html -->
+
+
+
+<section class="main_timeline cd-horizontal-timeline">
+	<div class="main_timeline timeline">
+		<div class="main_timeline events-wrapper">
+			<div class="main_timeline events">
+				<ol class="main_timeline">
+					
+						
+						
+						
+						<li class="main_timeline"><a class="main_timeline  selected " data-date="01/12/2005">2006</a></li>
+					
+						
+						
+						
+						<li class="main_timeline"><a class="main_timeline " data-date="01/02/2006">2011</a></li>
+					
+						
+						
+						
+						<li class="main_timeline"><a class="main_timeline " data-date="01/07/2006">2015</a></li>
+					
+						
+						
+						
+						<li class="main_timeline"><a class="main_timeline " data-date="01/08/2006">2015</a></li>
+					
+						
+						
+						
+						<li class="main_timeline"><a class="main_timeline " data-date="01/09/2006">2016</a></li>
+					
+						
+						
+						
+						<li class="main_timeline"><a class="main_timeline " data-date="01/10/2006">2016</a></li>
+					
+						
+						
+						
+						<li class="main_timeline"><a class="main_timeline " data-date="01/11/2006">2017</a></li>
+					
+						
+						
+						
+						<li class="main_timeline"><a class="main_timeline " data-date="01/12/2006">2018</a></li>
+					
+				</ol>
+
+				<span class="main_timeline filling-line" aria-hidden="true"></span>
+			</div> <!-- .events -->
+		</div> <!-- .events-wrapper --> 
+			
+		<ul class="cd-timeline-navigation">
+			<li><a class="main_timeline prev inactive">Prev</a></li>
+			<li><a class="main_timeline next">Next</a></li>
+		</ul> <!-- .cd-timeline-navigation -->
+	</div> <!-- .timeline -->
+
+	<div class="main_timeline events-content">
+		<ol class="main_timeline">
+			
+				
+				
+				
+				<li class="main_timeline  selected " data-date="01/12/2005">
+					<h1 class="archive__item-title">Pontifical University of Salamanca</h1>
+					<div class="events-detail" style="width: 100%; margin-top: 5px;">
+
+						
+						<div style="display: inline-block;">
+							<i class="fas fa-link" style="display: inline-block;"></i>
+							<a style="display: inline-block;" href="http://www.upsa.es">
+							
+							
+							www.upsa.es</a>
+						</div>
+						
+
+						
+						<div style="display: inline-block;">
+							<i class="far fa-clock" style="display: inline-block;"></i>
+							<span itemprop="name" style="display: inline-block;">5 years</span>
+						</div>
+						
+
+						
+						<div style="display: inline-block;">
+							<i class="fas fa-fw fa-map-marker-alt" style="display: inline-block;"></i>
+							
+							<span itemprop="name" style="display: inline-block;">Salamanca,  Spain</span>
+						</div>
+						
+
+					</div>
+					<div class="archive__item-excerpt">
+						
+						<p><p>Degree in Computer Science Engineering, specialization in Software Engineering.</p>
+</p>							
+					</div>
+				</li>
+			
+				
+				
+				
+				<li class="main_timeline " data-date="01/02/2006">
+					<h1 class="archive__item-title">Curso de desarrollo de aplicaciones para iOS</h1>
+					<div class="events-detail" style="width: 100%; margin-top: 5px;">
+
+						
+						<div style="display: inline-block;">
+							<i class="fas fa-link" style="display: inline-block;"></i>
+							<a style="display: inline-block;" href="http://www.cice.es">
+							
+							
+							www.cice.es</a>
+						</div>
+						
+
+						
+						<div style="display: inline-block;">
+							<i class="far fa-clock" style="display: inline-block;"></i>
+							<span itemprop="name" style="display: inline-block;">80 hours</span>
+						</div>
+						
+
+						
+						<div style="display: inline-block;">
+							<i class="fas fa-fw fa-map-marker-alt" style="display: inline-block;"></i>
+							
+							<span itemprop="name" style="display: inline-block;">Madrid,  Spain</span>
+						</div>
+						
+
+					</div>
+					<div class="archive__item-excerpt">
+						
+						<p><p>Developing small iOS apps integrating concepts of POO and Objective-C (an essential programming language to create iOS apps), being able to develop simple approach to develop apps, not only on my own but also as part of a teamwork.</p>
+</p>							
+					</div>
+				</li>
+			
+				
+				
+				
+				<li class="main_timeline " data-date="01/07/2006">
+					<h1 class="archive__item-title">Test Driven Development for iOS</h1>
+					<div class="events-detail" style="width: 100%; margin-top: 5px;">
+
+						
+						<div style="display: inline-block;">
+							<i class="fas fa-link" style="display: inline-block;"></i>
+							<a style="display: inline-block;" href="https://www.keepcoding.io">
+							
+							
+							www.keepcoding.io</a>
+						</div>
+						
+
+						
+						<div style="display: inline-block;">
+							<i class="far fa-clock" style="display: inline-block;"></i>
+							<span itemprop="name" style="display: inline-block;">12 hours</span>
+						</div>
+						
+
+						
+
+					</div>
+					<div class="archive__item-excerpt">
+						
+						<p><p>Since its creation by Kent Beck,  TDD (Test-Driven Development) has spread and gained popularity. However, it is often wrongly applied and the teams that implement them face the common problems and end up giving up the task:<br /><br />• Usually we test what we shouldn’t <br />• Tests are wrongly designed, so one test failed can have multiple reasons.<br />• Tests take too long to execute, making developers to skip them.<br />• We try to test everything instead of testing what needs to be test.<br />•  It is not applied correctly to the particularities of iOS, Cocoa and Objective C.<br /><br />All these errors happen because development teams learn “how” about TDD but not “why”. There is only a way to change our habits, that is, practising new ones. That is why this course, which has been successfully taught in European and LATAM companies, is mainly practice and is based on an iOS app development.</p>
+</p>							
+					</div>
+				</li>
+			
+				
+				
+				
+				<li class="main_timeline " data-date="01/08/2006">
+					<h1 class="archive__item-title">Senior iOS Developer</h1>
+					<div class="events-detail" style="width: 100%; margin-top: 5px;">
+
+						
+						<div style="display: inline-block;">
+							<i class="fas fa-link" style="display: inline-block;"></i>
+							<a style="display: inline-block;" href="http://www.movilok.com">
+							
+							
+							www.movilok.com</a>
+						</div>
+						
+
+						
+
+						
+						<div style="display: inline-block;">
+							<i class="fas fa-fw fa-map-marker-alt" style="display: inline-block;"></i>
+							
+							<span itemprop="name" style="display: inline-block;">Madrid,  Spain</span>
+						</div>
+						
+
+					</div>
+					<div class="archive__item-excerpt">
+						
+						<p><p>Resolving bugs for BBVA Net Cash, iOS mobile banking for enterprises. Working with a team of developers to solve them.<br /><br />Project manager of BBVA Link for Chile and México. Head of the team for iOS and Android, and developing the iOS application. Working in a team with other mobile developers, Quality services, and Front/End developers. Budget, planning and sales skills because of intense clients contact everyday.</p>
+</p>							
+					</div>
+				</li>
+			
+				
+				
+				
+				<li class="main_timeline " data-date="01/09/2006">
+					<h1 class="archive__item-title">iOS 9 and swift 2. Learning making 15 real apps</h1>
+					<div class="events-detail" style="width: 100%; margin-top: 5px;">
+
+						
+						<div style="display: inline-block;">
+							<i class="fas fa-link" style="display: inline-block;"></i>
+							<a style="display: inline-block;" href="http://www.udemy.com">
+							
+							
+							www.udemy.com</a>
+						</div>
+						
+
+						
+						<div style="display: inline-block;">
+							<i class="far fa-clock" style="display: inline-block;"></i>
+							<span itemprop="name" style="display: inline-block;">23 hours</span>
+						</div>
+						
+
+						
+
+					</div>
+					<div class="archive__item-excerpt">
+						
+						<p><p>You will create 15 professional, funny and relevant applications that allow you put into practice all the acquired knowledges during the course. Learning by doing: this course is designed in a way that you will learn new concepts and apply them to a real development case, always at your own working rhythm.</p>
+</p>							
+					</div>
+				</li>
+			
+				
+				
+				
+				<li class="main_timeline " data-date="01/10/2006">
+					<h1 class="archive__item-title">Lead iOS Developer</h1>
+					<div class="events-detail" style="width: 100%; margin-top: 5px;">
+
+						
+						<div style="display: inline-block;">
+							<i class="fas fa-link" style="display: inline-block;"></i>
+							<a style="display: inline-block;" href="http://www.revivalapp.com">
+							
+							
+							www.revivalapp.com</a>
+						</div>
+						
+
+						
+
+						
+						<div style="display: inline-block;">
+							<i class="fas fa-fw fa-map-marker-alt" style="display: inline-block;"></i>
+							
+							<span itemprop="name" style="display: inline-block;">Madrid,  Spain</span>
+						</div>
+						
+
+					</div>
+					<div class="archive__item-excerpt">
+						
+						<p><p>iOS Developer of Revival, iOS application. Working with a team of QA, back-end developer and designer in the team.</p>
+</p>							
+					</div>
+				</li>
+			
+				
+				
+				
+				<li class="main_timeline " data-date="01/11/2006">
+					<h1 class="archive__item-title">IT Trainer</h1>
+					<div class="events-detail" style="width: 100%; margin-top: 5px;">
+
+						
+						<div style="display: inline-block;">
+							<i class="fas fa-link" style="display: inline-block;"></i>
+							<a style="display: inline-block;" href="http://www.pronoide.es">
+							
+							
+							www.pronoide.es</a>
+						</div>
+						
+
+						
+
+						
+						<div style="display: inline-block;">
+							<i class="fas fa-fw fa-map-marker-alt" style="display: inline-block;"></i>
+							
+							<span itemprop="name" style="display: inline-block;">Madrid,  Spain</span>
+						</div>
+						
+
+					</div>
+					<div class="archive__item-excerpt">
+						
+						<p><p>IT Trainer of:<br /><br />• <strong>Mobile Development:</strong> iOS, Android and Xamarin (359 hours).<br />• <strong>Big Data:</strong> Hadoop and ElasticSearch (56 hours).<br />• <strong>Front End:</strong> HTML5, CSS3, Javascript, Angular2, NodeJS, React, Polymer (146 hours).<br />• <strong>Testing tools:</strong> Selenium, SoapUI, Spock, Geb, BDD, Cucumber (108 hours).<br />• <strong>Other tools and languages:</strong> Java, C++, Groovy (86 hours).</p>
+</p>							
+					</div>
+				</li>
+			
+				
+				
+				
+				<li class="main_timeline " data-date="01/12/2006">
+					<h1 class="archive__item-title">Software Developer</h1>
+					<div class="events-detail" style="width: 100%; margin-top: 5px;">
+
+						
+						<div style="display: inline-block;">
+							<i class="fas fa-link" style="display: inline-block;"></i>
+							<a style="display: inline-block;" href="http://www.appsfactory.de">
+							
+							
+							www.appsfactory.de</a>
+						</div>
+						
+
+						
+
+						
+						<div style="display: inline-block;">
+							<i class="fas fa-fw fa-map-marker-alt" style="display: inline-block;"></i>
+							
+							<span itemprop="name" style="display: inline-block;">Leipzig,  Germany</span>
+						</div>
+						
+
+					</div>
+					<div class="archive__item-excerpt">
+						
+						<p><p>Developing Südkurier iOS application. Newspaper app to read, safe and rate the latest news. App developed in Swift. Working with a full team, Project Manager, QA, back-end  and designer.<br /><br />Development Pilot project to evaluate Augmented Reality framework in iOS. With this application you can scan a QR and see a video playing in augmented reality.<br /><br />Working for Daimler USA developing Mercedes Home Automation iOS feature. Feature to connect smart home services such as Nest or SmartThings to your car. Working in Silicon Valley with a full team, Project Manager, QA, back-end  and designer.<br /><br />Working for Daimler AG into a team responsible of the good quality iOS features. Our responsability was review team features and ensure that the code quality follows the Daimler standards. As well As we were responsible of the good sanity of the Continuos integration system. Also we develop some features for the application.<br /><br />During this time we won the Daimler Supplier Award in the category Innovation agains over 60.000 other suppliers.<br /><br />Creating a App to analyze textile manufacturing machines. I Led and mentored the development for the iOS App.</p>
+</p>							
+					</div>
+				</li>
+			
+		</ol>
+	</div> <!-- .events-content -->
+</section>
+	
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="/assets/js/timeline.js"></script>
+</div>
+
+:ET

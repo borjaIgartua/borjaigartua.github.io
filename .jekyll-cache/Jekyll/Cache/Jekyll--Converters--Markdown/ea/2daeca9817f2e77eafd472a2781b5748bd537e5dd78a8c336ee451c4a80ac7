@@ -1,0 +1,433 @@
+I"`<div id="main" role="main">
+    
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/assets/images/telefonica-talentum-logo.jpg" alt="" />
+      
+      <h3>
+          
+        Role
+      </h3>
+      
+        
+        <p>Trainer</p>
+
+      
+      
+    
+      
+      <h3>
+          
+        Responsibilities
+      </h3>
+      
+        
+        <p>IT Trainer in iOS module and in Project iOS &amp; Android module</p>
+
+      
+      
+    
+    
+  
+  </div>
+
+    <article class="page" itemscope="" itemtype="https://schema.org/CreativeWork">
+      <meta itemprop="headline" content="Mobile Application Development III Edition" />
+      <meta itemprop="description" content="" />
+      <div class="page__inner-wrap">
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Mobile Application Development III Edition</h1>
+        </header>
+        <section class="page__content" itemprop="text">
+          <p>Considering the worldwide boom of mobile apps and that Spain is one of the European countries with more mobile app users, this course, organised by Fundación Telefónica, offered the possibility to gain knowledge and make a way in a laboral market with various opportunities to these professionals.</p>
+          <p>The participants learnt Android and iOS, became familiar with JAVA language like Objective C and learnt how to access from the apps to all functionalities of the terminal, as well as to publish the apps on Apple and Google repositories to be downloaded.</p>
+          <p>The course had a four month duration divided into a core training on app architecture, web design, web design with Phone Gap and JAVA programming. Another specific part on app developing for Android, iOS and project developing, as well as a skills part to improve the personal brand, job seeking 2.0 and enhance professional competencies.</p>
+          <br />
+          <p>Teaching iOS app developing. During the project the participants were divided into teams of 5-6 and together with a collaborating company, developed an app that they would present at a event. In this part of the course I monitored and guided the groups so as to help them finish their projects in iOS and Android.</p>
+
+          <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Topics</h3>     
+          
+<div class="accordion-content">	
+	<ul class="cd-accordion-menu has-children animated">
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-1" id="group-1" />
+<label for="group-1">Introduction</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>About the couse</p></li>
+				
+            
+                
+                
+                    
+					<li><p>How Apple starts</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Required tools</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-2" id="group-2" />
+<label for="group-2">Objective C</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Environment</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Classes</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Pointers</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Properties</p></li>
+				
+            
+                
+                
+                    
+					<li><p>NSString y NSNumber</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Collections</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Inheritance</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-3" id="group-3" />
+<label for="group-3">iOS</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>IDE</p></li>
+				
+            
+                
+                
+                    
+					<li><p>View controllers and views</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Visual components</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Comunication between view and controllers</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Constraints</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Navigation between view controllers</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-4" id="group-4" />
+<label for="group-4">Persistence</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Plist files</p></li>
+				
+            
+                
+                
+                    
+					<li><p>SQLite</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-5" id="group-5" />
+<label for="group-5">Advanced components</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>UITableView</p></li>
+				
+            
+                
+                
+                    
+					<li><p>UIPickerView</p></li>
+				
+            
+                
+                
+                    
+					<li><p>UIWebView</p></li>
+				
+            
+                
+                
+                    
+					<li><p>MKMapView</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-6" id="group-6" />
+<label for="group-6">Remote services</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Introduction</p></li>
+				
+            
+                
+                
+                    
+					<li><p>REST services</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-7" id="group-7" />
+<label for="group-7">Swift</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Swift and Objective C</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Swift applications</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-8" id="group-8" />
+<label for="group-8">Apps distribution</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Register</p></li>
+				
+            
+                
+                
+                    
+					<li><p>iTunes Connect</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Distribution</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+		
+	</ul>
+</div>
+
+	<script src="/assets/js/vendor/jquery/jquery-3.3.1.min.js"></script>
+	<script src="/assets/js/accordion.js"></script>
+
+        </section>
+      </div>
+    </article>
+</div>
+:ET

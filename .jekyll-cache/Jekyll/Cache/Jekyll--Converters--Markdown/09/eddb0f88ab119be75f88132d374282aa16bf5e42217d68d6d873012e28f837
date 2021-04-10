@@ -1,0 +1,856 @@
+I"û3<div id="main" role="main">
+    
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/assets/images/soapui-logo.jpg" alt="" />
+      
+      <h3>
+          
+        Role
+      </h3>
+      
+        
+        <p>Trainer</p>
+
+      
+      
+    
+      
+      <h3>
+          
+        Level
+      </h3>
+      
+        
+        <p>Advance</p>
+
+      
+      
+    
+      
+      <h3>
+          
+        Go for
+      </h3>
+      
+        
+        <p>This couse is for web developers, QA departments or System admins</p>
+
+      
+      
+    
+    
+  
+  </div>
+
+    <article class="page" itemscope="" itemtype="https://schema.org/CreativeWork">
+      <meta itemprop="headline" content="Soap UI" />
+      <meta itemprop="description" content="" />
+      <div class="page__inner-wrap">
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Soap UI</h1>
+        </header>
+        <section class="page__content" itemprop="text">
+            <p>SoapUI is a tool for testing Web Services; these can be the SOAP Web Services as well RESTful Web Services or HTTP based services. SoapUI is an Open Source and completely free tool with a commercial companion -SoapUI Pro- that has extra functionality for companies with mission critical Web Services.</p>
+            <p>SoapUI has been downloaded more than 3 million times and is seen as the de facto standard for API Service Testing. </p>
+
+          <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Temario</h3>     
+          
+<div class="accordion-content">	
+	<ul class="cd-accordion-menu has-children animated">
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-1" id="group-1" />
+<label for="group-1">Basic concepts</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>XML review</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Web services</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Web service description language</p></li>
+				
+            
+                
+                
+                    
+					<li><p>SoapUI versions</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-2" id="group-2" />
+<label for="group-2">Working with SoapUI</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>SoapUI IDE</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Create new project</p></li>
+				
+            
+                
+                
+                    
+					<li><p>WSDL</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Automatic code generation with Apache CXF</p></li>
+				
+            
+                
+                
+                                      
+                    
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="sub-group-5" id="sub-group-5" />
+<label for="sub-group-5">Requests and Operations</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Simulate web requests (Mocks)</p></li>
+				
+            
+                
+                
+                                      
+                    
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="sub-group-2" id="sub-group-2" />
+<label for="sub-group-2">Basic concepts, how to handle web message responses</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>XPath</p></li>
+				
+            
+                
+                
+                    
+					<li><p>XQuery</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+				
+            
+                
+                
+                    
+					<li><p>Simulate web requests with Groovy scripts</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-3" style="cursor:default;">Create test suites</label>
+
+  
+    
+    
+    
+		<ul>
+            
+		</ul>
+	
+
+</div>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-4" style="cursor:default;">Test Steps types</label>
+
+  
+    
+    
+    
+		<ul>
+            
+		</ul>
+	
+
+</div>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-5" style="cursor:default;">Properties in a test case</label>
+
+  
+    
+    
+    
+		<ul>
+            
+		</ul>
+	
+
+</div>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-6" id="group-6" />
+<label for="group-6">Asserts types</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Asserts based in XPath expersions</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Asserts based in XQuery expersions</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Based on response time (SLA)</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Based on XSD scheme</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Based on resonse HTTP error codes</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Based on SOAP responses</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Based on presence of content strings</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-7" id="group-7" />
+<label for="group-7">Execute and debug test suites</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Execute simple test cases: asserts</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Execute test case in debug mode</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Modularizing test case</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Configuration for diferent environments</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Create execution and test reports</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Test on Demand</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Log messages</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Scripting</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-8" id="group-8" />
+<label for="group-8">Configure preferences</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>HTTP conexion preferences with proxies</p></li>
+				
+            
+                
+                
+                    
+					<li><p>SSL and WSDL preferences</p></li>
+				
+            
+                
+                
+                    
+					<li><p>IDE prefenrences</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Tools preferences</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Global preferences</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-9" id="group-9" />
+<label for="group-9">Test Steps types</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Request sampling</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Transfer properties between requests</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Conditional Goto</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Transfer properties. Loadand safe from/to extern files</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Delay tests steps</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-10" id="group-10" />
+<label for="group-10">Perform testing</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                                      
+                    
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="sub-group-1" id="sub-group-1" />
+<label for="sub-group-1">Load types</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Load</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Stress</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Stack overflow</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Scalability</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+				
+            
+                
+                
+                    
+					<li><p>Perform strategies</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Asserts in perform testing</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Obtain statistics and interpret perform results</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-11" id="group-11" />
+<label for="group-11">Security testing</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>SQL injection</p></li>
+				
+            
+                
+                
+                    
+					<li><p>XPath injection</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Scripting injection</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Fuzzing Scan</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Send XML malformed</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-12" id="group-12" />
+<label for="group-12">Automatization test cases</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Integrate test case with JUnit</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Integrate test case with Maven</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Integrate test case with other tools (Jenkins ...)</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-13" id="group-13" />
+<label for="group-13">Data driven testing</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>JDBC</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Files (csv, excel) or reading from data base</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-14" id="group-14" />
+<label for="group-14">Odd test cases</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Generating a project from the WSDL</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Setting up an environment and injecting SQL into it</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Setting up an environment and injecting XPath into it</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Data Driven Development. Creating a complete test suite for a real data base</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Authentication with HTTP REST</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Authentication with HTTP REST with forms</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Authentication with OAth 2</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Automatic generation for the OAuth 2 session token</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+		
+	</ul>
+</div>
+
+	<script src="/assets/js/vendor/jquery/jquery-3.3.1.min.js"></script>
+	<script src="/assets/js/accordion.js"></script>
+
+        </section>
+      </div>
+    </article>
+</div>
+:ET

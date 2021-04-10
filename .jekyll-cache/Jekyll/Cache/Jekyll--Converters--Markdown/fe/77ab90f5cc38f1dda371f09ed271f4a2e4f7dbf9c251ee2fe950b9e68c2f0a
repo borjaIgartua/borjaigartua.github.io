@@ -1,0 +1,71 @@
+I" 	<div id="main" role="main">
+    
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/assets/images/telefonica-educacion-digital-logo.jpg" alt="" />
+      
+      <h3>
+          
+        Role
+      </h3>
+      
+        
+        <p>Trainer</p>
+
+      
+      
+    
+      
+      <h3>
+          
+        Level
+      </h3>
+      
+        
+        <p>Basic</p>
+
+      
+      
+    
+      
+      <h3>
+          
+        Responsibilities
+      </h3>
+      
+        
+        <p>IT Trainer of the first two modules.</p>
+
+      
+      
+    
+    
+  
+  </div>
+
+    <article class="page" itemscope="" itemtype="https://schema.org/CreativeWork">
+      <meta itemprop="headline" content="Front end Development I Edition" />
+      <meta itemprop="description" content="" />
+      <div class="page__inner-wrap">
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Front end Development I Edition</h1>
+        </header>
+        <section class="page__content" itemprop="text">
+            <p>A front end developer is the one in charge of changing the visual design into a interactive one: the web site. Due to this, the front end developer is a key part within the current laboral market, since there is a huge need increasement of interactive website.</p>
+            <p>In this course we teach algorithm design and basic knowledge for the language programming. We will apply new technologies inside web design, as well new techniques and tools to build a project. We will use javascript language and its main libraries.</p>
+            <p>The course is divided into the following modules:<p>
+            <ul>
+                <li>Programming Methodology:<br /><span style="font-size: 0.7em;">Application web architecture and all the different technologies involved.</span></li>
+                <li> Design and Web integration:<br /><span style="font-size: 0.7em;">Knowledge about the different design web technologies, as well as new techniques and tools to build a project.</span></li>
+                <li> Client Layer development:<br /><span style="font-size: 0.7em;">How to use javascript and its main libraries. Build the web client layer with this language.</span></li>
+                <li> Last development Node JS:<br /><span style="font-size: 0.7em;">Complex web site development with Node JS</span></li>
+            </ul>
+        <!-- </section>
+      </div>
+    </article>
+</div>-->
+</p></p></section></div></article></div>
+:ET

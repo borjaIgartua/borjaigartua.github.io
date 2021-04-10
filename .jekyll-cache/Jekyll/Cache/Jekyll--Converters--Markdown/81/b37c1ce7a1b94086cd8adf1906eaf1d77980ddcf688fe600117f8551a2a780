@@ -1,0 +1,655 @@
+I"�$<div id="main" role="main">
+    
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/assets/images/apple-logo.jpg" alt="" />
+      
+      <h3>
+          
+        Role
+      </h3>
+      
+        
+        <p>Trainer</p>
+
+      
+      
+    
+      
+      <h3>
+          
+        Nivel
+      </h3>
+      
+        
+        <p>Avanzado</p>
+
+      
+      
+    
+      
+      <h3>
+          
+        Dirigido a
+      </h3>
+      
+        
+        <p>This course is made for mobile developers. Some kind of experience is needed to take advantage of this lessons.</p>
+
+      
+      
+    
+    
+  
+  </div>
+
+    <article class="page" itemscope="" itemtype="https://schema.org/CreativeWork">
+      <meta itemprop="headline" content="Developing applications for iOS" />
+      <meta itemprop="description" content="" />
+      <div class="page__inner-wrap">
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Developing applications for iOS</h1>
+        </header>
+        <section class="page__content" itemprop="text">
+          <p>The student will learn the foundations of Objective-C and Swift languages. Besides, we will teach all the possibilities available with the Cocoa-Touch framework to create graphic interfaces, connect to a server, access a SQL Data Base and obtain the user’s geographic location.</p>
+          <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Topics</h3>     
+          
+<div class="accordion-content">	
+	<ul class="cd-accordion-menu has-children animated">
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-1" id="group-1" />
+<label for="group-1">Introduction</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>iPhone SDK</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Get iPhone SDK</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-2" style="cursor:default;">Components (Xcode, Simulator, interface builder…)</label>
+
+  
+    
+    
+    
+		<ul>
+            
+		</ul>
+	
+
+</div>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-3" id="group-3" />
+<label for="group-3">Objective-C</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>What is Objective-C?</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Main language features</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Using Objects</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Classes constructors</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Messaging</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Managing exceptions</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Logging</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Asserts and testing</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Distributed objects</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Main library classes</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Apple integration products</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-4" id="group-4" />
+<label for="group-4">Switf</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Foundations</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Basic operators</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Strings and Characters</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Collection types</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Functions</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Closures</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Enumerations</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Classes and Structs</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Methods</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Subscripts</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Inheritance</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Initialization and Deinitialization</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Automatic reference counting</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Optional chaining</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Conversión de tipos</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Nest types</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Extensiones</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Protocols</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Generics</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Advance operators</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-5" style="cursor:default;">iOS Architecture</label>
+
+  
+    
+    
+    
+		<ul>
+            
+		</ul>
+	
+
+</div>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-6" id="group-6" />
+<label for="group-6">Visual componets</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>View Controllers</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Views, Outlets y Actions</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Input Keyboard</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Table view</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Screen rotation</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-7" style="cursor:default;">Cross platform support (iPhone, iPad, iWatch</label>
+
+  
+    
+    
+    
+		<ul>
+            
+		</ul>
+	
+
+</div>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-8" style="cursor:default;">User defaults</label>
+
+  
+    
+    
+    
+		<ul>
+            
+		</ul>
+	
+
+</div>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-9" style="cursor:default;">File manager</label>
+
+  
+    
+    
+    
+		<ul>
+            
+		</ul>
+	
+
+</div>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-10" style="cursor:default;">Data Base recording</label>
+
+  
+    
+    
+    
+		<ul>
+            
+		</ul>
+	
+
+</div>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-11" id="group-11" />
+<label for="group-11">iOS Advance</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Animations and video</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Gestures</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Acelerometer</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-12" id="group-12" />
+<label for="group-12">Network Programming</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Web Services</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Bluetooth</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Bonjour</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Apple Push Notification Service</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Mapas</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-13" style="cursor:default;">Background apps</label>
+
+  
+    
+    
+    
+		<ul>
+            
+		</ul>
+	
+
+</div>
+
+
+
+		
+		
+	</ul>
+</div>
+
+	<script src="/assets/js/vendor/jquery/jquery-3.3.1.min.js"></script>
+	<script src="/assets/js/accordion.js"></script>
+
+        </section>
+      </div>
+    </article>
+</div>
+:ET

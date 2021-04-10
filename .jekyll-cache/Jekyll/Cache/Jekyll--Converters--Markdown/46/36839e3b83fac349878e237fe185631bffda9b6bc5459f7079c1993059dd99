@@ -1,0 +1,89 @@
+I"<div id="main" role="main">    
+      <meta itemprop="headline" content="BBVA NetCash" />
+      <meta itemprop="description" content="" />
+      <div class="page__inner-wrap" style="margin: 30px;">
+      <div class="project-container left">
+        <section class="page__content" itemprop="text">
+             
+
+
+
+<!--  -->
+
+<figure class="half remove_margin_top remove_margin_bottom">
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/netcash/uno.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/netcash/dos.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/netcash/tres.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/netcash/cuatro.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/netcash/cinco.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/netcash/seis.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/netcash/siete.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/netcash/ocho.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/netcash/nueve.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/netcash/diez.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/netcash/once.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/netcash/doce.png" alt="" />
+    
+  
+  
+</figure>
+         </section>
+      </div>
+      <div class="project-container right">        
+        <section class="page__content" itemprop="text">
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">BBVA NetCash</h1>
+        </header>
+            <p>Manage your business at any time and in any place with the app BBVA Net cash, the online banking for your businesses.</p>
+            <p>With this app you can have a look at your accounts, activities and statements. You can check and accept pending transactions as well as follow them up. You can confirm transactions with a security code integrated in the app. Making national and international transactions and wire transfers is also possible. Manage and validate the operations of the users. Manage the security devices “mobile token” within the app (installation/generation of security codes). Receiving notifications on the phone regarding overdrafts and pending transactions to be confirmed by the user. Office locator. BBVA contact section. Notifications. Contact your financial advisor. Password forgotten.</p>
+            <p>I have develop securization transfers throught soft security token.</p>
+            
+
+
+<!-- Courtesy of embedresponsively.com //-->
+<div class="responsive-video-container ">
+
+  <iframe src="https://www.youtube-nocookie.com/embed/u23JETAhk3g" frameborder="0" allowfullscreen=""></iframe>
+
+</div>
+
+        </section>         
+         </div>
+       </div>       
+</div>
+:ET

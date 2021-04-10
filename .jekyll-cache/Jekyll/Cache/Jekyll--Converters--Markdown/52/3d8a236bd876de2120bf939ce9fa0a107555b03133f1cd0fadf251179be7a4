@@ -1,0 +1,603 @@
+I"!<div id="main" role="main">
+    
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/assets/images/android-logo.jpg" alt="" />
+      
+      <h3>
+          
+        Role
+      </h3>
+      
+        
+        <p>Trainer</p>
+
+      
+      
+    
+      
+      <h3>
+          
+        Level
+      </h3>
+      
+        
+        <p>Advance</p>
+
+      
+      
+    
+    
+  
+  </div>
+
+    <article class="page" itemscope="" itemtype="https://schema.org/CreativeWork">
+      <meta itemprop="headline" content="Developing applications for Android" />
+      <meta itemprop="description" content="" />
+      <div class="page__inner-wrap">
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Developing applications for Android</h1>
+        </header>
+        <section class="page__content" itemprop="text">
+            <p>Learn how to develop an app with Android. Getting to know the programs and environments to develop it and the necessary steps until its publications and later market launch.</p>
+          <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Topics</h3>     
+          
+<div class="accordion-content">	
+	<ul class="cd-accordion-menu has-children animated">
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-1" id="group-1" />
+<label for="group-1">Introduction</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>What is Android?</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Android SDK Installation, Android Studio, Eclipse and ADT</p></li>
+				
+            
+                
+                
+                    
+					<li><p>The APK files</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Emulators and phisycal devices</p></li>
+				
+            
+                
+                
+                    
+					<li><p>XML file and AndroidManifest.xml</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Sign  APK and distribution</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-2" id="group-2" />
+<label for="group-2">Applications</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Application characteristics</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Activities</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Activities life cycle</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Intents</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-3" id="group-3" />
+<label for="group-3">Generation user interfaces</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Layouts y views</p></li>
+				
+            
+                
+                
+                    
+					<li><p>ViewGroups</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Advanced views</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Screens resolutions</p></li>
+				
+            
+                
+                
+                    
+					<li><p>ListView y Adapters</p></li>
+				
+            
+                
+                
+                    
+					<li><p>How to handle an event</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Styles and themes</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-4" id="group-4" />
+<label for="group-4">Menu, Dialogs and Notifications</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Contextual menu</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Menu items, submenu and contextual menu</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Dialogs</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Toasts</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Notifications</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-5" id="group-5" />
+<label for="group-5">Data persistancy and content providers</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Preferences and screen states</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Files</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Android SQLite</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Content providers</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-6" style="cursor:default;">Graphics and 2D, 3D Animations</label>
+
+  
+    
+    
+    
+
+</div>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-7" id="group-7" />
+<label for="group-7">Background services</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>How to execute</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Local and remote services</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Threads and AsyncTask</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-8" id="group-8" />
+<label for="group-8">Sensors</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Camera photo</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Network conection and bluetooth</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Location services</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Sensor Manager, how to: accelerometer, orientation</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Vibration</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-9" style="cursor:default;">App Widgets and Live Folders</label>
+
+  
+    
+    
+    
+
+</div>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-10" style="cursor:default;">Publishing an app</label>
+
+  
+    
+    
+    
+
+</div>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-11" style="cursor:default;">Google APIS</label>
+
+  
+    
+    
+    
+
+</div>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-12" style="cursor:default;">Native code with Android NDK</label>
+
+  
+    
+    
+    
+
+</div>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-13" style="cursor:default;">testing Android apps</label>
+
+  
+    
+    
+    
+
+</div>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-14" id="group-14" />
+<label for="group-14">How to acces remote services</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>HTTP / SOAP / Rest Requests</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Processing XML / JSON</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-15" style="cursor:default;">Frameworks to develop apps</label>
+
+  
+    
+    
+    
+
+</div>
+
+
+
+		
+		
+	</ul>
+</div>
+
+	<script src="/assets/js/vendor/jquery/jquery-3.3.1.min.js"></script>
+	<script src="/assets/js/accordion.js"></script>
+
+        </section>
+      </div>
+    </article>
+</div>
+:ET

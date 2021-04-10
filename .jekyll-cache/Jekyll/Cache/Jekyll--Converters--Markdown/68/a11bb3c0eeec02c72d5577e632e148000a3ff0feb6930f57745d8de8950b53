@@ -1,0 +1,422 @@
+I"<div id="main" role="main">
+    
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/assets/images/spock-geb-logo.jpg" alt="" />
+      
+      <h3>
+          
+        Role
+      </h3>
+      
+        
+        <p>Trainer</p>
+
+      
+      
+    
+      
+      <h3>
+          
+        Level
+      </h3>
+      
+        
+        <p>Advance</p>
+
+      
+      
+    
+      
+      <h3>
+          
+        Go for
+      </h3>
+      
+        
+        <p>This course is for developers, analists and project manager who wants to implement unit, integration and functional testing with Spock and Geb framework</p>
+
+      
+      
+    
+    
+  
+  </div>
+
+    <article class="page" itemscope="" itemtype="https://schema.org/CreativeWork">
+      <meta itemprop="headline" content="Groovy, Spock &amp; Geb" />
+      <meta itemprop="description" content="" />
+      <div class="page__inner-wrap">
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Groovy, Spock &amp; Geb</h1>
+        </header>
+        <section class="page__content" itemprop="text">
+          <p>Spock is a testing and specification framework for Java and Groovy applications. What makes it stand out from the crowd is its beautiful and highly expressive specification language. Thanks to its JUnit runner, Spock is compatible with most IDEs, build tools, and continuous integration servers.</p>
+          <p>Geb is a browser automation solution. It brings together the power of WebDriver, the elegance of jQuery content selection, the robustness of Page Object modelling and the expressiveness of the Groovy language. It can be used for scripting, scraping and general automation — or equally as a functional/web/acceptance testing solution via integration with testing frameworks such as Spock, JUnit &amp; TestNG.</p>
+
+          <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Temario</h3>     
+          
+<div class="accordion-content">	
+	<ul class="cd-accordion-menu has-children animated">
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-1" id="group-1" />
+<label for="group-1">Groovy language</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Data type: Strings</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Data type: Collections</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Control flow, functions and closures</p></li>
+				
+            
+                
+                
+                    
+					<li><p>POO with Groovy. Classes and interfaces</p></li>
+				
+            
+                
+                
+                                      
+                    
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="sub-group-5" id="sub-group-5" />
+<label for="sub-group-5">Groovy libraries</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>MarkupBuilder and XmlSlurper. Working with XML</p></li>
+				
+            
+                
+                
+                    
+					<li><p>GroovySQL and data bases</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Groovy Builders</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Property expansion, Metaprogramming and Groovy DSL</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-2" id="group-2" />
+<label for="group-2">Spock</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                                      
+                    
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="sub-group-1" id="sub-group-1" />
+<label for="sub-group-1">Instalation</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Using Maven</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Using Gradle</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Using Eclipse</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+				
+            
+                
+                
+                                      
+                    
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="sub-group-2" id="sub-group-2" />
+<label for="sub-group-2">Terminology</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Specifications</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Features and Fixtures</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+				
+            
+                
+                
+                    
+					<li><p>Blocks</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Conditions</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Data driven testing</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Exceptions</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Iteractions</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Extensions</p></li>
+				
+            
+                
+                
+                                      
+                    
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="sub-group-9" id="sub-group-9" />
+<label for="sub-group-9">Integrations tests</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Data bases</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Spring</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Advanced features</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-3" id="group-3" />
+<label for="group-3">Geb</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Configure and Install</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Object Browser</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Interact with content</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Pages</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Modules</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Implicit asserts</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Javascript and async tests</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+		
+	</ul>
+</div>
+
+	<script src="/assets/js/vendor/jquery/jquery-3.3.1.min.js"></script>
+	<script src="/assets/js/accordion.js"></script>
+
+        </section>
+      </div>
+    </article>
+</div>
+:ET

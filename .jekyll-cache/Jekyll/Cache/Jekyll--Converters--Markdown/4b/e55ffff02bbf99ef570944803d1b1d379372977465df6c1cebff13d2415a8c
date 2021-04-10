@@ -1,0 +1,13 @@
+I"j<div id="main" role="main">    
+      <meta itemprop="headline" content="Invest Region Leipzig" />
+      <meta itemprop="description" content="" />
+      <div class="page__inner-wrap" style="margin: 30px;">
+        <section class="page__content" itemprop="text">
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Invest Region Leipzig</h1>
+        </header>
+            <p>Pilot project to evaluate Augmented Reality framework in iOS. With this application you can scan a QR and see a video playing in augmented reality.</p>
+        </section>         
+       </div>       
+</div>
+:ET

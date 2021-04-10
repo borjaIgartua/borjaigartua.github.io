@@ -1,0 +1,612 @@
+I"#<div id="main" role="main">
+    
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/assets/images/c-logo.jpg" alt="" />
+      
+      <h3>
+          
+        Role
+      </h3>
+      
+        
+        <p>Trainer</p>
+
+      
+      
+    
+      
+      <h3>
+          
+        Level
+      </h3>
+      
+        
+        <p>Basic</p>
+
+      
+      
+    
+      
+      <h3>
+          
+        Go for
+      </h3>
+      
+        
+        <p>This course is for developers who wants to learn C++</p>
+
+      
+      
+    
+    
+  
+  </div>
+
+    <article class="page" itemscope="" itemtype="https://schema.org/CreativeWork">
+      <meta itemprop="headline" content="Object Oriented Programming with C++" />
+      <meta itemprop="description" content="" />
+      <div class="page__inner-wrap">
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Object Oriented Programming with C++</h1>
+        </header>
+        <section class="page__content" itemprop="text">
+          <p>The students will understand the fundations about programming language c++ and Object Oriented Programming technique. They will create a solid foundation of concepts and knowledge to use in their carriers.</p>
+          <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Topics</h3>     
+          
+<div class="accordion-content">	
+	<ul class="cd-accordion-menu has-children animated">
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-1" id="group-1" />
+<label for="group-1">Introduction to C++</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>History</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Basic concepts</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-2" id="group-2" />
+<label for="group-2">Language basics</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Variables, operators and types</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Control Flow</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-3" id="group-3" />
+<label for="group-3">Arrays and pointers</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Arrays</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Swap</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Pointers</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Dinamic memory, new and delete</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Reference variables</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Atributes and methods</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Void pointers</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-4" id="group-4" />
+<label for="group-4">Object oriented programing</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Classes in C++</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Visibility</p></li>
+				
+            
+                
+                
+                    
+					<li><p>This pointer</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Headers (.h) and code (.cpp)</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Const objects</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Atributes and statics methods</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Functions and friend classes</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-5" style="cursor:default;">Operators overload</label>
+
+  
+    
+    
+    
+		<ul>
+            
+		</ul>
+	
+
+</div>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-6" style="cursor:default;">Aggregation, composition and constructors</label>
+
+  
+    
+    
+    
+		<ul>
+            
+		</ul>
+	
+
+</div>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-7" id="group-7" />
+<label for="group-7">Inheritance</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Introduction</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Basic iheritance</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Access specifications</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Changing access specifications</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Multi Inheritance</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Virtual base classes</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-8" id="group-8" />
+<label for="group-8">Virtual functions</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Pointers to Parent and childs</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Virtual functions</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Abstract classes and pure virtual functions</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Interfaces</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-9" id="group-9" />
+<label for="group-9">Working with files</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>ofstream</p></li>
+				
+            
+                
+                
+                    
+					<li><p>ifstream</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Random file access</p></li>
+				
+            
+                
+                
+                    
+					<li><p>fstream</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-10" id="group-10" />
+<label for="group-10">Templates</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Functions with templates</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Classes with templates</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Specialization</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-11" id="group-11" />
+<label for="group-11">Exceptions</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Try, catch and throw</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Catch all and exception specifiers</p></li>
+				
+            
+                
+                
+                    
+					<li><p>The class Exception and inheritance</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-12" id="group-12" />
+<label for="group-12">Standard Template Library (STL)</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Introduction</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Collections</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Iteractors</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Algorithims</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+		
+	</ul>
+</div>
+
+	<script src="/assets/js/vendor/jquery/jquery-3.3.1.min.js"></script>
+	<script src="/assets/js/accordion.js"></script>
+
+        </section>
+      </div>
+    </article>
+</div>
+:ET

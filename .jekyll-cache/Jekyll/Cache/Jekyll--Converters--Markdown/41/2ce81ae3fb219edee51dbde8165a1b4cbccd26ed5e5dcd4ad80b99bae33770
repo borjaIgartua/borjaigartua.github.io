@@ -1,0 +1,646 @@
+I"K,<div id="main" role="main">
+    
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/assets/images/html-css-logo.jpg" alt="" />
+      
+      <h3>
+          
+        Role
+      </h3>
+      
+        
+        <p>Trainer</p>
+
+      
+      
+    
+      
+      <h3>
+          
+        Nivel
+      </h3>
+      
+        
+        <p>Avanzado</p>
+
+      
+      
+    
+      
+      <h3>
+          
+        Dirigido a
+      </h3>
+      
+        
+        <p>Esta acción formativa va dirigida a Maquetadores, Programadores y Analistas.</p>
+
+      
+      
+    
+    
+  
+  </div>
+
+    <article class="page" itemscope="" itemtype="https://schema.org/CreativeWork">
+      <meta itemprop="headline" content="Advanced HTML5 &amp; CSS3" />
+      <meta itemprop="description" content="" />
+      <div class="page__inner-wrap">
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Advanced HTML5 &amp; CSS3</h1>
+        </header>
+        <section class="page__content" itemprop="text">
+            <p>HTML5 is the latest version of HTML. The term represents two different concepts:
+            <br />It is a new version of HTML, with new elements, attributes and behaviours. <br />It contains a wider range of technologies that enables Web sites and apps to be more diverse and reachable. This compound is called HTML5.</p>
+            <p>CSS3 is the last language development of cascade spread style sheet and aims at expanding the CSS2.1. Version. It contains many expected novelties like round corners, shadows, gradients, transitions or animations and new layouts like multiple columns, flexboxes and grid layouts.</p>
+          <!-- <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Temario</h3>     
+          
+<div class="accordion-content">	
+	<ul class="cd-accordion-menu has-children animated">
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name ="group-1" id="group-1">
+<label for="group-1">Geolocalización</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>¿Para qué se usa la Geolocalización?</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Soporte del navegador para la geolocalización</p></li>
+				
+            
+                
+                
+                    
+					<li><p>El objeto Geolocation</p></li>
+				
+            
+                
+                
+                    
+					<li><p>API de Geolocalización</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Propiedades del objeto PositionOptions</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Atributos de la interfaz Position</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name ="group-2" id="group-2">
+<label for="group-2">Mensajería Web</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Métodos de Mensajería Web</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Establecimiento de confianza entre dominios</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Establecimiento de confianza con ORIGEN</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Cross Origin Resource Sharing (CORS)</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Puertos y canales de mesnsajes</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Métodos de MessagePort</p></li>
+				
+            
+                
+                
+                    
+					<li><p>El objeto Message Event</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Controles de seguridad adicional</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name ="group-3" id="group-3">
+<label for="group-3">Web Workers</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>¿Por qué utilizar Web Workers?</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Características disponibles</p></li>
+				
+            
+                
+                
+                    
+					<li><p>¿Cómo funcionan los Web Workers?</p></li>
+				
+            
+                
+                
+                    
+					<li><p>WorkerGlobalScope: Propiedades, métodos y eventos</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Soporte del navegador para Web Workers</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Tipos de Web Workers</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Terminación del trabajador desde script</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name ="group-4" id="group-4">
+<label for="group-4">Arrastrar y soltar</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>¿Qué es drag and drop?</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Arrastrar y soltar con una "carga útil" de datos</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Eventos de arrastre</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Evento soltar</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name ="group-5" id="group-5">
+<label for="group-5">Aplicaciones desconectadas</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Soporte del navegador para Desconectado Aplicaciones</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Vaciado de la caché del navegador</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Entendimiento applicationCache</p></li>
+				
+            
+                
+                
+                    
+					<li><p>La propiedad navigator.online</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Asociación del Manifiesto caché con una Página Web</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name ="group-6" id="group-6">
+<label for="group-6">XMLHttpRequest Nivel 2</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Beneficios de XHR2</p></li>
+				
+            
+                
+                
+                    
+					<li><p>El objeto XHR: Estados</p></li>
+				
+            
+                
+                
+                    
+					<li><p>El objeto XHR: Controladores de eventos</p></li>
+				
+            
+                
+                
+                    
+					<li><p>El objeto XHR: Métodos</p></li>
+				
+            
+                
+                
+                    
+					<li><p>El objeto XHR: Propiedades</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name ="group-7" id="group-7">
+<label for="group-7">Web Sockets</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Introducción Web Sockets</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Propiedades de los WebSocket</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Controladores de eventos</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Métodos</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Uso de un servidor WebSocket con el API WebSocket</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name ="group-8" id="group-8">
+<label for="group-8">Eventos enviados por el servidor</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Mensajes del servidor</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Creación de un EventSource</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Propiedades EventSource</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Eventos desde un EventSource</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Las ventajas de los eventos enviados por el servidor</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Las desventajas de  los eventos enviados por el servidor</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name ="group-9" id="group-9">
+<label for="group-9">CSS3</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Selectores</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Especificidad</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Contenido generado</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Mediaqueries</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Depuración</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Colores</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Fuentes, sombras y efectos de texto</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Bordes y Fondos</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Degradados</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Transformaciones</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Transiciones y animaciones</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Otras características de CSS</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Programando en CSS: Sass</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+		
+	</ul>
+</div>
+
+	<script src="/assets/js/vendor/jquery/jquery-3.3.1.min.js"></script>
+	<script src="/assets/js/accordion.js"></script>
+ -->
+        </section>
+      </div>
+    </article>
+</div>
+:ET

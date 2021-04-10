@@ -1,0 +1,48 @@
+I"Z<div style="margin-top:30px;">
+  <div class="project-container left">
+    <section class="page__content" itemprop="text">
+      
+
+
+
+<!--  -->
+
+<figure class="half remove_margin_top remove_margin_bottom">
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/truetzschler/mywires/01.jpg" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/truetzschler/mywires/02.jpg" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/truetzschler/mywires/03.jpg" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/truetzschler/mywires/04.jpg" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/truetzschler/mywires/06.jpg" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/iOS/truetzschler/mywires/07.jpg" alt="" />
+    
+  
+  
+</figure>
+    </section>
+  </div>
+  <div class="project-container right">        
+    <section class="page__content" itemprop="text">
+      <p>Digitise your clothings – and use My Wires app to gain an overview of central topics of your clothing management, such as clothing condition, service and maintenance.</p>
+      <p>The starting point is the unique digitisation of your clothing management. This only takes a few minutes – with Truetzschler clothing and Truetzschler machines, just a few details are needed and you are ready to go. The My Wires app can also be used for machines and clothings from other manufacturers.</p>
+      <p>Once set up, you can use the My Wires app to manage all tasks related to your clothings. You can see at a glance when and where the next maintenance assignment is due. You can adapt the Truetzschler recommendations for grinding and clothing change to your own experience. Orders can also be easily organised and implemented.</p>
+    </section>         
+  </div>
+</div>
+:ET

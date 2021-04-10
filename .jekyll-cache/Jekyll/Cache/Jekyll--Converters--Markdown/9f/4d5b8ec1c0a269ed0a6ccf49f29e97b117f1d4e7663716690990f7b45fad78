@@ -1,0 +1,345 @@
+I"�/<div id="main" role="main">    
+      <meta itemprop="headline" content="BBVA Compass" />
+      <meta itemprop="description" content="" />
+      <div class="page__inner-wrap" style="margin: 30px;">
+      <div class="project-container left">
+        <section class="page__content" itemprop="text">
+             
+
+
+
+<!--  -->
+
+<figure class="half remove_margin_top remove_margin_bottom">
+  
+    
+      <img class="gallery-image" src="/assets/screens/windows-phone/BMUS/dashboard.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/windows-phone/BMUS/Accounts.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/windows-phone/BMUS/billPayment.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/windows-phone/BMUS/location.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/windows-phone/BMUS/selectLanguage.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/windows-phone/BMUS/TransactionDetail.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/windows-phone/BMUS/transfers.png" alt="" />
+    
+  
+  
+</figure>
+         </section>
+      </div>
+      <div class="project-container right">        
+        <section class="page__content" itemprop="text">
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">BBVA Compass</h1>
+        </header>
+            <p>The new BBVA Compass Mobile Banking 2.1 app is now fully bilingual (English/Spanish) and provides you a fast, easy and attractive way to manage your BBVA Compass accounts, allowing you to issue and view Bill Payments, Add Payees and manage Pay Accounts; display your balances and charts, view posted and pending transactions, transfer funds between accounts, see images of your paid checks, transaction receipts and find local branches.</p>
+            <p>Application develop in Visual Studio for Window phone. I had been working developing the whole application.</p>
+        </section>         
+        <section class="page__content" itemprop="text" style="font-size: 0.8rem;">
+              <blockquote>
+                <p>BBVA Compass is a long-needed app that doesn’t disappoint. Its good, clean Windows Phone App-style UI matches the bank website’s blue and white color scheme perfectly. The app does everything you could want it to do, and so much more efficiently than going through the website on a phone. If you have the misfortune of banking with BBVA Compass (can you tell I love them?), don’t hesitate to grab the app today.</p>
+              </blockquote>
+              <blockquote>
+                <p><cite>From Window Central, Paul Acevedo</cite></p>
+              </blockquote>
+         </section>
+         <section class="page__content" itemprop="text">
+         <style>
+    .carousel {
+    height: auto;
+    text-align: center;
+    background-color: #fafafa;
+    margin-top: 10px;
+}
+
+ul.slides {
+    display: block;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    list-style: none;
+    max-height: 100%;
+    min-height: 90px;
+}
+
+.slides * {
+    user-select: none;
+    -ms-user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+}
+
+ul.slides input {
+    display: none; 
+}
+
+
+.slide-container { 
+    display: block; 
+}
+
+.slide-image {
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    opacity: 0;
+    transition: all .7s ease-in-out;
+}   
+
+.slide-image img {
+    width: auto;
+    min-width: 100%;
+    height: 100%;
+}
+
+.slide-image:hover + .carousel-controls label{
+    opacity: 0.5;
+}
+
+.carousel-controls label:hover {
+    opacity: 1;
+}
+
+.carousel-dots {
+    position: relative;
+    z-index: 999;
+    display: inline;
+    background-color: #fafafa;
+}
+
+.carousel-dots .carousel-dot {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: rgb(51, 51, 51);
+    opacity: 0.5;
+    margin: 0px 10px 0px;
+}
+.carousel-dot.checked {
+    opacity: 1 !important;
+}
+
+input:checked + .slide-container .slide-image {
+    opacity: 1;
+    transform: scale(1);
+    transition: opacity 1s ease-in-out;
+}
+
+input:checked + .slide-container .carousel-controls label {
+     display: block; 
+}
+
+input#img-1:checked ~ .carousel-dots label#img-dot-1,
+input#img-2:checked ~ .carousel-dots label#img-dot-2,
+input#img-3:checked ~ .carousel-dots label#img-dot-3,
+input#img-4:checked ~ .carousel-dots label#img-dot-4,
+input#img-5:checked ~ .carousel-dots label#img-dot-5,
+input#img-6:checked ~ .carousel-dots label#img-dot-6,
+input#img-7:checked ~ .carousel-dots label#img-dot-7,
+input#img-8:checked ~ .carousel-dots label#img-dot-8,
+input#img-9:checked ~ .carousel-dots label#img-dot-9,
+input#img-10:checked ~ .carousel-dots label#img-dot-10 {
+	opacity: 1;
+}
+
+
+input:checked + .slide-container .nav label { display: block; }
+
+</style>
+<div>
+        <div class="carousel">
+            <ul class="slides">
+                <input type="radio" name="radio-buttons" id="img-1" checked="" />
+                <li class="slide-container">
+                    <div class="slide-image">
+                        <img src="/assets/screens/windows-phone/BMUS/reviews/una.png" />
+                    </div>
+                </li>
+                <input type="radio" name="radio-buttons" id="img-2" />
+                <li class="slide-container">
+                    <div class="slide-image">
+                        <img src="/assets/screens/windows-phone/BMUS/reviews/dos.png" />
+                    </div>
+                </li>
+                <input type="radio" name="radio-buttons" id="img-3" />
+                <li class="slide-container">
+                    <div class="slide-image">
+                        <img src="/assets/screens/windows-phone/BMUS/reviews/tres.png" />
+                    </div>
+                </li>
+                <input type="radio" name="radio-buttons" id="img-4" />
+                <li class="slide-container">
+                    <div class="slide-image">
+                        <img src="/assets/screens/windows-phone/BMUS/reviews/cuatro.png" />
+                    </div>
+                </li>
+                <input type="radio" name="radio-buttons" id="img-5" />
+                <li class="slide-container">
+                    <div class="slide-image">
+                        <img src="/assets/screens/windows-phone/BMUS/reviews/cinco.png" />
+                    </div>
+                </li>
+                <input type="radio" name="radio-buttons" id="img-6" />
+                <li class="slide-container">
+                    <div class="slide-image">
+                        <img src="/assets/screens/windows-phone/BMUS/reviews/seis.png" />
+                    </div>
+                </li>
+                <input type="radio" name="radio-buttons" id="img-7" />
+                <li class="slide-container">
+                    <div class="slide-image">
+                        <img src="/assets/screens/windows-phone/BMUS/reviews/siete.png" />
+                    </div>
+                </li>
+                <input type="radio" name="radio-buttons" id="img-8" />
+                <li class="slide-container">
+                    <div class="slide-image">
+                        <img src="/assets/screens/windows-phone/BMUS/reviews/ocho.png" />
+                    </div>
+                </li>
+                <input type="radio" name="radio-buttons" id="img-9" />
+                <li class="slide-container">
+                    <div class="slide-image">
+                        <img src="/assets/screens/windows-phone/BMUS/reviews/nueve.png" />
+                    </div>
+                </li>
+                <input type="radio" name="radio-buttons" id="img-10" />
+                <li class="slide-container">
+                    <div class="slide-image">
+                        <img src="/assets/screens/windows-phone/BMUS/reviews/diez.png" />
+                    </div>
+                </li>
+            </ul>
+                <div class="carousel-dots">
+                    <label for="img-1" class="carousel-dot checked" id="img-dot-1"></label>
+                    <label for="img-2" class="carousel-dot" id="img-dot-2"></label>
+                    <label for="img-3" class="carousel-dot" id="img-dot-3"></label>
+                    <label for="img-4" class="carousel-dot" id="img-dot-4"></label>
+                    <label for="img-5" class="carousel-dot" id="img-dot-5"></label>
+                    <label for="img-6" class="carousel-dot" id="img-dot-6"></label>
+                    <label for="img-3" class="carousel-dot" id="img-dot-7"></label>
+                    <label for="img-4" class="carousel-dot" id="img-dot-8"></label>
+                    <label for="img-5" class="carousel-dot" id="img-dot-9"></label>
+                    <label for="img-6" class="carousel-dot" id="img-dot-10"></label>
+                </div>
+            
+        </div>
+    </div>
+<script>
+    (function() {
+
+        /* Automatic */
+        var timer = new Timer(function() {
+            nextSlide();
+        }, 5000);
+
+        timer.start();
+
+        var elements = document.getElementsByClassName("carousel-dot");
+        for(var i=0; i<elements.length; i++) {
+            elements[i].addEventListener("click",function(e) {
+                timer.reset(5000);
+                var elements = document.getElementsByClassName("carousel-dot");
+                for(var i=0; i<elements.length; i++) {   
+                    if (e.srcElement == elements[i]) {
+                        elements[i].classList.add("checked");
+                        
+                    } else {                                                             
+                        elements[i].classList.remove("checked");                    
+                    }
+                }
+            },false);            
+        }
+        
+        
+        function nextSlide() {            
+            var elements = document.getElementsByClassName("carousel-dot");
+            for(var i=0; i<elements.length; i++) {
+                if (elements[i].classList.contains("checked")) {
+                    var fireElement = (i === (elements.length-1)) ? elements[0] : elements[i+1];         
+                    eventFire(fireElement, 'click');
+                    break;
+                }
+            }
+
+            var inputs = document.getElementsByName('radio-buttons');
+            for(var i=0; i<inputs.length; i++) {                
+                if (inputs[i].checked) {
+                    var checkedElement = (i === (inputs.length-1)) ? inputs[0] : inputs[i+1];
+                    inputs[i].checked = false;
+                    checkedElement.checked = true;
+                    console.log(checkedElement);
+                    break;
+                }
+            }
+        }
+
+        /* fire event */
+        function eventFire(el, etype){
+            if (el.fireEvent) {
+                el.fireEvent('on' + etype);
+
+            } else {
+                var evObj = document.createEvent('Events');
+                evObj.initEvent(etype, true, false);
+                el.dispatchEvent(evObj);
+            }
+        }
+
+        /* timer */
+        function Timer(fn, t) {
+            var timerObj = setInterval(fn, t);
+
+            this.stop = function() {
+                if (timerObj) {
+                    clearInterval(timerObj);
+                    timerObj = null;
+                }
+                return this;
+            }
+
+            // start timer using current settings (if it's not already running)
+            this.start = function() {
+                if (!timerObj) {
+                    this.stop();
+                    timerObj = setInterval(fn, t);
+                }
+                return this;
+            }
+
+            // start with new interval, stop current interval
+            this.reset = function(newT) {
+                t = newT;
+                return this.stop().start();
+            }
+        }
+    })();
+</script>
+         </section>
+         </div>
+       </div>       
+</div>
+:ET

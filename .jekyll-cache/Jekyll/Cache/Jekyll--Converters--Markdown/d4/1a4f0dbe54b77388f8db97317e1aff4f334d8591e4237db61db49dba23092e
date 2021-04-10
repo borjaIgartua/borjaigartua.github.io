@@ -1,0 +1,1007 @@
+I"NA<div id="main" role="main">
+    
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/assets/images/java-logo.jpg" alt="" />
+      
+      <h3>
+          
+        Role
+      </h3>
+      
+        
+        <p>Trainer</p>
+
+      
+      
+    
+    
+  
+  </div>
+
+    <article class="page" itemscope="" itemtype="https://schema.org/CreativeWork">
+      <meta itemprop="headline" content="Java Standard Edition" />
+      <meta itemprop="description" content="" />
+      <div class="page__inner-wrap">
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Java Standard Edition</h1>
+        </header>
+        <section class="page__content" itemprop="text">
+          <p>This course is made for beginners. People who have never coded before and want to learn. On this course you will learn Java sintaxis and how to use the main Java Standard Edition libraries.</p>
+          <p>Telefónica foundation will help you to discover the digital era language and a passionate programming world.</p>
+          <p>Java is the most common programming language inside the IT community and for software enterprises. Web Applications, software for electronic devices, mobile phones, tablets… All of this kind of programs can be made with Java. On this course we will teach you how to code with this language and you will see the main classes used.</p>
+
+          <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Temario</h3>     
+          
+<div class="accordion-content">	
+	<ul class="cd-accordion-menu has-children animated">
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-1" id="group-1" />
+<label for="group-1">Java concepts</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Java evolution</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Instalation</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Java instalation</p></li>
+				
+            
+                
+                
+                    
+					<li><p>How it works</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Compile and execute Java</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-2" id="group-2" />
+<label for="group-2">Syntax language</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Function main</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Key words and identifiers</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Primitives types</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Literals</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Variable scopes and lifetime</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Operators and types</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Expressions and operators precedence</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Basic in and out</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Functions and parameters</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Generate documentation, javadoc</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-3" id="group-3" />
+<label for="group-3">Control Flow</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>if sentences</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Ternary operator ?:</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Switch sentence</p></li>
+				
+            
+                
+                
+                    
+					<li><p>for loop</p></li>
+				
+            
+                
+                
+                    
+					<li><p>While loop</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Do while loop</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Break and continue</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-4" id="group-4" />
+<label for="group-4">Compound types and enumerations</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Arrays</p></li>
+				
+            
+                
+                
+                    
+					<li><p>for each loop</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Strings</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Parameters on command line</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Multidimensional arrays</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Type wrappers</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Autoboxing and Unboxing</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-5" id="group-5" />
+<label for="group-5">Classes, objects and methods</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Object oriented principles</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Classes, data and methods</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Creating Objects: new operator</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Constructors and overloading</p></li>
+				
+            
+                
+                
+                    
+					<li><p>This reference</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Variables and static methods</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Overloading methods</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Getters and Setters</p></li>
+				
+            
+                
+                
+                    
+					<li><p>toString method</p></li>
+				
+            
+                
+                
+                    
+					<li><p>equals method</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Garbage collector and finalize method</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Nested and intern classes</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-6" id="group-6" />
+<label for="group-6">Inheritance</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Concept</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Inheritance in constructors, super keyword</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Overriding methods</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Protected methods and properties</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Abstract classes</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Polymorphism</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Final usage</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Object class</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-7" id="group-7" />
+<label for="group-7">Packages and libraries</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Package organization</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Import usage</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Libraries structure and JSE packages</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-8" id="group-8" />
+<label for="group-8">Interfaces</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Definition</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Implementation</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Default methods</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Variables and interfaces</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-9" id="group-9" />
+<label for="group-9">Handling exceptions</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Hierarchy exceptions</p></li>
+				
+            
+                
+                
+                    
+					<li><p>try, catch and finally</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Multi catch exceptions</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Nested try blocks</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Throwing exceptions</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Custom exceptions</p></li>
+				
+            
+                
+                
+                    
+					<li><p>In and out in Java</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-10" id="group-10" />
+<label for="group-10">I/O Stream</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Byte streams: read and write</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Character streams: read and write</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Byte streams classes</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Character streams classes</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Read and write binary data</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Read and write using data random access file</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Read data with Scanner</p></li>
+				
+            
+                
+                
+                    
+					<li><p>try with resources</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-11" id="group-11" />
+<label for="group-11">Generic classes and collections</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Generic types</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Collections, types and operations</p></li>
+				
+            
+                
+                
+                    
+					<li><p>List</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Set</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Dictionaries</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Queue</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Comparable</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Comparator</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-12" id="group-12" />
+<label for="group-12">Multithreading</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Coding with multithreading</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Thread class and Runnable interface</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Subprocess life cycle</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Killing subprocess</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Synchronization</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Subprocesses comunication: notify, notifyAll and wait</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Terminate, restart and stop subprocesses</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-13" id="group-13" />
+<label for="group-13">Java 8</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Java time package</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Functional interfaces</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Lambda expresions</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Method references</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Constructor references</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Predefined functional interfaces</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Streams in Java 8</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-14" id="group-14" />
+<label for="group-14">Accesing data with JDBC</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Definition</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Architecture and API</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Drivers</p></li>
+				
+            
+                
+                
+                    
+					<li><p>SQLException</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Load controller</p></li>
+				
+            
+                
+                
+                    
+					<li><p>How to connect with data base</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Working with records</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Data types and casting</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Update, delete, insert records with SQL queries</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Metadata</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+		
+	</ul>
+</div>
+
+	<script src="/assets/js/vendor/jquery/jquery-3.3.1.min.js"></script>
+	<script src="/assets/js/accordion.js"></script>
+
+        </section>
+      </div>
+    </article>
+</div>
+:ET

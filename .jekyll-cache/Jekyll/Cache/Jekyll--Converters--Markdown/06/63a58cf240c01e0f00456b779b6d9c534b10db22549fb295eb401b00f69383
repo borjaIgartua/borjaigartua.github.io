@@ -1,0 +1,283 @@
+I"Å<div style="margin-top:30px;">
+
+
+<div class="feature__wrapper ">
+
+  
+
+    
+
+    <div class="feature__item--center">
+      <div class="archive__item">
+        
+
+        <div class="archive__item-body center">
+          
+
+          
+            <div class="archive__item-excerpt">
+              
+              <p>Software company exclusively focused on mobile developmnet, where I dedicated with passion and effort my first <strong>four years</strong> as mobile developer.</p>
+
+            </div>
+          
+
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+
+<div class="feature__wrapper ">
+
+  
+
+    
+
+    <div class="feature__item--left">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser teaser-small ">            
+            
+                            
+              
+              
+
+              
+              
+              
+                
+                <a href="/movilok/windows-phone/bbva-next">
+                
+                <img src="/assets/images/bbva-next-logo.jpg" alt="" class="multiple_row_image" />                
+                
+                </a>
+                
+                              
+
+            
+                            
+              
+              
+
+              
+              
+              
+                
+                <a href="/movilok/windows-phone/bbva-compass">
+                
+                <img src="/assets/images/bbva-compass-logo.jpg" alt="" class="multiple_row_image bottom" />                
+                
+                </a>
+                
+                              
+
+                        
+          </div>
+        
+
+        <div class="archive__item-body archive__item-body--left">
+          
+            <h1 class="archive__item-title splash_title">Windows Phone</h1>
+          
+
+          
+            <div class="archive__item-excerpt">
+              
+              <p>During my first years I was developing BBVA banking apps for Spain and USA on Windows Phone platform. At the end of this time I was in charge of all Windows Phone development at the company.</p>
+
+
+              
+                <div style="font-size:1.2em;">
+                  <p><a href="/movilok/windows-phone" class="btn btn--primary">Read More</a></p>
+                </div>
+              
+            </div>
+          
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+
+<div class="feature__wrapper ">
+
+  
+
+    
+
+    <div class="feature__item--right" style="margin-top: 5px;">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser teaser-medium ">            
+            
+                            
+              
+              
+
+              
+              
+              
+              <div class="image_row_container--1 multiple_row_image">
+              
+                
+                <a href="/movilok/ios/tweetmeter">
+                
+                <img src="/assets/images/twitter-logo.jpg" alt="" class="multiple_row_image" />                
+                
+                </a>
+                
+              </div>                
+
+            
+                            
+              
+              
+
+              
+              
+              
+              <div class="image_row_container--2 multiple_row_image">
+              
+                
+                <a href="/movilok/ios/bbva-next">
+                
+                <img src="/assets/images/bbva-next-logo.jpg" alt="" class="multiple_row_image" />                
+                
+                </a>
+                
+              </div>                
+
+            
+                            
+              
+              
+
+              
+              
+              
+              <div class="image_row_container--3 multiple_row_image">
+              
+                
+                <a href="/movilok/ios/bbva-compass">
+                
+                <img src="/assets/images/bbva-compass-logo.jpg" alt="" class="multiple_row_image" />                
+                
+                </a>
+                
+              </div>                
+
+            
+                            
+              
+              
+
+              
+              
+              
+              <div class="image_row_container--4 multiple_row_image">
+              
+                
+                <a href="/movilok/ios/bbva-netcash">
+                
+                <img src="/assets/images/bbva-netcash-logo.jpg" alt="" class="multiple_row_image" />                
+                
+                </a>
+                
+              </div>                
+
+                        
+          </div>
+        
+
+        <div class="archive__item-body archive__item-body--right">
+          
+            <h1 class="archive__item-title splash_title">iOS</h1>
+          
+
+          
+            <div class="archive__item-excerpt">
+              
+              <p>First steps as iOS developer. At the beginning it was just bug fixing but little by little I gained expertise and ended up developing complete projects for our banking apps.</p>
+
+
+              
+                <div style="font-size:1.2em;">
+                  <p><a href="/movilok/ios" class="btn btn--primary">Read More</a></p>
+                </div>
+              
+            </div>
+          
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+
+<div class="feature__wrapper ">
+
+  
+
+    
+
+    <div class="feature__item--left" style="margin-top: 5px;">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser teaser-medium ">            
+            
+                            
+              
+              
+
+              
+              
+              
+                
+                <a href="/movilok/ios/bbva-link">
+                
+                <img src="/assets/images/bbva-link-logo.jpg" alt="" class="multiple_row_image" />                
+                
+                </a>
+                
+                              
+
+                        
+          </div>
+        
+
+        <div class="archive__item-body archive__item-body--left">
+          
+            <h1 class="archive__item-title splash_title">BBVA Link</h1>
+          
+
+          
+            <div class="archive__item-excerpt">
+              
+              <p>This was my first big project. We were a team of four developers and I was in charge of the management of the team. We developed the project from scratch for Chile and later on for Mexico.</p>
+
+
+              
+                <div style="font-size:1.2em;">
+                  <p><a href="/movilok/ios/bbva-link" class="btn btn--primary">Read More</a></p>
+                </div>
+              
+            </div>
+          
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+</div>
+:ET

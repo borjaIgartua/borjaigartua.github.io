@@ -1,0 +1,601 @@
+I"°#<div id="main" role="main">
+    
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/assets/images/elasticsearch-logo.jpg" alt="" />
+      
+      <h3>
+          
+        Role
+      </h3>
+      
+        
+        <p>Trainer</p>
+
+      
+      
+    
+      
+      <h3>
+          
+        Level
+      </h3>
+      
+        
+        <p>Advance</p>
+
+      
+      
+    
+      
+      <h3>
+          
+        Go for
+      </h3>
+      
+        
+        <p>This course is for developers, Analists and system administrators</p>
+
+      
+      
+    
+    
+  
+  </div>
+
+    <article class="page" itemscope="" itemtype="https://schema.org/CreativeWork">
+      <meta itemprop="headline" content="Elasticsearch" />
+      <meta itemprop="description" content="" />
+      <div class="page__inner-wrap">
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Elasticsearch</h1>
+        </header>
+        <section class="page__content" itemprop="text">
+            <p>Elasticsearch is a distributed, RESTful search and analytics engine capable of solving a growing number of use cases. As the heart of the Elastic Stack, it centrally stores your data so you can discover the expected and uncover the unexpected.</p>
+            <p>The course aims at obtaining a solid background in searching and recovering information, from the foundations and internal components to all practices, characteristics and searching apps development distributed by Elasticsearch. By the end of the course the participant would have gathered a profound knowledge of you Elasticsearch works and would be able to analyse, understand and solve common problems. The participant would also be able to build searching apps.</p>
+          <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Topics</h3>     
+          
+<div class="accordion-content">	
+	<ul class="cd-accordion-menu has-children animated">
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-1" id="group-1" />
+<label for="group-1">Introduction</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Terminology</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Basic concepts</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Configuration and basic operations</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-2" id="group-2" />
+<label for="group-2">Distributed model</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Cluster in ElasticSearch</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Fragments and replica Shard</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Configuration</p></li>
+				
+            
+                
+                
+                    
+					<li><p>API and local access</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-3" id="group-3" />
+<label for="group-3">Multi Tenancy</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Multiple indexes</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Index aliases</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Index operations</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Handling data</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-4" id="group-4" />
+<label for="group-4">Elasticsearch Index</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Analisis</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Assignments</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Index operations</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Version controls</p></li>
+				
+            
+                
+                
+                    
+					<li><p>API Adjustments</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-5" id="group-5" />
+<label for="group-5">Searches</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>DSL Queries</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Sorting results</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Facests</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Search Types</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Highligting</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Routing and other search components</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-6" id="group-6" />
+<label for="group-6">Advanced search and mapings</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Nested documents</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Parent-Child relationship</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Geo-location</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Percolocator</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Relevance</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-7" id="group-7" />
+<label for="group-7">Advance distributed model</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Recover cluster state</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Low level replicas</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Recover fragments</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-8" id="group-8" />
+<label for="group-8">Design patters in Big Data</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Multiple indexes</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Cluster Reroute</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Routing with aliases</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Data architecture</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-9" id="group-9" />
+<label for="group-9">Getting ready for producction</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Performance Adjustments</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Data stream</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Memory assigment</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-10" id="group-10" />
+<label for="group-10">Run in producction</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Monitoring</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Alerts</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Statistics API</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-11" style="cursor:default;">Logstash</label>
+
+  
+    
+    
+    
+		<ul>
+            
+		</ul>
+	
+
+</div>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-12" style="cursor:default;">Kibana</label>
+
+  
+    
+    
+    
+		<ul>
+            
+		</ul>
+	
+
+</div>
+
+
+
+		
+		
+	</ul>
+</div>
+
+	<script src="/assets/js/vendor/jquery/jquery-3.3.1.min.js"></script>
+	<script src="/assets/js/accordion.js"></script>
+
+        </section>
+      </div>
+    </article>
+</div>
+:ET

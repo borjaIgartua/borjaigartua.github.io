@@ -1,0 +1,339 @@
+I"�<div id="main" role="main">
+    
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/assets/images/bdd-logo.jpg" alt="" />
+      
+      <h3>
+          
+        Role
+      </h3>
+      
+        
+        <p>Trainer</p>
+
+      
+      
+    
+      
+      <h3>
+          
+        Level
+      </h3>
+      
+        
+        <p>Advance</p>
+
+      
+      
+    
+    
+  
+  </div>
+
+    <article class="page" itemscope="" itemtype="https://schema.org/CreativeWork">
+      <meta itemprop="headline" content="Behavior Driven Development" />
+      <meta itemprop="description" content="" />
+      <div class="page__inner-wrap">
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Behavior Driven Development</h1>
+        </header>
+        <section class="page__content" itemprop="text">
+            <p>Behaviour Driven Development is a software development process which aims at combining the purely technical and business aspects so as to obtain a work scope and tests suite in which the business requisites take part in the development process.</p>
+            <p>BDD is a development of TDD (Test Driven Development). In fact, the concept BDD was initially introduced by Dan North as a solution to the problems that arose when teaching TDD.</p>
+            <p>As we have seen, DBB started as a system which substituted TDD applying these behavioural models and now it has become something more. According to its creator: “using examples at múltiple levels to create a shared understanding and surface uncertainty to deliver software that matters”.</p>
+          <h3 id="page-title" class="page__title" itemprop="headline" style="margin-bottom: 0.7em;">Topics</h3>     
+          
+<div class="accordion-content">	
+	<ul class="cd-accordion-menu has-children animated">
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-1" id="group-1" />
+<label for="group-1">Introduction</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>What is BDD?</p></li>
+				
+            
+                
+                
+                    
+					<li><p>BDD nowadays</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-2" id="group-2" />
+<label for="group-2">Requirements definition process on BDD</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>User Stories</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Three Amigos</p></li>
+				
+            
+                
+                
+                                      
+                    
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="sub-group-3" id="sub-group-3" />
+<label for="sub-group-3">Bussines goals: features</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Feature Injection</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Impact Mapping</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Purpose-Based Aligment Model</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-3" id="group-3" />
+<label for="group-3">Codification</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Scene automatization</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Cucumber</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Gherkin</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-4" style="cursor:default;">Improving the code</label>
+
+  
+    
+    
+    
+		<ul>
+            
+		</ul>
+	
+
+</div>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-5" id="group-5" />
+<label for="group-5">Acceptance test for user interface layer</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Acceptance test</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Selenium</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+			
+							
+			
+
+
+
+<div class="first-level">
+<label for="group-6" style="cursor:default;">Documents management</label>
+
+  
+    
+    
+    
+		<ul>
+            
+		</ul>
+	
+
+</div>
+
+
+
+		
+			
+							
+			
+
+
+
+<li class="has-children first-level">
+<input type="checkbox" name="group-7" id="group-7" />
+<label for="group-7">How to build on BDD</label>
+
+  
+    
+    
+    
+		<ul>
+            
+                
+                
+                    
+					<li><p>Continuos integration</p></li>
+				
+            
+                
+                
+                    
+					<li><p>Documentation</p></li>
+				
+            
+		</ul>
+	
+
+</li>
+
+
+
+		
+		
+	</ul>
+</div>
+
+	<script src="/assets/js/vendor/jquery/jquery-3.3.1.min.js"></script>
+	<script src="/assets/js/accordion.js"></script>
+
+        </section>
+      </div>
+    </article>
+</div>
+:ET

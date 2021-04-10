@@ -1,0 +1,58 @@
+I"â<div id="main" role="main">    
+      <meta itemprop="headline" content="BBVA ES" />
+      <meta itemprop="description" content="" />
+      <div class="page__inner-wrap" style="margin: 30px;">
+      <div class="project-container left">
+        <section class="page__content" itemprop="text">
+             
+
+
+
+<!--  -->
+
+<figure class="half remove_margin_top remove_margin_bottom">
+  
+    
+      <img class="gallery-image" src="/assets/screens/windows-phone/BMES/comprarValor.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/windows-phone/BMES/detalleCuenta.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/windows-phone/BMES/grafica.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/windows-phone/BMES/localizacionCajeros.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/windows-phone/BMES/PanoramaOperar.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/windows-phone/BMES/posicionglogal.png" alt="" />
+    
+  
+    
+      <img class="gallery-image" src="/assets/screens/windows-phone/BMES/recargaTelefono.png" alt="" />
+    
+  
+  
+</figure>
+         </section>
+      </div>
+      <div class="project-container right">        
+        <section class="page__content" itemprop="text">
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">BBVA ES</h1>
+        </header>
+            <p>The new BBVA ES Mobile Banking app is now fully bilingual (English/Spanish) and provides you a fast, easy and attractive way to manage your BBVA accounts, allowing you to transfer funds between accounts, display your balances, buy stocks, create a fund or manage your retirement plan. Furthermore you will find how to localize any ATM.</p>
+            <p>Application develop in Visual Studio for Window phone. I had been working developing the whole application.</p>
+        </section>         
+         </div>
+       </div>       
+</div>
+:ET
