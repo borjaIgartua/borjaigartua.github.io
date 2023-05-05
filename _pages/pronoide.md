@@ -87,7 +87,7 @@ others_row:
         image_path: /assets/images/java-logo.jpg
         url: /pronoide/more/java-development
         class: multiple_row_image bottom
-    title: More curses
+    title: More courses
     excerpt: 'Different courses that I had to teach for different reasons. C++, Java and Matlab with a total of **86 hours**'
     size: teaser-small
     url: "/pronoide/more"
